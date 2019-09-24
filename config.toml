@@ -49,3 +49,11 @@ publishDir = "docs"
         identifier = "blog"
         name = "Blog"
         url = "/"
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags"
+      [[languages.en.menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories"

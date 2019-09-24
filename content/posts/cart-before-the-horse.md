@@ -2,6 +2,8 @@
 title: "Cart Before Horse"
 date: 2019-09-22T12:12:59+01:00
 draft: true
+Categories: ["Random nonsense"]
+Tags: ["Blog"]
 ---
 <Header image to be added>
 
@@ -19,7 +21,7 @@ That might have been my first mistake.
 
 I built the site using [Jekyll](https://jekyllrb.com/ "Jekyll Website"), then spent ages getting the site to look and function just as I wanted it. I had _great fun doing this_ and ended up with a nice responsive site that looked pretty good (at least I thought so!).
 
-The problem was, I didn't have _anything to write_.
+The problem was, I didn't have _anything to write_. So after uploading the site, I updated it maybe twice, before leaving it sitting for _years_.
 
 Now, maybe I should clarify for those who don't know me - I'm a terrible introvert. That might actually be more of a surprise to those that _do know me_ actually, but the thought of people reading anything I've written fills me with anxiety.
 
