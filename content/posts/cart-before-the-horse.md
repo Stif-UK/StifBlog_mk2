@@ -12,7 +12,8 @@ So, this isn't the first website I've ever thrown together. Nor the first blog. 
 
 A few years ago (I'd love to say a couple, but I'm scared it's now _far more..._), I registered the domain [granthutchison.com](http://www.granthutchison.com "granthutchison.com"), not only because _vanity domains are cool_, but because I wanted to carve out a little corner of the internet to write and play.
 
-<in line image of old website, maybe on laptop screen?>
+{{< image src="/img/2019-09/oldsite.png" alt="old website landing page" position="center" style="border-radius: 8px;" >}}
+<sub>_What, so I like Orange..._</sub>
 
 That might have been my first mistake.
 

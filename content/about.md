@@ -4,9 +4,8 @@ date = "2019-09-22"
 author = "grant"
 +++
 
-
-![alt text](/images/Stif_Five_Round.png "High Five Br0!")
-## _Tester / Agilist / Mountain Biker / Geekdad_
+{{< image src="/img/Stif_Five_Round.png" alt="High five br0!" position="center" style="border-radius: 8px;" >}}
+## <p style="text-align: center;"> _Tester / Agilist / Mountain Biker / Geekdad_ </p>
 ___
 
 Hi, my name is Grant and I created this place so that I had somewhere to dump my thoughs on the internet.
