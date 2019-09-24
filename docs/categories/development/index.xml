@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on granthutchison</title>
+    <link>https://stif-uk.github.io/StifBlog_mk2/categories/development/</link>
+    <description>Recent content in Development on granthutchison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 24 Sep 2019 16:31:56 +0100</lastBuildDate>
+    
+	<atom:link href="https://stif-uk.github.io/StifBlog_mk2/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Workflow</title>
+      <link>https://stif-uk.github.io/StifBlog_mk2/posts/blog-workflow/</link>
+      <pubDate>Tue, 24 Sep 2019 16:31:56 +0100</pubDate>
+      
+      <guid>https://stif-uk.github.io/StifBlog_mk2/posts/blog-workflow/</guid>
+      <description> My blog workflow </description>
+    </item>
+    
+  </channel>
+</rss>
