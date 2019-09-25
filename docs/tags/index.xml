@@ -6,9 +6,19 @@
     <description>Recent content in Tags on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <lastBuildDate>Sun, 22 Sep 2019 12:12:59 +0100</lastBuildDate>
     
 	<atom:link href="https://stif-uk.github.io/StifBlog_mk2/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://stif-uk.github.io/StifBlog_mk2/tags/blog/</link>
+      <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
+      
+      <guid>https://stif-uk.github.io/StifBlog_mk2/tags/blog/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
