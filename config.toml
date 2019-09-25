@@ -1,4 +1,4 @@
-baseurl = "https://stif-uk.github.io/StifBlog_mk2/"
+baseurl = "https://stif-uk.github.io/StifBlog_mk2"
 languageCode = "en-GB"
 title = "StifBlog_mk2"
 theme = "hello-friend"
