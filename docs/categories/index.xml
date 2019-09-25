@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on granthutchison</title>
-    <link>https://stif-uk.github.io/StifBlog_mk2/categories/</link>
+    <link>granthutchison.com/categories/</link>
     <description>Recent content in Categories on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Sun, 22 Sep 2019 12:12:59 +0100</lastBuildDate>
     
-	<atom:link href="https://stif-uk.github.io/StifBlog_mk2/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="granthutchison.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Random nonsense</title>
-      <link>https://stif-uk.github.io/StifBlog_mk2/categories/random-nonsense/</link>
+      <link>granthutchison.com/categories/random-nonsense/</link>
       <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
       
-      <guid>https://stif-uk.github.io/StifBlog_mk2/categories/random-nonsense/</guid>
+      <guid>granthutchison.com/categories/random-nonsense/</guid>
       <description></description>
     </item>
     
