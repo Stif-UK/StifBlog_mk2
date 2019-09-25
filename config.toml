@@ -4,6 +4,7 @@ title = "StifBlog_mk2"
 theme = "hello-friend"
 paginate = 5
 publishDir = "docs"
+googleAnalytics = "UA-148818946-1"
 
 
 [params]
