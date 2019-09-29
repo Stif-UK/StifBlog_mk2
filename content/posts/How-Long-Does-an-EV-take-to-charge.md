@@ -4,6 +4,7 @@ date: 2019-09-28T01:39:02+01:00
 draft: false
 Categories: ["Electric cars"]
 Tags: ["Electric Cars", "Tech"]
+cover: "/img/2019-09/Fuelguage.png"
 ---
 
 ## How long does an electric car take to charge?
