@@ -23,6 +23,16 @@ The answer though is &amp;ldquo;it depends&amp;hellip;&amp;rdquo;, quickly follo
     </item>
     
     <item>
+      <title>Blog Workflow</title>
+      <link>/posts/blog-workflow/</link>
+      <pubDate>Tue, 24 Sep 2019 16:31:56 +0100</pubDate>
+      
+      <guid>/posts/blog-workflow/</guid>
+      <description>My blog workflow So, I&amp;rsquo;m writing this post as much for my own benefit as anyone else&amp;rsquo;s. The last time I tried to build a blog I left it alone for a while and when I came back to it I&amp;rsquo;d forgotten the steps to build it&amp;hellip; If this is of benefit to anyone else though, great!
+I&amp;rsquo;ve put this blog together using Hugo, a static site generator. What does that mean?</description>
+    </item>
+    
+    <item>
       <title>Cart Before Horse</title>
       <link>/posts/cart-before-the-horse/</link>
       <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
