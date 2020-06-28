@@ -6,10 +6,28 @@
     <description>Recent content in Categories on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sun, 28 Jun 2020 00:27:21 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 01:30:23 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mountain Biking</title>
+      <link>/categories/mountain-biking/</link>
+      <pubDate>Sun, 28 Jun 2020 01:30:23 +0100</pubDate>
+      
+      <guid>/categories/mountain-biking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product reviews</title>
+      <link>/categories/product-reviews/</link>
+      <pubDate>Sun, 28 Jun 2020 01:30:23 +0100</pubDate>
+      
+      <guid>/categories/product-reviews/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development</title>
