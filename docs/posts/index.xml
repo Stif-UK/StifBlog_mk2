@@ -6,10 +6,22 @@
     <description>Recent content in Posts on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 01 Nov 2019 16:51:38 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:27:21 +0100</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>App Privacy Policy</title>
+      <link>/posts/app-privacy-policy/</link>
+      <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
+      
+      <guid>/posts/app-privacy-policy/</guid>
+      <description>This post contains the Privacy Policy generated for the Rebound MTB app, developed in collaboration with Rebound SCIO
+Privacy Policy
+Rebound SCIO built the Rebound MTB app as an Open Source app. This SERVICE is provided by Rebound SCIO at no cost and is intended for use as is.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</description>
+    </item>
     
     <item>
       <title>5 Things to Do While Your Electric Car Charges</title>

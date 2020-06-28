@@ -6,10 +6,19 @@
     <description>Recent content in Categories on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 01 Nov 2019 16:51:38 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:27:21 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development</title>
+      <link>/categories/development/</link>
+      <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
+      
+      <guid>/categories/development/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Electric cars</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
       
       <guid>/categories/electric-cars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>/categories/development/</link>
-      <pubDate>Tue, 24 Sep 2019 16:31:56 +0100</pubDate>
-      
-      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
