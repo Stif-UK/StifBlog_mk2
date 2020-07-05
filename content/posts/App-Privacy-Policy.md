@@ -4,7 +4,6 @@ date: 2020-06-28T00:27:21+01:00
 draft: false
 Categories: ["Development"]
 Tags: ["Privacy", "App Development"]
-cover: "/img/Stif_Five_Round.png"
 ---
 
 _This post contains the Privacy Policy generated for the Rebound MTB app, developed in collaboration with Rebound SCIO_

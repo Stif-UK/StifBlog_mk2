@@ -1,7 +1,7 @@
 ---
 title: "Wolf Tooth Bling Kit Review"
 date: 2020-06-28T01:30:23+01:00
-draft: true
+draft: false
 Categories: ["Product reviews","Mountain Biking"]
 Tags: ["Review", "Lockdown Upgrades", "Bike Bling", "MTB"]
 cover: "/img/2020-06/WT_Bling_Kit_official.jpg"
