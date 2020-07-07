@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on granthutchison</title>
-    <link>/categories/development/</link>
+    <link>granthutchison.com/categories/development/</link>
     <description>Recent content in Development on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Sun, 28 Jun 2020 00:27:21 +0100</lastBuildDate>
     
-	<atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="granthutchison.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>App Privacy Policy</title>
-      <link>/posts/app-privacy-policy/</link>
+      <link>granthutchison.com/posts/app-privacy-policy/</link>
       <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
       
-      <guid>/posts/app-privacy-policy/</guid>
+      <guid>granthutchison.com/posts/app-privacy-policy/</guid>
       <description>This post contains the Privacy Policy generated for the Rebound MTB app, developed in collaboration with Rebound SCIO
 Privacy Policy
 Rebound SCIO built the Rebound MTB app as an Open Source app. This SERVICE is provided by Rebound SCIO at no cost and is intended for use as is.
@@ -25,10 +25,10 @@ This page is used to inform visitors regarding our policies with the collection,
     
     <item>
       <title>Blog Workflow</title>
-      <link>/posts/blog-workflow/</link>
+      <link>granthutchison.com/posts/blog-workflow/</link>
       <pubDate>Tue, 24 Sep 2019 16:31:56 +0100</pubDate>
       
-      <guid>/posts/blog-workflow/</guid>
+      <guid>granthutchison.com/posts/blog-workflow/</guid>
       <description>My blog workflow So, I&amp;rsquo;m writing this post as much for my own benefit as anyone else&amp;rsquo;s. The last time I tried to build a blog I left it alone for a while and when I came back to it I&amp;rsquo;d forgotten the steps to build it&amp;hellip; If this is of benefit to anyone else though, great!
 I&amp;rsquo;ve put this blog together using Hugo, a static site generator. What does that mean?</description>
     </item>
