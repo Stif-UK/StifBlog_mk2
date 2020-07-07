@@ -3,6 +3,7 @@ title: "App Privacy Policy"
 date: 2020-06-28T00:27:21+01:00
 draft: false
 Categories: ["Development"]
+socialshare: false
 Tags: ["Privacy", "App Development"]
 ---
 
