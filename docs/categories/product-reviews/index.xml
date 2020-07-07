@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Product Reviews on granthutchison</title>
-    <link>granthutchison.com/categories/product-reviews/</link>
-    <description>Recent content in Product Reviews on granthutchison</description>
+    <title>Product reviews on granthutchison</title>
+    <link>/categories/product-reviews/</link>
+    <description>Recent content in Product reviews on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Sun, 05 Jul 2020 01:09:12 +0100</lastBuildDate>
     
-	<atom:link href="granthutchison.com/categories/product-reviews/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/product-reviews/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Muc-Off Tubeless Valves Review</title>
-      <link>granthutchison.com/posts/muc-off-tubless-valves-review/</link>
+      <link>/posts/muc-off-tubless-valves-review/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
       
-      <guid>granthutchison.com/posts/muc-off-tubless-valves-review/</guid>
+      <guid>/posts/muc-off-tubless-valves-review/</guid>
       <description>MTB Lockdown upgrades part 2: Muc-Off Tubeless Valves Review My lockdown quest to add more shiny, orange bits to my main mountain bike continues! This time, I&amp;rsquo;m adding a little more bling, but with arguably a bit more functional value thrown in compared to the Wolf Tooth Blink Kit that I reviewed in my first #LockdownUpgrades post.
 Ladies and gentlemen, I present to you, Muc-Off Tubeless Valves:
  Valves: Muc-Off; Fingers: Models own</description>
@@ -24,10 +24,10 @@ Ladies and gentlemen, I present to you, Muc-Off Tubeless Valves:
     
     <item>
       <title>Wolf Tooth Bling Kit Review</title>
-      <link>granthutchison.com/posts/wolf-tooth-bling-kit/</link>
+      <link>/posts/wolf-tooth-bling-kit/</link>
       <pubDate>Sun, 28 Jun 2020 01:30:23 +0100</pubDate>
       
-      <guid>granthutchison.com/posts/wolf-tooth-bling-kit/</guid>
+      <guid>/posts/wolf-tooth-bling-kit/</guid>
       <description>MTB Lockdown upgrades part 1: The Wolf Tooth Bling Kit Like many parts of the world, the global Covid-19 pandemic has lead to a period of lockdown in Scotland, which has resulted in me transitioning to working from home, whilst also home-schooling my kids and unable to get out properly on my mountain bike (I say &amp;lsquo;properly&amp;rsquo; as I have no decent trails near me - I am however getting out whenever I can just to spin the wheels with my boys, but I&amp;rsquo;ve been entirely unable to send it).</description>
     </item>
     

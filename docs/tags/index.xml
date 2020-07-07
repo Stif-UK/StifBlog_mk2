@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on granthutchison</title>
-    <link>granthutchison.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Sun, 05 Jul 2020 01:09:12 +0100</lastBuildDate>
     
-	<atom:link href="granthutchison.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bike Bling</title>
-      <link>granthutchison.com/tags/bike-bling/</link>
+      <link>/tags/bike-bling/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
       
-      <guid>granthutchison.com/tags/bike-bling/</guid>
+      <guid>/tags/bike-bling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lockdown Upgrades</title>
-      <link>granthutchison.com/tags/lockdown-upgrades/</link>
+      <link>/tags/lockdown-upgrades/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
       
-      <guid>granthutchison.com/tags/lockdown-upgrades/</guid>
+      <guid>/tags/lockdown-upgrades/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MTB</title>
-      <link>granthutchison.com/tags/mtb/</link>
+      <link>/tags/mtb/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
       
-      <guid>granthutchison.com/tags/mtb/</guid>
+      <guid>/tags/mtb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review</title>
-      <link>granthutchison.com/tags/review/</link>
+      <link>/tags/review/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
       
-      <guid>granthutchison.com/tags/review/</guid>
+      <guid>/tags/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>App Development</title>
-      <link>granthutchison.com/tags/app-development/</link>
+      <link>/tags/app-development/</link>
       <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
       
-      <guid>granthutchison.com/tags/app-development/</guid>
+      <guid>/tags/app-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>granthutchison.com/tags/privacy/</link>
+      <link>/tags/privacy/</link>
       <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
       
-      <guid>granthutchison.com/tags/privacy/</guid>
+      <guid>/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electric Cars</title>
-      <link>granthutchison.com/tags/electric-cars/</link>
+      <link>/tags/electric-cars/</link>
       <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
       
-      <guid>granthutchison.com/tags/electric-cars/</guid>
+      <guid>/tags/electric-cars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>granthutchison.com/tags/tech/</link>
+      <link>/tags/tech/</link>
       <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
       
-      <guid>granthutchison.com/tags/tech/</guid>
+      <guid>/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>granthutchison.com/tags/blog/</link>
+      <link>/tags/blog/</link>
       <pubDate>Tue, 24 Sep 2019 16:31:56 +0100</pubDate>
       
-      <guid>granthutchison.com/tags/blog/</guid>
+      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     

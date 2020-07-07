@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on granthutchison</title>
-    <link>granthutchison.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Sun, 05 Jul 2020 01:09:12 +0100</lastBuildDate>
     
-	<atom:link href="granthutchison.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mountain Biking</title>
-      <link>granthutchison.com/categories/mountain-biking/</link>
+      <link>/categories/mountain-biking/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
       
-      <guid>granthutchison.com/categories/mountain-biking/</guid>
+      <guid>/categories/mountain-biking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Product Reviews</title>
-      <link>granthutchison.com/categories/product-reviews/</link>
+      <title>Product reviews</title>
+      <link>/categories/product-reviews/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
       
-      <guid>granthutchison.com/categories/product-reviews/</guid>
+      <guid>/categories/product-reviews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>granthutchison.com/categories/development/</link>
+      <link>/categories/development/</link>
       <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
       
-      <guid>granthutchison.com/categories/development/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electric cars</title>
-      <link>granthutchison.com/categories/electric-cars/</link>
+      <link>/categories/electric-cars/</link>
       <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
       
-      <guid>granthutchison.com/categories/electric-cars/</guid>
+      <guid>/categories/electric-cars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random nonsense</title>
-      <link>granthutchison.com/categories/random-nonsense/</link>
+      <link>/categories/random-nonsense/</link>
       <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
       
-      <guid>granthutchison.com/categories/random-nonsense/</guid>
+      <guid>/categories/random-nonsense/</guid>
       <description></description>
     </item>
     
