@@ -4,7 +4,6 @@ date: 2020-07-05T01:09:12+01:00
 draft: false
 Categories: ['Mountain Biking', 'Product Reviews']
 Tags: ['Bike Bling', 'Lockdown Upgrades', 'MTB', 'Review']
-socialshare: true
 cover: "/img/2020-07/muc-off-pack-cover.jpg"
 ---
 
