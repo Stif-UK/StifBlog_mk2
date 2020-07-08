@@ -4,6 +4,7 @@ date: 2020-06-28T01:30:23+01:00
 draft: false
 Categories: ["Product reviews","Mountain Biking"]
 Tags: ["Review", "Lockdown Upgrades", "Bike Bling", "MTB"]
+socialshare: true
 cover: "/img/2020-06/WT_Bling_Kit_official.jpg"
 ---
 

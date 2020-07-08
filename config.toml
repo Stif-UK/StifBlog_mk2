@@ -6,7 +6,6 @@ paginate = 5
 publishDir = "docs"
 googleAnalytics = "UA-148818946-1"
 
-
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
@@ -15,7 +14,14 @@ googleAnalytics = "UA-148818946-1"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # Show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true
+
+  [Params.social.share]
+    facebook = true
+    linkedin = true
+    twitter = true
+    whatsapp = false
+    email = false
 
 [languages]
   [languages.en]
