@@ -48,7 +48,7 @@ With the general efficiency of my car I know that on the 3 types of charger ment
 * Fast charge - _+25 miles of range per hour plugged in_
 * Rapid charge - _+100 miles of range per hour plugged in_
 
-So, to put this in perspective, 99% of my journeys see me going less than 50 miles from home. On journeys on the boundary of that, if I can plug my car into a public Fast charger for just an hour, I'm comfortable. Likewise if I'm just having a day with _a lot_ of local driving, just plugging in for an hour at home is usually more than enough to give me the extra _juice_ I need.
+So, to put this in perspective, 99% of my journeys see me going less than 50 miles from home. On journeys on the boundary of that, if I can plug my car into a public Fast charger for just an hour, I'm comfortable. Likewise if I'm just having a day with _a lot_ of local driving, just plugging in for an hour at home, or whilst shopping, is usually more than enough to give me the extra _juice_ I need.
 
 On long journeys I'll take a bit of time to plan ahead, planning routes that stop at Rapid chargers (with back-ups in the plan incase the primary one isn't available) such that I'm stopping at a charger around the time I'd want to be eating anyway - you'd be surprised how quickly half an hour can vanish! _(I've been in the situation where I've plugged the car in, and by the time I've walked to a coffee shop and been served my car is close to full)_.
 

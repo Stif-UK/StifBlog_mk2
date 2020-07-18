@@ -1,5 +1,5 @@
 ---
-title: "5 Things to Do While Your Electric Car Charges"
+title: "7 Things to Do While Your Electric Car Charges"
 date: 2019-11-01T16:51:38+01:00
 draft: false
 Categories: ["Electric cars"]
