@@ -3,7 +3,7 @@ title: "Wristcheck App"
 date: 2022-09-08T00:31:55+01:00
 draft: false
 socialshare: true
-Categories: [Development', 'Watches', 'WristCheck App']
+Categories: ['Development', 'Watches', 'WristCheck App']
 Tags: ['App Development', 'Watches', 'Tech']
 cover: "/img/2022-09/WristCheckCover.png"
 ---
