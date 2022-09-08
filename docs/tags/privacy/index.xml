@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy on granthutchison</title>
+    
+    
+    
     <link>/tags/privacy/</link>
     <description>Recent content in Privacy on granthutchison</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -18,10 +21,21 @@
       <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
       
       <guid>/posts/app-privacy-policy/</guid>
-      <description>This post contains the Privacy Policy generated for the Rebound MTB app, developed in collaboration with Rebound SCIO
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This post contains the Privacy Policy generated for the Rebound MTB app, developed in collaboration with Rebound SCIO
 Privacy Policy
 Rebound SCIO built the Rebound MTB app as an Open Source app. This SERVICE is provided by Rebound SCIO at no cost and is intended for use as is.
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</description>
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+          
+        
+        </description>
     </item>
     
   </channel>

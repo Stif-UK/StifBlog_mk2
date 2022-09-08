@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watches on granthutchison</title>
+    
+    
+    
+    <link>/categories/watches/</link>
+    <description>Recent content in Watches on granthutchison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>©2019 - 2020 Grant Hutchison: CC BY-SA 4.0 </copyright>
+    <lastBuildDate>Thu, 08 Sep 2022 00:31:55 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/watches/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wristcheck App</title>
+      <link>/posts/wristcheck-app/</link>
+      <pubDate>Thu, 08 Sep 2022 00:31:55 +0100</pubDate>
+      
+      <guid>/posts/wristcheck-app/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/2022-09/WristCheckCover.png&#34;/&gt;
+          
+        
+        
+        
+          WristCheck App # Version 1.0.0 is live! # I&amp;rsquo;m pleased to announce that I&amp;rsquo;ve just released my first fully released app on both Android and iOS! (If you&amp;rsquo;re browsing around you may see I have previously posted about the ReboundMTB app, however this was never fully released!).
+What is WristCheck? # WristCheck is a digital watch box, so if you&amp;rsquo;re both a) a watch collector, and b) a nerd, then this post might interest you!
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
