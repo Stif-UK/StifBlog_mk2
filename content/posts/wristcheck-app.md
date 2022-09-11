@@ -60,7 +60,7 @@ With real-time search you can very quickly filter your collection down to the wa
 
 ### What next?
 
-I'm really proud of what I've managed to put together for WristCheck v1.0.0, but I'm not done yet - I've got additional enhancements already on the way and intent to continue to build on these foundations for some time to come.
+I'm really proud of what I've managed to put together for WristCheck v1.0.0, but I'm not done yet - I've got additional enhancements already on the way and intent to continue to build on these foundations for some time to come - I'll expand on this in future posts!
 
 So what do you think? If you've found this page and want to download WristCheck on your phone you can find it at the below app store links.
 
