@@ -1,0 +1,4 @@
+<!--- Only enable cookies for production BAS 2020-07-15 --->
+{{ if hugo.IsProduction }}
+{{ partial "cookie-notice.html" }}
+{{ end }}
