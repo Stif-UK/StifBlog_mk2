@@ -1,5 +1,5 @@
 ---
-title: "Wristcheck_privacy_policy"
+title: "Wristcheck Privacy Policy"
 date: 2022-09-08T13:11:09+01:00
 draft: false
 socialshare: true
