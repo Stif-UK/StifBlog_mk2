@@ -1,26 +1,30 @@
 +++
 title = "About"
-date = "2019-09-22"
+date = "2022-09-13"
 author = "grant"
 +++
 
-{{< image src="/img/Stif_Five_Round.png" alt="High five br0!" position="center" style="border-radius: 8px;" >}}
-## <p style="text-align: center;"> _Tester / Agilist / Mountain Biker / Geekdad_ </p>
+{{< image src="/img/Stif_Five_Round.png" alt="High five br0!" position="left" style="border-radius: 8px;" >}}
+
+### _Scrum Master // Developer // GeekDad_
 ___
 
-Hi, my name is Grant and I created this place so that I had somewhere to dump my thoughs on the internet.
+Hi, my name is **Grant** and I created this place so that I had somewhere to dump my thoughts and share my projects on the internet.
 
-I currently work as an Agile feature team lead for a UK bank, leading a team delivering _modern digital banking solutions_ (or _something_) but as anyone who's ever described themselves as a _"Testing Professional"_ will know, I'll always be a _Tester_ at heart.
+By day I'm a _Scrum Master_ at a large UK bank, helping to transform our business and digital delivery to be more _Agile._
 
 I love the work that I do and the people that I do it with - as with many who work with Agile methodologies I'm passionate about working _smarter_ to deliver better outcomes faster for our users and stakeholders.
 
-I've also been studying Software Engineering/Computer Science with
-[the Open University](https://www.open.ac.uk "The Open University") for a _looooong_ time now, and love tinkering and playing with code - it's been a while since I've done much in this space though, so kicking off a fresh blog will hopefully give me a place to talk about as well as something _and somewhere_ to do some playing.
+In 2020 I also completed my bachelors degree in _Software Engineering_ with
+[the Open University](https://www.open.ac.uk "The Open University").
+I love tinkering and playing with code - once upon a time I had hoped to become a mobile app developer, however it turned out my skills were best utilised helping development teams work better and protect them from all the outside noise of a large organisation. So instead I like to mess around with this stuff in my free time.
 
-_Testing, Agile, Technology, Development & Mountain Biking:_ The only thing I'm more passionate about is my two young sons, but I'm less inclined to use this space to talk about them. The other subjects though? Yeah, I'd like to try to use this space to put some thoughts on paper (or _into the ether..._), as much for my own benefit as anyone elses. If you like what I write, please let me know!
+This site gives me a chance to showcase some of these projects as well as gives a home to allow me to host some of those necessary bits of paperwork such as privacy policies etc _(app development would be much more fun without all the paperwork!)_
+
+
 
 
 
 
 ___
-<sub> Obligatory _all thoughts and writings here are my own_ caveat (my employer knows _nothing_ about Mountain Bikes...) </sub>
+<sub> Obligatory **_all thoughts and writings here are my own_** caveat (my employer knows _nothing_ about Mountain Bikes...) </sub>
