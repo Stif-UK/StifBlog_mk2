@@ -10,10 +10,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Thu, 08 Sep 2022 13:11:09 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>granthutchison.com Privacy Policy</title>
+      <link>/privacy/website_privacy_policy/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/privacy/website_privacy_policy/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Summary: This is a template generated privacy policy, but to summarise, on the site I have implemented Google Analytics to understand site usage, as well as Google Adsense to allow me to generate a tiny income to go towards domain costs. I don&amp;rsquo;t track any user information, but cookies from these services do. I encourage you to also review the privacy policies associated with these services.
+Privacy Policy of granthutchison.com # Grant Hutchison operates the granthutchison.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -39,10 +60,10 @@ I love the work that I do and the people that I do it with - as with many who wo
     
     <item>
       <title>Wristcheck Privacy Policy</title>
-      <link>/posts/wristcheck_privacy_policy/</link>
+      <link>/privacy/wristcheck_privacy_policy/</link>
       <pubDate>Thu, 08 Sep 2022 13:11:09 +0100</pubDate>
       
-      <guid>/posts/wristcheck_privacy_policy/</guid>
+      <guid>/privacy/wristcheck_privacy_policy/</guid>
       <description>
         
           
@@ -141,11 +162,11 @@ Valves: Muc-Off; Fingers: Models own What do they do?
     </item>
     
     <item>
-      <title>App Privacy Policy</title>
-      <link>/posts/app-privacy-policy/</link>
+      <title>Rebound App Privacy Policy</title>
+      <link>/privacy/app-privacy-policy/</link>
       <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
       
-      <guid>/posts/app-privacy-policy/</guid>
+      <guid>/privacy/app-privacy-policy/</guid>
       <description>
         
           

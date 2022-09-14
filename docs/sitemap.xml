@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/privacy/website_privacy_policy/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/privacy/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/privacy/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,26 +29,17 @@
     <loc>/categories/development/</loc>
     <lastmod>2022-09-08T13:11:09+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-09-08T13:11:09+01:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-09-08T13:11:09+01:00</lastmod>
-  </url><url>
-    <loc>/tags/privacy/</loc>
-    <lastmod>2022-09-08T13:11:09+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-09-08T13:11:09+01:00</lastmod>
-  </url><url>
     <loc>/categories/watches/</loc>
     <lastmod>2022-09-08T13:11:09+01:00</lastmod>
   </url><url>
     <loc>/categories/wristcheck-app/</loc>
     <lastmod>2022-09-08T13:11:09+01:00</lastmod>
   </url><url>
-    <loc>/posts/wristcheck_privacy_policy/</loc>
+    <loc>/privacy/wristcheck_privacy_policy/</loc>
     <lastmod>2022-09-08T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-09-08T00:31:55+01:00</lastmod>
   </url><url>
     <loc>/tags/tech/</loc>
     <lastmod>2022-09-08T00:31:55+01:00</lastmod>
@@ -74,7 +80,7 @@
     <loc>/posts/wolf-tooth-bling-kit/</loc>
     <lastmod>2020-06-28T01:30:23+01:00</lastmod>
   </url><url>
-    <loc>/posts/app-privacy-policy/</loc>
+    <loc>/privacy/app-privacy-policy/</loc>
     <lastmod>2020-06-28T00:27:21+01:00</lastmod>
   </url><url>
     <loc>/posts/5-things-to-do-while-your-electric-car-charges/</loc>
