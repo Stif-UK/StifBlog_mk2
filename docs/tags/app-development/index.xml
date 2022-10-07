@@ -10,10 +10,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 09:39:57 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2022 10:32:34 +0100</lastBuildDate>
     
 	<atom:link href="/tags/app-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wristcheck v1.2</title>
+      <link>/posts/wristcheck_v1.2/</link>
+      <pubDate>Fri, 07 Oct 2022 10:32:34 +0100</pubDate>
+      
+      <guid>/posts/wristcheck_v1.2/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/2022-10/reminder.png&#34;/&gt;
+          
+        
+        
+        
+          WristCheck v1.2 is live! # So, fairly hot on the heels of my last post, there&amp;rsquo;s another update to WristCheck landing in the app stores imminently (as I write it&amp;rsquo;s already live on Android, and should hit iOS early next week).
+So, what&amp;rsquo;s new this time?
+Ads! # Yep, I originally said these would be in v1.1, but I wanted to make sure backup/restore and notifications could be properly tested, so I pushed out v1.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Wristcheck v1.1 Preview</title>
