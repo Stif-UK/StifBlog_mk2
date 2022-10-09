@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WristCheck Guides &amp; FAQs on granthutchison</title>
+    
+    
+    
+    <link>/categories/wristcheck-guides-faqs/</link>
+    <description>Recent content in WristCheck Guides &amp; FAQs on granthutchison</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
+    <lastBuildDate>Sat, 08 Oct 2022 18:57:09 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/wristcheck-guides-faqs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wristcheck 101: A guide for new users</title>
+      <link>/posts/wristcheck_101_a_guide_for_new_users/</link>
+      <pubDate>Sat, 08 Oct 2022 18:57:09 +0100</pubDate>
+      
+      <guid>/posts/wristcheck_101_a_guide_for_new_users/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          WristCheck 101: Getting started with WristCheck # WristCheck has been out in the wild for a little over a month now, and as I&amp;rsquo;ve mentioned before I&amp;rsquo;ve got plans to continually add more functionality to the app and keep it supported for a good while (free time permitting of course!)
+Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professional UX designer - I&amp;rsquo;ve just built an app to the best of my abilities that performs some functions that I want access to (and on the way added some things based on user feedback) - so the app has a few bugs and might not be as straight-forward to navigate as I think it is&amp;hellip;
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
