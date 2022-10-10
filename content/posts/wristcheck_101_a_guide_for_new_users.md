@@ -5,7 +5,9 @@ draft: false
 socialshare: true
 Categories: ['Development', 'Watches', 'WristCheck App', 'WristCheck Guides & FAQs']
 Tags: ['App Development', 'Watches', 'Tech']
+cover: "/img/2022-10/wristcheck_101/confused-bearded-guy-shrugging-can-t-understand-how-use-mobile-phone-app.jpg"
 ---
+
 
 ## WristCheck 101: Getting started with WristCheck
 ---
@@ -95,3 +97,16 @@ When a daily reminder is set it will firstly ask for permission to send notifica
 The daily reminder defaults to 8am every day, however this can be changed to 12pm, 6pm or a custom time can be selected via a time picker - once set the reminder will generate at the same time every day - the time selected can be checked or amended at any time by navigating back to this page.
 
 ![Daily Reminder image](/img/2022-10/wristcheck_101/DailyReminder.png)
+
+---
+
+### Want to read more?
+
+I'll end this here, this should give enough of a kick-start to get watches into the app and start recording data daily.
+
+I'll follow up with some further posts about how to add historic data, setup service schedules and how to backup and restore the watch database.
+
+If you'd like to read more posts about the WristCheck App, you can see all posts under that category on this site [by clicking here](/categories/wristcheck-app/)
+
+
+_Cover image credit: [Image by cookie_studio on Freepik](https://www.freepik.com/free-photo/confused-bearded-guy-shrugging-can-t-understand-how-use-mobile-phone-app_9583792.htm#query=how%20to&position=9&from_view=search&track=sph)_
