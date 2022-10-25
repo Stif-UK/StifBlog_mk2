@@ -4,7 +4,7 @@ date: 2022-10-07T10:32:34+01:00
 draft: false
 socialshare: true
 Categories: ['Development', 'Watches', 'WristCheck App']
-Tags: ['App Development', 'Watches', 'Tech']
+Tags: ['App Development', 'Watches', 'Tech', 'Release Notes']
 cover: "/img/2022-10/reminder.png"
 ---
 
