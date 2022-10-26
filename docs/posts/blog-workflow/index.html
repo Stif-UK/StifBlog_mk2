@@ -221,7 +221,7 @@ I&rsquo;ve put this blog together using Hugo, a static site generator. What does
 <p>I then use git to version control it and push changes to a remote <a href="https://github.com" title="github.com">github</a> repository (<a href="https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line">like this</a>), and make use of <a href="https://pages.github.com/" title="github pages"><em>github pages</em></a> to host the site (with my domain pointed to github per <a href="https://help.github.com/en/articles/using-a-custom-domain-with-github-pages" title="Using a custom domain with github pages">these instructions</a> ).</p>
 <p>So, that&rsquo;s the background, but how do I go about generating and uploading a post.
 Well, I do 90% of that via Terminal <em>because it&rsquo;s cool</em>.</p>
-<p><!-- raw HTML omitted --><em>I assume this would be virtually identical on a Windows machine via Command Prompt, I&rsquo;ll give it a go at some point.</em> <!-- raw HTML omitted --></p>
+<p><sub><em>I assume this would be virtually identical on a Windows machine via Command Prompt, I&rsquo;ll give it a go at some point.</em> </sub></p>
 <hr>
 <h4 id="creating-the-post">
   Creating the post
@@ -238,7 +238,7 @@ Well, I do 90% of that via Terminal <em>because it&rsquo;s cool</em>.</p>
 <li>
 <p>Open the generated file in Atom (the program I use to write and edit markdown, amongst other things)<br>
 <code>open -a &quot;Atom&quot; stifblog_mk2/content/posts/post_name.md</code></p>
-<p><!-- raw HTML omitted --> <em>Note: The &ldquo;a &ldquo;Atom&rdquo;&rdquo; part of this is only required as my Macbook seems determined to only let me edit markdown posts in Xcode, despite Atom being set as the default&hellip;</em> <!-- raw HTML omitted --></p>
+<p><sub> <em>Note: The &ldquo;a &ldquo;Atom&rdquo;&rdquo; part of this is only required as my Macbook seems determined to only let me edit markdown posts in Xcode, despite Atom being set as the default&hellip;</em> </sub></p>
 </li>
 <li>
 <p>Edit the front matter of the post to add any categories or tags that I want to associate with the post (<em>I often actually do this last</em>).</p>
@@ -266,7 +266,7 @@ The <em>&rsquo;-D&rsquo;</em> suffix tells Hugo that I want to see posts that ar
 <li>
 <p>First, I like to check that the only deviations from what&rsquo;s on github are those I just made<br>
 <code>git status</code><br>
-<!-- raw HTML omitted --><em>I do this at the start if I am, or have been,  working on a different machine.</em> <!-- raw HTML omitted --></p>
+<sub><em>I do this at the start if I am, or have been,  working on a different machine.</em> </sub></p>
 </li>
 <li>
 <p>Stage <strong>all</strong> of the changed files<br>
