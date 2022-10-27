@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/app-development/</loc>
-    <lastmod>2022-10-25T15:44:33+01:00</lastmod>
+    <loc>/tags/board-games/</loc>
+    <lastmod>2022-10-27T17:45:53+01:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
+    <lastmod>2022-10-27T17:45:53+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-10-27T17:45:53+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-10-27T17:45:53+01:00</lastmod>
+  </url><url>
+    <loc>/tags/review/</loc>
+    <lastmod>2022-10-27T17:45:53+01:00</lastmod>
+  </url><url>
+    <loc>/tags/tabletop/</loc>
+    <lastmod>2022-10-27T17:45:53+01:00</lastmod>
+  </url><url>
+    <loc>/categories/tabletop/</loc>
+    <lastmod>2022-10-27T17:45:53+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-10-27T17:45:53+01:00</lastmod>
+  </url><url>
+    <loc>/posts/zombie-dice-review/</loc>
+    <lastmod>2022-10-27T17:45:53+01:00</lastmod>
+  </url><url>
+    <loc>/tags/app-development/</loc>
     <lastmod>2022-10-25T15:44:33+01:00</lastmod>
   </url><url>
     <loc>/categories/development/</loc>
     <lastmod>2022-10-25T15:44:33+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-10-25T15:44:33+01:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-10-25T15:44:33+01:00</lastmod>
-  </url><url>
     <loc>/tags/release-notes/</loc>
-    <lastmod>2022-10-25T15:44:33+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-10-25T15:44:33+01:00</lastmod>
   </url><url>
     <loc>/tags/tech/</loc>
@@ -107,9 +122,6 @@
     <loc>/categories/product-reviews/</loc>
     <lastmod>2020-07-05T01:09:12+01:00</lastmod>
   </url><url>
-    <loc>/tags/review/</loc>
-    <lastmod>2020-07-05T01:09:12+01:00</lastmod>
-  </url><url>
     <loc>/posts/wolf-tooth-bling-kit/</loc>
     <lastmod>2020-06-28T01:30:23+01:00</lastmod>
   </url><url>
@@ -137,16 +149,7 @@
     <loc>/categories/random-nonsense/</loc>
     <lastmod>2019-09-22T12:12:59+01:00</lastmod>
   </url><url>
-    <loc>/tags/board-games/</loc>
-    <lastmod>2015-09-17T16:36:30+01:00</lastmod>
-  </url><url>
     <loc>/posts/sentinels-of-the-multiverse-review/</loc>
-    <lastmod>2015-09-17T16:36:30+01:00</lastmod>
-  </url><url>
-    <loc>/tags/tabletop/</loc>
-    <lastmod>2015-09-17T16:36:30+01:00</lastmod>
-  </url><url>
-    <loc>/categories/tabletop/</loc>
     <lastmod>2015-09-17T16:36:30+01:00</lastmod>
   </url><url>
     <loc>/posts/battlestar_galactica_the_board_game_review/</loc>
