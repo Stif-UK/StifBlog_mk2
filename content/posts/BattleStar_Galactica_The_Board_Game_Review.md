@@ -1,7 +1,7 @@
 ---
 title: "Battlestar Galactica: The Board Game Review"
 date: 2015-09-11T14:10:09+01:00
-draft: true
+draft: false
 socialshare: true
 Categories: ['TableTop']
 Tags: ['Review', 'TableTop', 'Board Games']
