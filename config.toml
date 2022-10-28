@@ -5,7 +5,7 @@ theme = "hello-friend"
 paginate = 5
 publishDir = "docs"
 googleAnalytics = "UA-148818946-1"
-disqusShortname = "granthutchison-com"
+disqusShortname = 'granthutchison-com'
 
 [params]
   # dir name of your blog content (default is `content/posts`)

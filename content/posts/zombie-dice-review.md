@@ -10,7 +10,7 @@ Cover: '/img/2022-10/zombie-dice-header.png'
 
 ## Brains is good food...
 ---
-_(Like some of my other [tabletop reviews](/categories/tabletop/) this was originally posted on [Boardgaming.comg](https://boardgaming.com) almost a decade ago! I'm reposting here as I liked writing these and might well add a few more if there's interest)_
+_(Like some of my other [tabletop reviews](/categories/tabletop/) this was originally posted on [Boardgaming.com](https://boardgaming.com) almost a decade ago! I'm reposting here as I liked writing these and might well add a few more if there's interest)_
 ---
 _When there is no more room in hell, the dead shall walk the earth… and try to eat your brain, unless you can run away or blast them with a shotgun!_
 
