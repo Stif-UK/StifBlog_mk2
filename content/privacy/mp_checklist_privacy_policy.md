@@ -1,5 +1,5 @@
 ---
-title: "Mp_checklist_privacy_policy"
+title: "MP Checklist Privacy Policy"
 date: 2023-02-18T19:25:53Z
 draft: false
 socialshare: true
