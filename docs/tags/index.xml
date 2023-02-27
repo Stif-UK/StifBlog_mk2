@@ -10,7 +10,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Sat, 18 Feb 2023 19:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2023 13:48:44 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,9 +18,69 @@
     <item>
       <title>App Development</title>
       <link>/tags/app-development/</link>
-      <pubDate>Sat, 18 Feb 2023 19:25:53 +0000</pubDate>
+      <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
       
       <guid>/tags/app-development/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Release Notes</title>
+      <link>/tags/release-notes/</link>
+      <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
+      
+      <guid>/tags/release-notes/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
+      
+      <guid>/tags/tech/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Video Games</title>
+      <link>/tags/video-games/</link>
+      <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
+      
+      <guid>/tags/video-games/</guid>
       <description>
         
           
@@ -101,46 +161,6 @@
       <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
       
       <guid>/tags/tabletop/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Release Notes</title>
-      <link>/tags/release-notes/</link>
-      <pubDate>Tue, 25 Oct 2022 15:44:33 +0100</pubDate>
-      
-      <guid>/tags/release-notes/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>/tags/tech/</link>
-      <pubDate>Tue, 25 Oct 2022 15:44:33 +0100</pubDate>
-      
-      <guid>/tags/tech/</guid>
       <description>
         
           

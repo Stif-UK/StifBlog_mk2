@@ -10,7 +10,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Sat, 18 Feb 2023 19:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2023 13:48:44 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,9 +18,49 @@
     <item>
       <title>Development</title>
       <link>/categories/development/</link>
-      <pubDate>Sat, 18 Feb 2023 19:25:53 +0000</pubDate>
+      <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
       
       <guid>/categories/development/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>MP Checklist App</title>
+      <link>/categories/mp-checklist-app/</link>
+      <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
+      
+      <guid>/categories/mp-checklist-app/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Video Games</title>
+      <link>/categories/video-games/</link>
+      <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
+      
+      <guid>/categories/video-games/</guid>
       <description>
         
           

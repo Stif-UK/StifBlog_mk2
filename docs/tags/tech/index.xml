@@ -10,10 +10,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 15:44:33 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2023 13:48:44 +0000</lastBuildDate>
     
 	<atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New App: MP Checklist</title>
+      <link>/posts/new_app_mp_checklist/</link>
+      <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
+      
+      <guid>/posts/new_app_mp_checklist/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/2023-02/MPchecklist_header.png&#34;/&gt;
+          
+        
+        
+        
+          A helper app for Metroid Prime&amp;hellip; # Ok, so I realise this post quickly became an essay - if you want to read some background please read on, but if you just want to know about the app, please feel free to skip to the end.
+Returning to Tallon VI # From 2002 until early 2017 if anyone asked me what my favourite game of all time was (and I know that&amp;rsquo;s a school playground question&amp;hellip;) without hesitation I&amp;rsquo;d have answered Metroid Prime.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>WristCheck v1.3 Release Notes</title>
