@@ -4,7 +4,7 @@ date: 2022-09-14T11:06:50+01:00
 draft: false
 socialshare: true
 Categories: ["Blog"]
-Tags: ["Blog"]
+Tags: ["Blog", "Ads"]
 cover: "/img/2022-09/DigitalScreens_TimesSquareSpectacular.jpeg"
 ---
 
