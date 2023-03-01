@@ -71,11 +71,15 @@ or you can click in to add notes against the item, perhaps with information of h
 Every item contains both the _Region_ it is found in (the five distinct areas of the game) and also the _Room_ - if you pause Metroid Prime you'll see each 'room' on the map has a title.
 In v1.2 of the app (the current version in the stores) I also implemented a search feature where you can search by room name, so if playing the game when you find an item you can quickly pull up the map in game, search in the app for the items associated with that room, and then either mark as collected, or make notes quickly.
 
+In later Metroid games (such as the Excellent _Metroid Dread_ and _Metroid Prime 3: Corruption_) the developers implemented great features such as map indicators where you had seen, but not yet collected, an item, which really improves the 100% item chase experience, but that's definitely a gap I found going back to the original _Prime_ that hopefully this app fills.
+
 This app might be a solution looking for a problem, but I've enjoyed using it during my playthrough of the Remaster so far, and hopeful it'll help me hit that magical _100% items completion!_
 
 
 ### Where can I find this wonderful app?
 
-At the point of writing this I'm awaiting approval for v1.2 from both Apple and Google, but you can find the first draft of MP Checklist on [Google Play](https://play.google.com/store/apps/details?id=com.stifdev.mpchecklist) just now. I'll post an update when it lands on the App Store.
+The Android app is currently approved and available on [Google Play](https://play.google.com/store/apps/details?id=com.stifdev.mpchecklist) just now.
+
+A build has been submitted to Apple and is currently working it's way through the review process - I'll update this post with a link once that's complete.
 
 Got any comments or feedback? I still can't figure out why comments on the blog died, so please feel free to either leave an app review or drop a note via the developer contact options on the stores!
