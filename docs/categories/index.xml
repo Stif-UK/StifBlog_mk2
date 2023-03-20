@@ -10,17 +10,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Wed, 01 Mar 2023 14:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Mar 2023 11:30:10 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
+      <title>Cooking</title>
+      <link>/categories/cooking/</link>
+      <pubDate>Mon, 20 Mar 2023 11:30:10 +0000</pubDate>
       
-      <guid>/categories/blog/</guid>
+      <guid>/categories/cooking/</guid>
       <description>
         
           
@@ -38,9 +38,29 @@
     <item>
       <title>Development</title>
       <link>/categories/development/</link>
-      <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
+      <pubDate>Mon, 20 Mar 2023 11:30:10 +0000</pubDate>
       
       <guid>/categories/development/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
+      
+      <guid>/categories/blog/</guid>
       <description>
         
           
