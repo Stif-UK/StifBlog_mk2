@@ -2,31 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/privacy/air-fryer-calculator-privacy-policy/</loc>
-    <lastmod>2023-03-20T11:30:10+00:00</lastmod>
+    <loc>/posts/air_fryr/</loc>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
+  </url><url>
+    <loc>/categories/air-fryr-app/</loc>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
   </url><url>
     <loc>/tags/app-development/</loc>
-    <lastmod>2023-03-20T11:30:10+00:00</lastmod>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2023-03-20T11:30:10+00:00</lastmod>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
+  </url><url>
+    <loc>/tags/cooking/</loc>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
   </url><url>
     <loc>/categories/cooking/</loc>
-    <lastmod>2023-03-20T11:30:10+00:00</lastmod>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
   </url><url>
     <loc>/categories/development/</loc>
-    <lastmod>2023-03-20T11:30:10+00:00</lastmod>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
+  </url><url>
+    <loc>/tags/release-notes/</loc>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
+  </url><url>
+    <loc>/tags/tech/</loc>
+    <lastmod>2023-04-04T09:41:53+01:00</lastmod>
+  </url><url>
+    <loc>/privacy/air-fryer-calculator-privacy-policy/</loc>
     <lastmod>2023-03-20T11:30:10+00:00</lastmod>
   </url><url>
     <loc>/privacy/</loc>
     <lastmod>2023-03-20T11:30:10+00:00</lastmod>
   </url><url>
     <loc>/tags/privacy/</loc>
-    <lastmod>2023-03-20T11:30:10+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-03-20T11:30:10+00:00</lastmod>
   </url><url>
     <loc>/tags/ads/</loc>
@@ -38,9 +56,6 @@
     <loc>/tags/earning-update/</loc>
     <lastmod>2023-03-01T14:07:38+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-03-01T14:07:38+00:00</lastmod>
-  </url><url>
     <loc>/posts/the_millionaire_life/</loc>
     <lastmod>2023-03-01T14:07:38+00:00</lastmod>
   </url><url>
@@ -48,12 +63,6 @@
     <lastmod>2023-02-27T13:48:44+00:00</lastmod>
   </url><url>
     <loc>/posts/new_app_mp_checklist/</loc>
-    <lastmod>2023-02-27T13:48:44+00:00</lastmod>
-  </url><url>
-    <loc>/tags/release-notes/</loc>
-    <lastmod>2023-02-27T13:48:44+00:00</lastmod>
-  </url><url>
-    <loc>/tags/tech/</loc>
     <lastmod>2023-02-27T13:48:44+00:00</lastmod>
   </url><url>
     <loc>/tags/video-games/</loc>

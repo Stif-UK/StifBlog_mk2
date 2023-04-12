@@ -10,10 +10,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Mon, 20 Mar 2023 11:30:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2023 09:41:53 +0100</lastBuildDate>
     
 	<atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Air Fryr</title>
+      <link>/posts/air_fryr/</link>
+      <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
+      
+      <guid>/posts/air_fryr/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/2023-04/AirFryrHeader.png&#34;/&gt;
+          
+        
+        
+        
+          Air Fryr - An Air Fryer Companion app # With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
+I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&amp;rsquo;re in the UK and don&amp;rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Air Fryr Privacy Policy</title>
