@@ -10,10 +10,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Tue, 04 Apr 2023 09:41:53 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 15:44:33 +0100</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WristCheck v1.5 Release Notes</title>
+      <link>/posts/wristcheck_v1.5_release_notes/</link>
+      <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
+      
+      <guid>/posts/wristcheck_v1.5_release_notes/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/2023-09/Seiko_header.jpeg&#34;/&gt;
+          
+        
+        
+        
+          WristCheck v1.5 Release Notes # Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases&amp;hellip;) I&amp;rsquo;ll add a quick summary at the end!
+But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&amp;rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&amp;rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Air Fryr</title>
