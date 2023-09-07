@@ -10,17 +10,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Wed, 06 Sep 2023 15:44:33 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 17:11:37 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Air Fryr App</title>
+      <link>/categories/air-fryr-app/</link>
+      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+      
+      <guid>/categories/air-fryr-app/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Development</title>
       <link>/categories/development/</link>
-      <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
+      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
       
       <guid>/categories/development/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>WristCheck App</title>
+      <link>/categories/wristcheck-app/</link>
+      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+      
+      <guid>/categories/wristcheck-app/</guid>
       <description>
         
           
@@ -56,51 +96,11 @@
     </item>
     
     <item>
-      <title>WristCheck App</title>
-      <link>/categories/wristcheck-app/</link>
-      <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
-      
-      <guid>/categories/wristcheck-app/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
       <title>Cooking</title>
       <link>/categories/cooking/</link>
       <pubDate>Mon, 17 Apr 2023 11:30:10 +0000</pubDate>
       
       <guid>/categories/cooking/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Air Fryr App</title>
-      <link>/categories/air-fryr-app/</link>
-      <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
-      
-      <guid>/categories/air-fryr-app/</guid>
       <description>
         
           

@@ -10,10 +10,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Wed, 06 Sep 2023 15:44:33 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 17:11:37 +0100</lastBuildDate>
     
 	<atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Self Promotion</title>
+      <link>/posts/self_promotion/</link>
+      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+      
+      <guid>/posts/self_promotion/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/2023-09/Instagram_Influencer.png&#34;/&gt;
+          
+        
+        
+        
+          Attempting to grow my user base # Now that I&amp;rsquo;ve released three apps - two of which I&amp;rsquo;d like to think have the potential to be really useful to a decent number of people (sorry MP Checklist&amp;hellip; I think you might just be a bit too niche!) - I think it&amp;rsquo;s time that I make a bit more of an effort to get help more people to find the apps!
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>WristCheck v1.5 Release Notes</title>
