@@ -10,17 +10,77 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Wed, 06 Sep 2023 17:11:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 17:16:39 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Ads</title>
+      <link>/tags/ads/</link>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
+      
+      <guid>/tags/ads/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>App Development</title>
       <link>/tags/app-development/</link>
-      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
       
       <guid>/tags/app-development/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Earning Update</title>
+      <link>/tags/earning-update/</link>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
+      
+      <guid>/tags/earning-update/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Monetisation</title>
+      <link>/tags/monetisation/</link>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
+      
+      <guid>/tags/monetisation/</guid>
       <description>
         
           
@@ -121,46 +181,6 @@
       <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
       
       <guid>/tags/cooking/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Ads</title>
-      <link>/tags/ads/</link>
-      <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
-      
-      <guid>/tags/ads/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Earning Update</title>
-      <link>/tags/earning-update/</link>
-      <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
-      
-      <guid>/tags/earning-update/</guid>
       <description>
         
           

@@ -10,17 +10,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Wed, 06 Sep 2023 17:11:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 17:16:39 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Air Fryr App</title>
-      <link>/categories/air-fryr-app/</link>
-      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
       
-      <guid>/categories/air-fryr-app/</guid>
+      <guid>/categories/blog/</guid>
       <description>
         
           
@@ -38,9 +38,29 @@
     <item>
       <title>Development</title>
       <link>/categories/development/</link>
-      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
       
       <guid>/categories/development/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Air Fryr App</title>
+      <link>/categories/air-fryr-app/</link>
+      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+      
+      <guid>/categories/air-fryr-app/</guid>
       <description>
         
           
@@ -101,26 +121,6 @@
       <pubDate>Mon, 17 Apr 2023 11:30:10 +0000</pubDate>
       
       <guid>/categories/cooking/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
-      
-      <guid>/categories/blog/</guid>
       <description>
         
           
