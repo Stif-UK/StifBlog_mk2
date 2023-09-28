@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/ads/</loc>
-    <lastmod>2023-09-07T17:16:39+01:00</lastmod>
-  </url><url>
     <loc>/tags/app-development/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/categories/development/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/privacy/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/tags/privacy/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/categories/watches/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/categories/wristcheck-app/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/privacy/wristcheck_privacy_policy/</loc>
+    <lastmod>2023-09-28T13:11:09+01:00</lastmod>
+  </url><url>
+    <loc>/tags/ads/</loc>
     <lastmod>2023-09-07T17:16:39+01:00</lastmod>
   </url><url>
     <loc>/categories/blog/</loc>
@@ -14,16 +41,7 @@
     <loc>/posts/breaking_even/</loc>
     <lastmod>2023-09-07T17:16:39+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2023-09-07T17:16:39+01:00</lastmod>
-  </url><url>
-    <loc>/categories/development/</loc>
-    <lastmod>2023-09-07T17:16:39+01:00</lastmod>
-  </url><url>
     <loc>/tags/earning-update/</loc>
-    <lastmod>2023-09-07T17:16:39+01:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-09-07T17:16:39+01:00</lastmod>
   </url><url>
     <loc>/tags/monetisation/</loc>
@@ -32,16 +50,10 @@
     <loc>/posts/</loc>
     <lastmod>2023-09-07T17:16:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-09-07T17:16:39+01:00</lastmod>
-  </url><url>
     <loc>/categories/air-fryr-app/</loc>
     <lastmod>2023-09-06T17:11:37+01:00</lastmod>
   </url><url>
     <loc>/posts/self_promotion/</loc>
-    <lastmod>2023-09-06T17:11:37+01:00</lastmod>
-  </url><url>
-    <loc>/categories/wristcheck-app/</loc>
     <lastmod>2023-09-06T17:11:37+01:00</lastmod>
   </url><url>
     <loc>/tags/release-notes/</loc>
@@ -53,9 +65,6 @@
     <loc>/tags/watches/</loc>
     <lastmod>2023-09-06T15:44:33+01:00</lastmod>
   </url><url>
-    <loc>/categories/watches/</loc>
-    <lastmod>2023-09-06T15:44:33+01:00</lastmod>
-  </url><url>
     <loc>/posts/wristcheck_v1.5_release_notes/</loc>
     <lastmod>2023-09-06T15:44:33+01:00</lastmod>
   </url><url>
@@ -63,12 +72,6 @@
     <lastmod>2023-04-17T11:30:10+00:00</lastmod>
   </url><url>
     <loc>/categories/cooking/</loc>
-    <lastmod>2023-04-17T11:30:10+00:00</lastmod>
-  </url><url>
-    <loc>/privacy/</loc>
-    <lastmod>2023-04-17T11:30:10+00:00</lastmod>
-  </url><url>
-    <loc>/tags/privacy/</loc>
     <lastmod>2023-04-17T11:30:10+00:00</lastmod>
   </url><url>
     <loc>/posts/air_fryr/</loc>
@@ -145,9 +148,6 @@
   </url><url>
     <loc>/about/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/privacy/wristcheck_privacy_policy/</loc>
-    <lastmod>2022-09-08T13:11:09+01:00</lastmod>
   </url><url>
     <loc>/posts/wristcheck-app/</loc>
     <lastmod>2022-09-08T00:31:55+01:00</lastmod>
