@@ -10,7 +10,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
-    <lastBuildDate>Thu, 28 Sep 2023 13:11:09 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2023 13:11:09 +0100</lastBuildDate>
     
 	<atom:link href="/tags/app-development/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
     <item>
       <title>Wristcheck Privacy Policy</title>
       <link>/privacy/wristcheck_privacy_policy/</link>
-      <pubDate>Thu, 28 Sep 2023 13:11:09 +0100</pubDate>
+      <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
       
       <guid>/privacy/wristcheck_privacy_policy/</guid>
       <description>
@@ -29,7 +29,7 @@
         
         
         
-          WristCheck Privacy Policy v1.1.0 # Privacy Policy
+          WristCheck Privacy Policy v1.2.0 # Privacy Policy
 Grant Hutchison built the WristCheck app as an Ad Supported app. This SERVICE is provided by Grant Hutchison at no cost and is intended for use as is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.
