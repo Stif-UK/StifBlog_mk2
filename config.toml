@@ -31,10 +31,10 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
-[taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
+# [taxonomies]
+#     category = "blog"
+#     tag      = "tags"
+#     series   = "series"
 
 # [languages]
 #   [languages.en]
