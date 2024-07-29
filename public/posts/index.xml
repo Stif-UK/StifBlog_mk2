@@ -1,11 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on granthutchison</title>
+        <title>Posts on granthutchison.com</title>
         <link>/posts/</link>
-        <description>Recent content in Posts on granthutchison</description>
+        <description>Recent content in Posts on granthutchison.com</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <language>en-GB</language>
         <lastBuildDate>Thu, 07 Sep 2023 17:16:39 +0100</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
@@ -87,7 +86,7 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
 <h3 id="redesign-of-the-watch-box-ui">Redesign of the Watch Box UI</h3>
 <p>The original view presented in WristCheck was just a sterile text only list of watches, with an expanding accordion tile at the top that hid links to search and the secondary watch box views&hellip; I was never particularly happy with this view. When I was getting stuck into using Flutter I had issues with getting images onto the tiles without them messing up the various dimensions, and I just <em>could not</em> get the view to refresh as I wanted when the database filters were changed, hence creating separate individual pages for the sold watches and wishlist views.</p>
 <p>But a year or so into my adventures with Flutter I&rsquo;m now much more confident with it&rsquo;s capabilities and how the various widgets interact with each other&hellip; so it felt like a good time to rebuild the homepage!</p>
-<p><img alt="WristCheck new UI" src="/img/2023-09/dark_listview.jpg">
+<p><img src="/img/2023-09/dark_listview.jpg" alt="WristCheck new UI">
 <!-- raw HTML omitted --><em>The new user interface!</em><!-- raw HTML omitted --></p>
 <p>One major update is the addition of the drop-down picker at the top of the page - you can now move from your watch box, to wish list, to list of sold watches or directly to a random watch by selecting from the dropdown and the page will instantly refresh to display your selection! No more navigating to <em>different pages!</em></p>
 <h3 id="search-is-more-prominent">Search is more prominent</h3>
@@ -96,7 +95,7 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
 <h3 id="quickly-re-order-your-collection">Quickly re-order your collection</h3>
 <p>Previously the watches always appeared in the list in the order you added them to the database&hellip; which was <em>fine</em>, but not the best experience&hellip; whenever you got a new watch, it would always be the last one on the screen!</p>
 <p>Now I&rsquo;ve added the ability to re-order the collection on the fly, using one of several options (I restrained myself to avoid overdoing it, but if something is really missing shout out in an app review!)</p>
-<p><img alt="Display Order Picker" src="/img/2023-09/display_order.jpg">
+<p><img src="/img/2023-09/display_order.jpg" alt="Display Order Picker">
 <!-- raw HTML omitted --><em>Quickly re-order your collection!</em><!-- raw HTML omitted --></p>
 <p>Since moving the release from my test device to my day to day phone I&rsquo;ve found this fantastic! I like to show my collection by last worn date, so my recently worn watches are always at the top (and when I wear something different from the previous day it&rsquo;s nice to see the page refresh itself!)</p>
 <h3 id="watch-images-in-the-main-view">Watch images in the main view</h3>
@@ -105,7 +104,7 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
 <h3 id="grid-or-list-view">Grid or list view</h3>
 <p>I mentioned at the start of this post that the original watch view was just a fairly sterile list of watches&hellip; and I&rsquo;ve just mentioned that that sterile list now includes an image of the watch&hellip; but what if you want <em>more</em>?</p>
 <p>Well, now you also have the option to change the default view to a grid view, with larger pictures!</p>
-<p><img alt="WristCheck Grid View" src="/img/2023-09/light_gridview.jpg">
+<p><img src="/img/2023-09/light_gridview.jpg" alt="WristCheck Grid View">
 <!-- raw HTML omitted --><em>Display your collection in a grid view!</em><!-- raw HTML omitted --></p>
 <p>I should call out that this viewing pattern doesn&rsquo;t work well on very small screens - if your screen is too small then the watch names (neatly) truncate, and the wear dates may be hidden behind the box border! But it works well on most modern phones!</p>
 <p>Personally I love this view - I&rsquo;ve found myself using it day to day over the original list view!</p>
@@ -129,13 +128,13 @@ I had an old one that was only ever used for making chips (aka French fries for 
 <hr>
 <p>With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.</p>
 <p>I had an old one that was only ever used for making chips (aka <em>French fries</em> for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&rsquo;re in the UK and don&rsquo;t already use Quidco you should <a href="https://www.quidco.com/raf/43546/">give them a look</a>), so decided to treat myself to an absolute beast of an Air Fryer.</p>
-<p><img alt="Quidco Summary" src="/img/2023-04/QuidcoCashback.png">
+<p><img src="/img/2023-04/QuidcoCashback.png" alt="Quidco Summary">
 <!-- raw HTML omitted -->I&rsquo;ve been a Quidco member for over 10 years and averaged about £100 a year cashback, just doing normal shopping!<!-- raw HTML omitted --></p>
 <p>I&rsquo;d been squirrelling away my cashback for a while and was thinking of treating myself to a new watch, or possibly a Switch OLED, but neither of those things were things that I really <em>needed</em>&hellip;and then the Ninja Foodi Air Fryers caught my eye&hellip;</p>
 <p>Now I do like to cook for the family - pulling a meal together for everyone is a nice way to wind down at the end of a busy day, and being able to do this is one of my favourite things about working from home, however I do often find myself working fairly late, so being able to cook <em>quickly</em> is a bonus for me.</p>
 <p>With the crazy rise of air fryers over the last year or so though I also feel like I&rsquo;ve been bombarded with information on them and was pleasantly surprised at just how <em>capable</em> they are&hellip; I was mad only using the old one for the odd plate of chips, these things can cook <em>so much</em> and do it well!</p>
 <p>So I decided to take a chunk of my cashback out (boosted by 6% as I converted them to gift vouchers!) and treat myself and my family to a fancy all-singing, all-dancing Ninja AF451.</p>
-<p><img alt="Ninja Foodi Max AF451" src="/img/2023-04/AirFryer.jpg">
+<p><img src="/img/2023-04/AirFryer.jpg" alt="Ninja Foodi Max AF451">
 <!-- raw HTML omitted -->This bad boy is HUGE!<!-- raw HTML omitted --></p>
 <p>It&rsquo;s been a few weeks since it arrived now and I&rsquo;ve been cooking with it <em>loads</em> - I&rsquo;ve cooked steak, whole chickens, sides of salmon, roast beef, chicken wings&hellip; my wife has used it almost daily to do &lsquo;boiled&rsquo; eggs! It&rsquo;s so easy to use, so quick and so, so versatile!</p>
 <p>But anyway&hellip; that&rsquo;s not really the purpose of this post is it!</p>
@@ -149,15 +148,15 @@ I had an old one that was only ever used for making chips (aka French fries for 
 <h4 id="the-calculator">The Calculator</h4>
 <p>Firstly, it offers a quick calculator function - air fryers are significantly faster than a standard oven, but can also cook the same dishes at lower temperatures. When I was researching what to buy I came across a simple algorithm for converting oven cooking times to air fryer ones - essentially, know 20C/35F off the temperature, and 20% off the time.</p>
 <p>Something super easy to do in an app, and Flutter/Material Design makes this even easier with simple to use sliders (although maybe I&rsquo;ll write up a more tech focused note later as to why it&rsquo;s not really that easy when you start adding options like changing the units and making saved calculations editable!)</p>
-<p><img alt="The app calculator" src="/img/2023-04/Home-Light.png"></p>
+<p><img src="/img/2023-04/Home-Light.png" alt="The app calculator"></p>
 <h3 id="the-notebook">The notebook</h3>
 <p>Secondly, the notebook&hellip; now I&rsquo;m a bit of a pragmatist, and I know that an algorithm like the above is really just a <em>general rule</em>, it&rsquo;ll be right some of the time, but every oven and every air fryer is different (and let&rsquo;s not get started on individual tastes when it comes to food!), so I thought, <em>&lsquo;why not allow calculations to be saved and edited later&rsquo;</em>, hence <em>The Notebook</em>:</p>
-<p><img alt="The Notebook" src="/img/2023-04/AirFryerNotebook.jpg"></p>
+<p><img src="/img/2023-04/AirFryerNotebook.jpg" alt="The Notebook"></p>
 <p>Now what&rsquo;s the point of a notebook if you can&rsquo;t keep notes in it, so as well as allowing you to save a title, the cooking temperature and time, you can also write detailed notes with each entry and categorise the note for future reference (at present the categories just show against the note with an icon, but in a future release I&rsquo;ll add in a category filter too!).</p>
 <p>The notes are fully editable, so if you realise your dish needed more time, to be hotter or just that you want to make a note of what to try the next time you cook it, you can quickly and easily update the entry.</p>
 <h3 id="notebook-search">Notebook Search</h3>
 <p>I know I mentioned two things, but since starting to write this post I got sidetracked and released an updated v1.1 of the app (I&rsquo;m nice like that) which also includes a real-time search function, to quickly find things in an ever growing notebook</p>
-<p><img alt="Notebook Search" src="/img/2023-04/NotebookSearch.png"></p>
+<p><img src="/img/2023-04/NotebookSearch.png" alt="Notebook Search"></p>
 <p>&hellip;and that&rsquo;s a wrap! I had a lot of fun putting this together (you know how I <em>love</em> building silly wee apps!) and have a few ideas to still add to it, so keep an eye out for a v1.2 before too long!</p>
 <p>If you&rsquo;d like to give Air Fryr a try you can find it <a href="https://apps.apple.com/us/app/air-fryr/id6446950736">on the App Store</a> and <a href="https://play.google.com/store/apps/details?id=com.stifdev.airfryr">on Google Play</a></p>
 ]]></content>
@@ -216,7 +215,7 @@ This&rsquo;ll help me figure out the details of how to best implement in-app pur
 Returning to Tallon VI From 2002 until early 2017 if anyone asked me what my favourite game of all time was (and I know that&amp;rsquo;s a school playground question&amp;hellip;) without hesitation I&amp;rsquo;d have answered Metroid Prime.</description>
             <content type="html"><![CDATA[<h2 id="a-helper-app-for-metroid-prime">A helper app for Metroid Prime&hellip;</h2>
 <hr>
-<p>Ok, so I realise this post quickly became an essay - if you want to read some background please read on, but if you just want to know about the app, please feel free to <a href="/">skip to the end.</a></p>
+<p>Ok, so I realise this post quickly became an essay - if you want to read some background please read on, but if you just want to know about the app, please feel free to <a href="">skip to the end.</a></p>
 <h3 id="returning-to-tallon-vi">Returning to Tallon VI</h3>
 <p>From 2002 until early 2017 if anyone asked me what my favourite game of all time was (and I know that&rsquo;s a school playground question&hellip;) without hesitation I&rsquo;d have answered <em>Metroid Prime</em>.</p>
 <p><!-- raw HTML omitted -->(If you&rsquo;re wondering, past 2017 a certain elfish gent waking up from a 100 year slumber gave this a nudge into second place&hellip;)<!-- raw HTML omitted --></p>
@@ -238,13 +237,13 @@ To me though, what really elevated it to another level was the passive way the s
 <h3 id="what-is-mp-checklist-and-what-does-it-do">What is MP Checklist and what does it do</h3>
 <p>If you&rsquo;ve skipped all of the above (and who can blame you) here&rsquo;s a wee idea of what MP Checklist actually is.</p>
 <p>In essence it&rsquo;s a big list of all of the items that can be collected within the game Metroid Prime, which can be ticked off as you go. You can see a summary of either the completion per game region, or by item type.</p>
-<p><img alt="MP Checklist home screen image" src="/img/2023-02/MPChecklist_homescreens.png">
+<p><img src="/img/2023-02/MPChecklist_homescreens.png" alt="MP Checklist home screen image">
 <!-- raw HTML omitted --><em>Also, light or dark theme!</em><!-- raw HTML omitted --></p>
 <p>Clicking on either an item type or region then gives you a list of associated items, which can either be ticket off straight from the list&hellip;</p>
-<p><img alt="Item List" src="/img/2023-02/item_list.png">
+<p><img src="/img/2023-02/item_list.png" alt="Item List">
 <!-- raw HTML omitted --><em>Here&rsquo;s a regional view!</em><!-- raw HTML omitted --></p>
 <p>or you can click in to add notes against the item, perhaps with information of how you <em>think</em> it might be unlocked for collection.</p>
-<p><img alt="Item Notes" src="/img/2023-02/item_notes.png">
+<p><img src="/img/2023-02/item_notes.png" alt="Item Notes">
 <!-- raw HTML omitted --><em>Here&rsquo;s one I made earlier!</em><!-- raw HTML omitted --></p>
 <p>Every item contains both the <em>Region</em> it is found in (the five distinct areas of the game) and also the <em>Room</em> - if you pause Metroid Prime you&rsquo;ll see each &lsquo;room&rsquo; on the map has a title.
 In v1.2 of the app (the current version in the stores) I also implemented a search feature where you can search by room name, so if playing the game when you find an item you can quickly pull up the map in game, search in the app for the items associated with that room, and then either mark as collected, or make notes quickly.</p>
@@ -271,7 +270,7 @@ In v1.2 of the app (the current version in the stores) I also implemented a sear
 <p>Zombie Dice is a quick to play ‘push your luck’ dice game for, well, any number of players (although I expect more than 4 or 5 would probably be a bit rubbish…). In it, you play a member of the undead horde out for lunch. You want to eat as many brains as you can, chasing down any humans who escape and hoping to avoid catching a shotgun blast to the chest!</p>
 <p><strong>Components</strong></p>
 <p>The game comes with 13 dice (6 green, 4 yellow, 3 red) and a tub to keep them all in (which can also be used as a dice shaker, if you so wish). Green dice have more brains than shotguns, red dice have more shotguns than brains and yellow are somewhere in the middle.</p>
-<p><img alt="zombie dice image" src="/img/2022-10/zombie-dice.jpg" title="Brains are good food!...">
+<p><img src="/img/2022-10/zombie-dice.jpg" alt="zombie dice image" title="Brains are good food!...">
 <!-- raw HTML omitted --> <em>Zombie dice&hellip;literally!</em> <!-- raw HTML omitted --></p>
 <p>The quality of these dice is lovely – each are well made, and have brains, footsteps and shotgun blasts embossed on their sides. In short, they roll nicely and look good… not much else to say here!</p>
 <p>The dice shaker/tub isn’t quite so nice. It’s just a cardboard tube after all, and the dice do make quite an annoying rattling sound when in it – if you plan to carry the game around with you it’s worth either jamming some cotton wool in there, or getting a wee dice bag to keep the dice in instead.</p>
@@ -323,7 +322,7 @@ Clearly, that is <em>Not Very Good!</em></p>
 <p>But following this refactoring, I&rsquo;ve now made it easy for me to manage this - the UI isn&rsquo;t fantastic to be honest <em>(is any of my UI?)</em> but it works, and users can now add watch pictures at the same time as they record their new watch in the app!</p>
 <h3 id="add-caseback-images">Add caseback images!</h3>
 <p>One of the most requested additions to the app was the ability to add a second image for each watch, to show the caseback - and with the above work complete, this became a nice easy task! Now you can save both a main image and a second one (and hey, nobody is forcing you to take a picture of the caseback, you can use it for the bracelet clasp or whatever you want!)</p>
-<p><img alt="WristCheck CaseBack Image" src="/img/2022-10/CaseBackImg.png">
+<p><img src="/img/2022-10/CaseBackImg.png" alt="WristCheck CaseBack Image">
 <!-- raw HTML omitted --><em>Some casebacks are worth sharing!</em><!-- raw HTML omitted --></p>
 <h3 id="_minor-improvements_"><em>&ldquo;Minor Improvements&rdquo;</em></h3>
 <p>Every app release always includes a few <em>little things</em> that don&rsquo;t make the headlines, but again it&rsquo;s good to give an idea of what&rsquo;s going on!</p>
@@ -375,10 +374,10 @@ Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professi
 <hr>
 <h3 id="adding-watches-to-your-collection">Adding watches to your collection</h3>
 <p>It&rsquo;s probably obvious, but the first thing to do is to add some watches to your collection so that you can start tracking them, and this is as simple as pressing the big red <del>do not press</del> <em>floating action button</em>:
-<img alt="WristCheck Landing Page image" src="/img/2022-10/wristcheck_101/EmptyLanding.png">
+<img src="/img/2022-10/wristcheck_101/EmptyLanding.png" alt="WristCheck Landing Page image">
 <!-- raw HTML omitted --> <em>DO push this button!</em> <!-- raw HTML omitted --></p>
 <p>To get started, the only mandatory fields are the <em>Manufacturer</em> and <em>Model</em>, all other fields are optional and can be edited later. Once these are entered, you can press the  &lsquo;add watch&rsquo; button to enter the watch in your collection.</p>
-<p><img alt="Add Watch Screen image" src="/img/2022-10/wristcheck_101/AddWatch.png"></p>
+<p><img src="/img/2022-10/wristcheck_101/AddWatch.png" alt="Add Watch Screen image"></p>
 <p>This process can then be repeated to add more watches to your collection.</p>
 <h4 id="a-note-on-watch-status">A note on watch status</h4>
 <p>The <em>Status</em> field determines which list the watch appears in. By default this is <em>&lsquo;In Collection&rsquo;</em>, and any watches with this status are shown in the main watch-box view (the app home screen).</p>
@@ -395,26 +394,26 @@ Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professi
 <h3 id="tracking-the-watches-you-wearing">Tracking the watches you wearing</h3>
 <p>Now that we have some watches in our collection, let&rsquo;s wear them!</p>
 <p>From the main view you can click any watch to enter the <em>View Watch</em> screen - and from here, you can wear a watch by clicking the big <em>&lsquo;Wear this watch today&rsquo;</em> button. This adds a date record to the watches calendar.</p>
-<p><img alt="Add Watch Button image" src="/img/2022-10/wristcheck_101/TrackWearButton.png"></p>
+<p><img src="/img/2022-10/wristcheck_101/TrackWearButton.png" alt="Add Watch Button image"></p>
 <p>&hellip;and that&rsquo;s all you need to do to start generating graphs!</p>
 <h3 id="remembering-to-track-what-you-wear-setting-up-reminders">Remembering to track what you wear: Setting up reminders</h3>
 <p>The charts the app generates are only as good as the data that&rsquo;s been added, so how do you make sure the data is kept up to date?</p>
 <p>The easiest way is to set up a daily reminder, which the app handily provides!</p>
 <p>This can be found by navigating to the Settings page, which is found in the <em>&lsquo;burger menu&rsquo;</em> from the app homepage:</p>
-<p><img alt="Burger Menu Button image" src="/img/2022-10/wristcheck_101/BurgerMenu.png"></p>
+<p><img src="/img/2022-10/wristcheck_101/BurgerMenu.png" alt="Burger Menu Button image"></p>
 <p>This opens the app drawer, where you can select <em>Settings</em>:
-<img alt="App Drawer image" src="/img/2022-10/wristcheck_101/AppDrawer.png"></p>
+<img src="/img/2022-10/wristcheck_101/AppDrawer.png" alt="App Drawer image"></p>
 <p>Finally, in the settings menu select <em>&lsquo;Daily Reminder&rsquo;</em>:
-<img alt="Settings Menu image" src="/img/2022-10/wristcheck_101/SettingsMenu.png"></p>
+<img src="/img/2022-10/wristcheck_101/SettingsMenu.png" alt="Settings Menu image"></p>
 <p>When a daily reminder is set it will firstly ask for permission to send notifications - without these platform level permissions any time set will be blocked!</p>
 <p>The daily reminder defaults to 8am every day, however this can be changed to 12pm, 6pm or a custom time can be selected via a time picker - once set the reminder will generate at the same time every day - the time selected can be checked or amended at any time by navigating back to this page.</p>
-<p><img alt="Daily Reminder image" src="/img/2022-10/wristcheck_101/DailyReminder.png"></p>
+<p><img src="/img/2022-10/wristcheck_101/DailyReminder.png" alt="Daily Reminder image"></p>
 <hr>
 <h3 id="want-to-read-more">Want to read more?</h3>
 <p>I&rsquo;ll end this here, this should give enough of a kick-start to get watches into the app and start recording data daily.</p>
 <p>I&rsquo;ll follow up with some further posts about how to add historic data, setup service schedules and how to backup and restore the watch database.</p>
 <p>If you&rsquo;d like to read more posts about the WristCheck App, you can see all posts under that category on this site <a href="/categories/wristcheck-app/">by clicking here</a></p>
-<p><em>Cover image credit: <a href="https://www.freepik.com/free-photo/confused-bearded-guy-shrugging-can-t-understand-how-use-mobile-phone-app_9583792.htm#query=how%20to&position=9&from_view=search&track=sph">Image by cookie_studio on Freepik</a></em></p>
+<p><em>Cover image credit: <a href="https://www.freepik.com/free-photo/confused-bearded-guy-shrugging-can-t-understand-how-use-mobile-phone-app_9583792.htm#query=how%20to&amp;position=9&amp;from_view=search&amp;track=sph">Image by cookie_studio on Freepik</a></em></p>
 ]]></content>
         </item>
         
@@ -435,18 +434,18 @@ Ads! Yep, I originally said these would be in v1.1, but I wanted to make sure ba
 <p>Yep, I originally said these would be in v1.1, but I wanted to make sure backup/restore and notifications could be properly tested, so I pushed out v1.1 without ads.</p>
 <p>The implementation of these was also surprisingly time consuming, as I needed to add individual ad units throughout the app.</p>
 <p>I also built them behind some toggles - one that lets me run dev builds showing test ads (meaning during testing I can click them to my hearts content on any device), and another that lets me set a global flag to turn them off - this will play a part in a future &lsquo;pro&rsquo; option to go ad-free.</p>
-<p><img alt="Ad Earnings Image" src="/img/2022-10/earnings.png">
+<p><img src="/img/2022-10/earnings.png" alt="Ad Earnings Image">
 <!-- raw HTML omitted --> <em>I&rsquo;m going to be rich!</em> <!-- raw HTML omitted --></p>
 <p>Now that these are in place I can start to earn some pennies! <em>(and it will be pennies!)</em> - my next Apple Developer subscription is due in June - I&rsquo;ll post again closer to the time to see if I can even get close to covering it!</p>
 <h3 id="notifications">Notifications</h3>
 <p>Again, I&rsquo;ve already mentioned this in v1.1, however I did a little more to improve these in v1.2 (specifically, making sure that permissions were granted at the correct time on Android!)</p>
-<p><img alt="WristCheck Notification Image" src="/img/2022-10/reminder.png">
+<p><img src="/img/2022-10/reminder.png" alt="WristCheck Notification Image">
 <!-- raw HTML omitted --> <em>Here&rsquo;s what they look like on Android!</em> <!-- raw HTML omitted --></p>
 <p>At the moment these can be scheduled to arrive at a fixed time every day - in a future release I&rsquo;m hoping to add a monthly reminder to check your wear stats, which brings me on to&hellip;</p>
 <h3 id="save-and-share-screenshots">Save and Share screenshots</h3>
 <p>I may have mentioned before, but being able to see charts of the watches I&rsquo;m wearing was my number one reason for building this app - even if nobody else ever used it, that&rsquo;s something that <em>I get value from!</em></p>
 <p>But based on some feedback, I&rsquo;ve made it really easy to save and share screenshots of the charts view - when viewing the &lsquo;Wear Stats&rsquo; page (whether as a pie or bar chart) you can now press a button to grab a screenshot, that you can then either save to your gallery, or send straight to any other app that will take it (such as using it directly as a Facebook post or in a WhatsApp message!).</p>
-<p><img alt="WristCheck Graph Image" src="/img/2022-10/shareImage.png">
+<p><img src="/img/2022-10/shareImage.png" alt="WristCheck Graph Image">
 <!-- raw HTML omitted --><em>Here&rsquo;s one I made earlier!</em><!-- raw HTML omitted --></p>
 <p>This was pretty quick to implement, but I&rsquo;m really happy with how it turned out - please let me know if you like it!</p>
 <h3 id="so-whats-next">So what&rsquo;s next?</h3>
@@ -563,12 +562,12 @@ What is WristCheck? WristCheck is a digital watch box, so if you&amp;rsquo;re bo
 <p>Always on the lookout for your next watch? Why not build a wish list, to keep the details in one place!</p>
 <p>By far my favourite feature of WristCheck though&hellip;</p>
 <h3 id="the-graphs">The Graphs</h3>
-<p><img alt="App Bar Graph screenshot" src="/img/2022-09/WristCheckBarGraph.png?width=20pc" title="watch stats for nerds!"><img alt="App Bar PieChart screenshot" src="/img/2022-09/WristCheckPieChart_Light.png" title="watch stats for nerds!">
+<p><img src="/img/2022-09/WristCheckBarGraph.png?width=20pc" alt="App Bar Graph screenshot" title="watch stats for nerds!"><img src="/img/2022-09/WristCheckPieChart_Light.png" alt="App Bar PieChart screenshot" title="watch stats for nerds!">
 <!-- raw HTML omitted --> <em>I told you this was an app for nerds</em> <!-- raw HTML omitted --></p>
 <p>This is why I built WristCheck - I&rsquo;ve been wearing a range of watches and want to know what I&rsquo;m wearing most. I want to quickly be able to see if any of my collection are being neglected, perhaps identify pieces that would be better moved on to a more loving home <em>(to make way for the next purchase&hellip;)</em></p>
 <h3 id="service-schedule">Service Schedule</h3>
 <p>One last feature that&rsquo;s included in the first release, is the ability to generate a service schedule for your collection.</p>
-<p><img alt="App Bar Service Schedule screenshot" src="/img/2022-09/service_schedule.png" title="Time to get these booked...">
+<p><img src="/img/2022-09/service_schedule.png" alt="App Bar Service Schedule screenshot" title="Time to get these booked...">
 <!-- raw HTML omitted --> <em>Time to get these booked&hellip;</em> <!-- raw HTML omitted --></p>
 <p>Mechanical watches need to be serviced every few years to keep them running at their best, and some manufacturers will extend warranties if serviced in line with their guidelines, so why not have a simple place to track them!</p>
 <h3 id="but-my-collection-is-_huge_">But my collection is <em>huge</em></h3>
@@ -576,7 +575,7 @@ What is WristCheck? WristCheck is a digital watch box, so if you&amp;rsquo;re bo
 <p>To hopefully mitigate that issue I&rsquo;ve added a couple of additional options into the app.
 Firstly, if you&rsquo;ve got a smaller group of watches that you wear most often, you can quickly mark them as a <strong>favourite</strong>, and filter the list to only show these watches.</p>
 <p>Secondly, if you just really want to find watch 300 in your collection quickly&hellip; then just search for it!</p>
-<p><img alt="App Search screenshot" src="/img/2022-09/search.png" title="real time search!">
+<p><img src="/img/2022-09/search.png" alt="App Search screenshot" title="real time search!">
 <!-- raw HTML omitted --> <em>Filter your collection quickly with real-time search!</em> <!-- raw HTML omitted --></p>
 <p>With real-time search you can very quickly filter your collection down to the watch you want, no matter how large your collection!</p>
 <h3 id="what-next">What next?</h3>
@@ -584,8 +583,8 @@ Firstly, if you&rsquo;ve got a smaller group of watches that you wear most often
 <p>So what do you think? If you&rsquo;ve found this page and want to download WristCheck on your phone you can find it at the below app store links.</p>
 <p>Already using WristCheck? Let me know what you think in the comments or by leaving a review on your app store of choice!</p>
 <!-- raw HTML omitted -->
-<p><a href="https://apps.apple.com/us/app/wristcheck/id1642718252"><img alt="App Store Link" src="/img/2022-09/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg"></a></p>
-<p><a href="https://play.google.com/store/apps/details?id=com.stifdev.wristcheck&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Play Store Link" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"></a></p>
+<p><a href="https://apps.apple.com/us/app/wristcheck/id1642718252"><img src="/img/2022-09/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt="App Store Link"></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.stifdev.wristcheck&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Play Store Link"></a></p>
 ]]></content>
         </item>
         
@@ -604,7 +603,7 @@ Rebound is a registered charity, which aims to &amp;ldquo;develop the local comm
 <p>For the past <em>forever</em> I&rsquo;ve been studying with the <a href="http://www.open.ac.uk/">Open University</a>, working towards a Bachelor&rsquo;s degree in Software Engineering and after all that time <em>the end is in sight!</em>.</p>
 <p>To complete the degree I have to undertake a significant project, so I&rsquo;ve teamed up with the guys at <a href="www.lennoxmtb.com">Rebound</a> to build a mobile application to support them.</p>
 <p>Rebound is a registered charity, which aims to <em>&ldquo;develop the local community through sport&rdquo;</em> - with a primary focus on mountain biking. They&rsquo;ve grown over the years and now run a series of events in and around Lennoxtown (including cycle maintenance classes,  skills coaching and regular guided rides in the local forest) and are in the process of agreeing lease terms to build, manage and maintain a designated bike park in <a href="http://www.lennoxmtb.com/falkland.html">Falkland</a>, a short drive away in Fife.</p>
-<p><img alt="Falkland Bike Park logo" src="/img/2020-07/FalklandBikePark.jpg" title="This place will be awesome!">
+<p><img src="/img/2020-07/FalklandBikePark.jpg" alt="Falkland Bike Park logo" title="This place will be awesome!">
 <!-- raw HTML omitted --> <em>Extreme to the max!</em> <!-- raw HTML omitted --></p>
 <p>To support them we have discussed some key features for the app to provide, as well as engaging the wide group of users who are current members of the <a href="https://www.facebook.com/groups/hillsidehooligans/?multi_permalinks=4164629353607551">Falkland Bike Park Facebook group</a> and now that some of the basic features are in place it&rsquo;s reached the point where we&rsquo;re keen to release the app in beta form to start getting some feedback whilst I build some of the more complex features.</p>
 <p>As part of the Apple release process they ask for a <em>marketing link</em>, so it felt like a good time to write a little about the app, what it currently does, and what the future plans are (as I expand on this, I&rsquo;ll update this post with links to additional posts in the future).</p>
@@ -613,12 +612,12 @@ Rebound is a registered charity, which aims to &amp;ldquo;develop the local comm
 <p>In the initial beta release the application provides two features: A weather forecast for the club riding locations (both Lennox Forest and Falkland Bike Park), and a support feature to help bikers report their location in the event of an accident.</p>
 <h4 id="whats-the-weather-like">What&rsquo;s the weather like?</h4>
 <p>The first feature is nice and simple: A weather forecast so that users can tell if they should wear shorts or pack a waterproof to ride <em>(Note: Please don&rsquo;t use this as an excuse to not get out and ride!)</em></p>
-<p><img alt="App Weather Forecast screenshot" src="/img/2020-07/WeatherScreenshot.jpg" title="Ride in all conditions!">
+<p><img src="/img/2020-07/WeatherScreenshot.jpg" alt="App Weather Forecast screenshot" title="Ride in all conditions!">
 <!-- raw HTML omitted --> <em>Should you pack that waterproof?</em> <!-- raw HTML omitted --></p>
 <p>The forecast provides: Current conditions, a 7 day forecast summary and a detailed 48 hour forecast.</p>
 <h4 id="my-friends-had-a-crash-what-do-i-do">My friend&rsquo;s had a crash, what do I do!</h4>
 <p>Next up, a feature that we hope nobody ever needs, but that they might be glad to have if they ever do!</p>
-<p><img alt="Accident reporting screenshot" src="/img/2020-07/AccidentReportingScreenshot.jpg" title="Ouch!">
+<p><img src="/img/2020-07/AccidentReportingScreenshot.jpg" alt="Accident reporting screenshot" title="Ouch!">
 <!-- raw HTML omitted --> <em>Hopefully nobody will ever need to use this!</em> <!-- raw HTML omitted --></p>
 <p>The app can be used to help identify the users location, using <a href="https://what3words.com/">What3Words</a>, a system that maps the whole planet as 3m x 3m squares, and provides a simple 3 word identifier for each.</p>
 <p>Additionally it can be used to dial local emergency services and provides a link to the <a href="https://www.redcross.org.uk/">British Red Cross first aid app</a>. <em>(this is a great application that I recommend, however it is no substitute for proper first aid training)</em></p>
@@ -649,7 +648,7 @@ Valves: Muc-Off; Fingers: Models own What do they do?</description>
 <p>My lockdown quest to add more <em>shiny, orange bits</em> to my main mountain bike continues!
 This time, I&rsquo;m adding a little more <em>bling</em>, but with arguably a bit more functional value thrown in compared to the <a href="/posts/wolf-tooth-bling-kit/">Wolf Tooth Blink Kit</a> that I reviewed in my first #LockdownUpgrades post.</p>
 <p>Ladies and gentlemen, I present to you, <em>Muc-Off Tubeless Valves:</em></p>
-<p><img alt="Muc-Off tubeless valves image" src="/img/2020-07/muc-off-pack.jpg" title="More shinies!">
+<p><img src="/img/2020-07/muc-off-pack.jpg" alt="Muc-Off tubeless valves image" title="More shinies!">
 <!-- raw HTML omitted --> <em>Valves: Muc-Off; Fingers: Models own</em> <!-- raw HTML omitted --></p>
 <h3 id="what-do-they-do">What do they do?</h3>
 <p>Put simply, they&rsquo;re a set of valves that slot into your wheel rims and let you add air to your tyres!
@@ -668,22 +667,22 @@ To do this, removing the core of the valve so that you can blast air in is super
 Previously, I&rsquo;ve purchased a valve core removal tool to help with this (from <em>Stan&rsquo;s</em> obviously!) and that cost in the region of £8&hellip; see where the value is coming from now?</p>
 <p>Finally though, these valves are both super well engineered - the whole valve is machined aluminium (that&rsquo;s <em>aluminum</em> if you live on the wrong side of the Atlantic!) and they feel super premium.</p>
 <p>..and of course, let&rsquo;s not forget their true purpose - they just <em>look great</em> and come in a whole rainbow of colours:</p>
-<p><img alt="Muc-Off tubeless valves &lsquo;all the colours&rsquo; image" src="/img/2020-07/Valves-All-Colours.jpg" title="Taste the rainbow!">
+<p><img src="/img/2020-07/Valves-All-Colours.jpg" alt="Muc-Off tubeless valves &lsquo;all the colours&rsquo; image" title="Taste the rainbow!">
 <!-- raw HTML omitted --> <em>Taste the rainbow!</em> <!-- raw HTML omitted --></p>
 <h3 id="anything-they-dont-do-well">Anything they don&rsquo;t do well?</h3>
 <p>Honestly, these fulfil such a simple purpose that it&rsquo;s hard to nit-pick here, however there is <em>one</em> area where they fall down (which isn&rsquo;t really their fault) - I run a Nukeproof ARD RIM insert in my back wheel, and as that&rsquo;s a big foam noodle, it comes with special valves which push the foam away from the valve hole a little to allow an air channel to allow enough air flow to seat tyres:</p>
 <p>Like this:
-<img alt="Nukeproof ARD valves image" src="/img/2020-07/Nukeproof-valve.jpg" title="Nukeproof ARD valve">
+<img src="/img/2020-07/Nukeproof-valve.jpg" alt="Nukeproof ARD valves image" title="Nukeproof ARD valve">
 <!-- raw HTML omitted --> <em>The top (bottom?) of a Nukeproof ARD valve yesterday</em> <!-- raw HTML omitted --></p>
 <p>The bottom of the Muc-Off valves is completely flat, which means it doesn&rsquo;t have this air channel.</p>
 <p>Now, there are a few options around this - firstly, you could just not run inserts (I expect most people don&rsquo;t!) - I like having one in the back to protect my rim in the event of a <em>bad</em> puncture - I also run a lighter tyre casing at the rear at the moment, so hopefully it&rsquo;ll stop me tearing it! Or you could use one of the other tyre inserts available <em>(Huck Norris, Rimpact or the super premium Cushcore&rsquo;s wouldn&rsquo;t have this issue).</em></p>
 <p>The next option would be to buy Nukeproof&rsquo;s competing valve! They also now do a <em>really cool looking</em> anodised aluminium valve:</p>
-<p><img alt="Nukeproof aluminium valves image" src="/img/2020-07/nukeproof-new-valves.jpg" title="These look familiar...">
+<p><img src="/img/2020-07/nukeproof-new-valves.jpg" alt="Nukeproof aluminium valves image" title="These look familiar...">
 <!-- raw HTML omitted --> <em>Look familiar? - Image &ldquo;borrowed&rdquo; from singletrackworld.com - subscribe to their mag, it&rsquo;s great!</em> <!-- raw HTML omitted --></p>
 <p>The Nukeproof&rsquo;s are a little cheaper I think, and have a valve core tool on <em>each</em> cap, rather than just on the &lsquo;spare&rsquo; cap - but I went for the Muc-Off&rsquo;s for two reasons. First, I didn&rsquo;t know the Nukeproof ones existed when I got them <em>(seriously&hellip;)</em>, but second, and <em>by far</em> most importantly: <em>They don&rsquo;t come in orange!</em>.
 Come on Nukeproof, sort it out!</p>
 <p>The final option, and the one I went for, is to just make your own ghetto McGuyver <em>(hi fellow 80&rsquo;s kids!)</em> solution:</p>
-<p><img alt="Ghetto fix image" src="/img/2020-07/ghetto-fix.jpg" title="Seriously, what&#39;s with all the thumb shots!">
+<p><img src="/img/2020-07/ghetto-fix.jpg" alt="Ghetto fix image" title="Seriously, what's with all the thumb shots!">
 <!-- raw HTML omitted --> <em>Believe it or not, this worked just fine!</em> <!-- raw HTML omitted --></p>
 <p>Yep - I stuffed a manky bit of cardboard and some tape around one of my valves&hellip;and it worked <em>just fine!</em></p>
 <h3 id="anything-else-to-say">Anything else to say?</h3>
@@ -691,7 +690,7 @@ Come on Nukeproof, sort it out!</p>
 <p>The only other point I think I should note is that they come in three lengths - 44mm, 60mm or 80mm. Now, I assumed this was <em>&lsquo;short&rsquo;, &rsquo;normal&rsquo; and &rsquo;long&rsquo;</em>&hellip;so just went ahead and ordered the 60mm ones without measuring my current valves.</p>
 <p>Turns out 60mm is <em>really long</em>&hellip;honestly, I can&rsquo;t imagine why anyone would want or need 80mm ones on a mountain bike (that&rsquo;s like <em>a mile</em> long, right?).</p>
 <p>Despite this though, I&rsquo;m really happy with how these look on the bike - just a wee subtle bit of colour on the wheels. <em>Lovely</em>. The fact they also function super well is a bonus!</p>
-<p><img alt="The final result image" src="/img/2020-07/The-end-result.jpg" title="Super sexy!">
+<p><img src="/img/2020-07/The-end-result.jpg" alt="The final result image" title="Super sexy!">
 <!-- raw HTML omitted --> <em>Is that a Muc-Off Tubeless valve on your rims, or are you just pleased to see me?</em> <!-- raw HTML omitted --></p>
 <p>One last note - whilst writing this I found out that Muc-Off,  in an <em>excellent</em> demonstration of entrepreneurship/money-grabbing <em>(delete as appropriate)</em> also now sell &lsquo;accessory kits&rsquo;, consisting of just the lockrings and caps, which would allow you to have these different colours to the main valve - I can&rsquo;t help but wonder how blue ones would look with the orange on my bike&hellip;</p>
 <p><em>(Honestly hope that last bit didn&rsquo;t sound too arsey! I think Muc-Off are an awesome company, I&rsquo;ve been buying their stuff for almost 25 years!)</em></p>
@@ -742,7 +741,7 @@ Come on Nukeproof, sort it out!</p>
 <p><em>I&rsquo;ve wasted all that saved cash on shiny trinkets for my bikes</em>.</p>
 <hr>
 <h3 id="first-up-the-wolf-tooth-bling-kit">First up: <strong>The Wolf Tooth Bling Kit</strong></h3>
-<p><img alt="Wolf Tooth Bling Kit image" src="/img/2020-06/WT_Bling_Kit_official.jpg" title="Doesn&#39;t it look shiny!">
+<p><img src="/img/2020-06/WT_Bling_Kit_official.jpg" alt="Wolf Tooth Bling Kit image" title="Doesn't it look shiny!">
 <!-- raw HTML omitted --> <em>Golem would jizz his pants if he saw these rings!</em> <!-- raw HTML omitted --></p>
 <p>So, what is it? Well, those engineering geniuses at Wolf Tooth Components have toiled away for hours and created&hellip;</p>
 <p><em>some shiny headset spacers!</em></p>
@@ -750,7 +749,7 @@ Come on Nukeproof, sort it out!</p>
 <p>Honestly, it&rsquo;d be hard to get any of these <em>wrong</em>, and the guys at Wolf Tooth have some pretty awesome components in their line up, so it&rsquo;d be a bit daft to spend too much time talking about functionality - this is just <em>bike jewellery</em>, hell they don&rsquo;t try to hide that, it&rsquo;s called the <em>bling kit</em> after all!</p>
 <p>The only thing that does stand out is the top cap, which rather than sitting flush with the top of your steerer now incorporates a 5mm spacer into it, so it kinda sits <em>over</em> the top of your steerer, but honestly, this is the one bit of the kit I could take or leave. There&rsquo;s nothing wrong with it - unless of course you want to run your stem right at the top of your steerer - it&rsquo;s just <em>different</em>.</p>
 <p>So why would you put these on your bike? To save a <em>shit-ton of weight?</em></p>
-<p><img alt="Wolf Tooth Bling Kit weight image" src="/img/2020-06/WTBK_Weight_Weenie.jpg" title="I can see those Strava PR&#39;s now...">
+<p><img src="/img/2020-06/WTBK_Weight_Weenie.jpg" alt="Wolf Tooth Bling Kit weight image" title="I can see those Strava PR's now...">
 <!-- raw HTML omitted --> <em>Strava KOM here I come!</em> <!-- raw HTML omitted --></p>
 <p>Yes. Yes, I did weight them - and compared to the spacers, top cap and bolt I was replacing I saved a <em>whopping</em> six grams!
 So yeah, no, you don&rsquo;t buy them to save weight - you buy them to <em>look cool</em>, and look cool they do&hellip; can you really put a price on that?</p>
@@ -758,10 +757,10 @@ So yeah, no, you don&rsquo;t buy them to save weight - you buy them to <em>look 
 <p><em>&ldquo;But Grant&hellip;why?!?&rdquo;</em> I hear you ask! Well, there are a couple of reasons - firstly, as I&rsquo;ve already alluded to, Wolf Tooth make some fine kit, so you can have a bit of faith that these are decent <em>tiny, shiny, things</em>.</p>
 <p>Second - neither of my mountain bikes have long steerers or run many spacers at the moment, and both only have one set of bottle mounts, so this kit will really do two bikes (for me, your milage may vary!), rather than just one.</p>
 <p>Third - hey, they <em>look cool</em> - the top cap has a <em>laser etched wolf FFS!</em>:</p>
-<p><img alt="Wolf Tooth Bling Kit installed" src="/img/2020-06/WTBK_Close_up.jpg" title="Hear me roar!">
+<p><img src="/img/2020-06/WTBK_Close_up.jpg" alt="Wolf Tooth Bling Kit installed" title="Hear me roar!">
 <!-- raw HTML omitted --> <em>Is that a fire hydrant in your pants, or are you just pleased to see me?</em> <!-- raw HTML omitted --></p>
 <p>I really don&rsquo;t have much else to add. The kit is lovely, it&rsquo;s eye-wateringly expensive (for what you get - you could buy anodised bolts and spacers elsewhere for literally half the price) and I couldn&rsquo;t be happier with it <em>(hashtag lockdown hysteria&hellip;)</em>, even if you can&rsquo;t see the bottle mount bolts when you&rsquo;ve got a cage and bottle on the bike&hellip;</p>
-<p><img alt="Wolf Tooth Bling Kit bottle mounts" src="/img/2020-06/WTBK_Bolts.jpg" title="Still sexy though!">
+<p><img src="/img/2020-06/WTBK_Bolts.jpg" alt="Wolf Tooth Bling Kit bottle mounts" title="Still sexy though!">
 <!-- raw HTML omitted --> <em>It&rsquo;d be rude to cover these up&hellip; where&rsquo;s my camelbak?</em> <!-- raw HTML omitted --></p>
 <hr>
 <table>
@@ -1026,7 +1025,7 @@ Sentinels of the Multiverse is a co-operative card game for 2-5 players, which c
 <p>Finally, it’s the turn of the Environment, and again like the villain turn there are usually start and/or end of turn effects to resolve, with a new card drawn and played in between. The environment can help or hinder both the heroes and villains, and adds a great element to the gameplay, often forcing players to choose whether to deal with issues in the environment (Help! A train’s about to crash into a crowd of people!) or to keep focusing on the villain and leave the environment to wreak it’s own havoc.</p>
 <p>The game continues until either the villain or all of the heroes been reduced to zero hit-points and are therefore defeated. Interestingly, as this is a co-op game even if a hero ‘dies’ they can continue to play along, just taking one of a selection of simple actions (often giving extra moves or support to another hero), on the rationale that the other hero’s are fighting harder to avenge their fallen companion.</p>
 <p>Another nice touch is that there’s no ‘decking’ in the game – if you run out of cards you simply re-shuffle your discard pile into a fresh deck.</p>
-<p><img alt="Sentinels cards images" src="/img/2022-10/sentinels-cards.jpeg" title="Sentinels, ASSEMBLE!...">
+<p><img src="/img/2022-10/sentinels-cards.jpeg" alt="Sentinels cards images" title="Sentinels, ASSEMBLE!...">
 <!-- raw HTML omitted --> <em>A selection of heroes!</em> <!-- raw HTML omitted --></p>
 <p><strong>Components</strong></p>
 <p>The cards are a nice quality, and feel like you’ll get a bit of use out of them, and you certainly get a lot of them for your hard earned cash! The core game comes with almost 600 cards, which includes decks for 4 different villains to face, 4 different environments to face-off in and a whopping 10 different heroes to play as!</p>
@@ -1133,7 +1132,7 @@ Battlestar Galactica: The Board Game is based on the first season of the 2004 re
 <p>Good use is made of this premise to add an excellent bluffing and strategy element to the game, as at any time up to 3 Cylon’s (depending on the number of players and stage of the game) may be working against the human players, with their only aim being to destroy Galactica and end human life forever!</p>
 <p><strong>Gameplay</strong></p>
 <p>The game starts with each player choosing a character, performing their set-up (positioning their player marker on the board, drawing cards etc) and drawing their loyalty card – which determines whether they truly are human, or a cylon in disguise! (At this point its usually wise to invoke a house rule for viewing your loyalty card for 60 seconds, as the Cylon ones often have special powers on them, so staring at them can give the game away!)</p>
-<p><img alt="Loyalty cards image" src="/img/2022-10/determining-cylon.jpeg" title="You never can be sure...">
+<p><img src="/img/2022-10/determining-cylon.jpeg" alt="Loyalty cards image" title="You never can be sure...">
 <!-- raw HTML omitted --> <em>Frakin&rsquo; toasters!</em> <!-- raw HTML omitted --></p>
 <p>Cylon’s can either attempt to sabotage skill checks, or can reveal themselves to gain additional powers.</p>
 <p>Each players turn (whilst they are either human, or <em>unrevealed</em> as a cylon) takes place over 6 stages:</p>
@@ -1151,7 +1150,7 @@ Battlestar Galactica: The Board Game is based on the first season of the 2004 re
 <p>This really just scratches the surface of this great game, and doesn’t really touch on the space combat or roles of special characters like the president and admiral…</p>
 <p><strong>Components</strong></p>
 <p>As usual the quality of the components provided by Fantasy Flight is top-notch: the board is solid and the cards are all excellent (although the skill cards are a little on the small side).</p>
-<p><img alt="Battlestar Galactica components image" src="/img/2022-10/bsg-game-layout.png" title="Lots of quality cardboard!">
+<p><img src="/img/2022-10/bsg-game-layout.png" alt="Battlestar Galactica components image" title="Lots of quality cardboard!">
 <!-- raw HTML omitted --> <em>Let&rsquo;s play!</em> <!-- raw HTML omitted --></p>
 <p>The game also comes with several ship miniatures, which whilst not on par with dedicated miniatures games are still nicer than using wee tokens for the space combat element of the game (other ships, such as the rest of the colonial fleet are represented by tokens which have values printed on their underside.)</p>
 <p>It’s a shame the Cylon basestars don’t have their own models, instead represented by large ‘tokens’, however I believe two are contained within the Pegasus expansion (which expands the game into the events depicted in the second TV series…)</p>

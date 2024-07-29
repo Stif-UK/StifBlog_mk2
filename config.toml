@@ -1,5 +1,5 @@
 baseurl      = "/"
-title        = "StifBlog_mk2"
+title        = "granthutchison.com"
 languageCode = "en-GB"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -12,6 +12,7 @@ paginate     = 10
 
   # Subtitle for home
   homeSubtitle = "words on the internet"
+  subtitle  = "words on the internet"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -35,17 +36,15 @@ paginate     = 10
     tag      = "tags"
     series   = "series"
 
-[languages]
-  [languages.en]
-    title = "granthutchison"
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
+# [languages]
+#   [languages.en]
+#     title = "granthutchison"
+#     keywords = ""
+#     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+#     readOtherPosts = "Read other posts"
 
-  [languages.en.params]
-    subtitle  = "words on the internet"
 
-    [languages.en.params.logo]
+    [params.logo]
       logoText = "granthutchison.com"
       logoHomeLink = "/"
     # or

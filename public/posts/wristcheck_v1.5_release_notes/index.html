@@ -8,7 +8,7 @@
 <meta name="author" content="">
 <meta name="description" content="WristCheck v1.5 Release Notes Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases&amp;hellip;) I&amp;rsquo;ll add a quick summary at the end!
 But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&amp;rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&amp;rsquo;re looking for visually) and made it easier to jump between the various watch box views (i." />
-<meta name="keywords" content=", App Development, Watches, Tech, Release Notes" />
+<meta name="keywords" content="homepage, blog, App Development, Watches, Tech, Release Notes" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
 <link rel="canonical" href="/posts/wristcheck_v1.5_release_notes/" />
@@ -16,7 +16,7 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
 
     <title>
         
-            WristCheck v1.5 Release Notes :: granthutchison  — words on the internet
+            WristCheck v1.5 Release Notes :: granthutchison.com  — words on the internet
         
     </title>
 
@@ -56,11 +56,11 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
 
 
     <meta property="og:url" content="/posts/wristcheck_v1.5_release_notes/">
-  <meta property="og:site_name" content="granthutchison">
+  <meta property="og:site_name" content="granthutchison.com">
   <meta property="og:title" content="WristCheck v1.5 Release Notes">
   <meta property="og:description" content="WristCheck v1.5 Release Notes Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases…) I’ll add a quick summary at the end!
 But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I’ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you’re looking for visually) and made it easier to jump between the various watch box views (i.">
-  <meta property="og:locale" content="en">
+  <meta property="og:locale" content="en_GB">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2023-09-06T15:44:33+01:00">
@@ -185,7 +185,7 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
 <h3 id="redesign-of-the-watch-box-ui">Redesign of the Watch Box UI</h3>
 <p>The original view presented in WristCheck was just a sterile text only list of watches, with an expanding accordion tile at the top that hid links to search and the secondary watch box views&hellip; I was never particularly happy with this view. When I was getting stuck into using Flutter I had issues with getting images onto the tiles without them messing up the various dimensions, and I just <em>could not</em> get the view to refresh as I wanted when the database filters were changed, hence creating separate individual pages for the sold watches and wishlist views.</p>
 <p>But a year or so into my adventures with Flutter I&rsquo;m now much more confident with it&rsquo;s capabilities and how the various widgets interact with each other&hellip; so it felt like a good time to rebuild the homepage!</p>
-<p><img alt="WristCheck new UI" src="/img/2023-09/dark_listview.jpg">
+<p><img src="/img/2023-09/dark_listview.jpg" alt="WristCheck new UI">
 <!-- raw HTML omitted --><em>The new user interface!</em><!-- raw HTML omitted --></p>
 <p>One major update is the addition of the drop-down picker at the top of the page - you can now move from your watch box, to wish list, to list of sold watches or directly to a random watch by selecting from the dropdown and the page will instantly refresh to display your selection! No more navigating to <em>different pages!</em></p>
 <h3 id="search-is-more-prominent">Search is more prominent</h3>
@@ -194,7 +194,7 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
 <h3 id="quickly-re-order-your-collection">Quickly re-order your collection</h3>
 <p>Previously the watches always appeared in the list in the order you added them to the database&hellip; which was <em>fine</em>, but not the best experience&hellip; whenever you got a new watch, it would always be the last one on the screen!</p>
 <p>Now I&rsquo;ve added the ability to re-order the collection on the fly, using one of several options (I restrained myself to avoid overdoing it, but if something is really missing shout out in an app review!)</p>
-<p><img alt="Display Order Picker" src="/img/2023-09/display_order.jpg">
+<p><img src="/img/2023-09/display_order.jpg" alt="Display Order Picker">
 <!-- raw HTML omitted --><em>Quickly re-order your collection!</em><!-- raw HTML omitted --></p>
 <p>Since moving the release from my test device to my day to day phone I&rsquo;ve found this fantastic! I like to show my collection by last worn date, so my recently worn watches are always at the top (and when I wear something different from the previous day it&rsquo;s nice to see the page refresh itself!)</p>
 <h3 id="watch-images-in-the-main-view">Watch images in the main view</h3>
@@ -203,7 +203,7 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
 <h3 id="grid-or-list-view">Grid or list view</h3>
 <p>I mentioned at the start of this post that the original watch view was just a fairly sterile list of watches&hellip; and I&rsquo;ve just mentioned that that sterile list now includes an image of the watch&hellip; but what if you want <em>more</em>?</p>
 <p>Well, now you also have the option to change the default view to a grid view, with larger pictures!</p>
-<p><img alt="WristCheck Grid View" src="/img/2023-09/light_gridview.jpg">
+<p><img src="/img/2023-09/light_gridview.jpg" alt="WristCheck Grid View">
 <!-- raw HTML omitted --><em>Display your collection in a grid view!</em><!-- raw HTML omitted --></p>
 <p>I should call out that this viewing pattern doesn&rsquo;t work well on very small screens - if your screen is too small then the watch names (neatly) truncate, and the wear dates may be hidden behind the box border! But it works well on most modern phones!</p>
 <p>Personally I love this view - I&rsquo;ve found myself using it day to day over the original list view!</p>
@@ -365,11 +365,6 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
     
     <div class="pagination">
         
-        <div class="pagination__title">
-            <span class="pagination__title-h">Read other posts</span>
-            <hr />
-        </div>
-        
 
         <div class="pagination__buttons">
             
@@ -410,7 +405,7 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
         <div class="footer__content">
             <span>&copy; 2024</span>
             <span><a href="/"></a></span>
-            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            <span></span>
             <span><a href="/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
             
         </div>

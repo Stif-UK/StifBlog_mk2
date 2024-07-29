@@ -8,7 +8,7 @@
 <meta name="author" content="">
 <meta name="description" content="Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
 I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&amp;rsquo;re in the UK and don&amp;rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer." />
-<meta name="keywords" content=", App Development, Cooking, Tech, Release Notes" />
+<meta name="keywords" content="homepage, blog, App Development, Cooking, Tech, Release Notes" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
 <link rel="canonical" href="/posts/air_fryr/" />
@@ -16,7 +16,7 @@ I had an old one that was only ever used for making chips (aka French fries for 
 
     <title>
         
-            Air Fryr :: granthutchison  — words on the internet
+            Air Fryr :: granthutchison.com  — words on the internet
         
     </title>
 
@@ -56,11 +56,11 @@ I had an old one that was only ever used for making chips (aka French fries for 
 
 
     <meta property="og:url" content="/posts/air_fryr/">
-  <meta property="og:site_name" content="granthutchison">
+  <meta property="og:site_name" content="granthutchison.com">
   <meta property="og:title" content="Air Fryr">
   <meta property="og:description" content="Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
 I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you’re in the UK and don’t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.">
-  <meta property="og:locale" content="en">
+  <meta property="og:locale" content="en_GB">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2023-04-04T09:41:53+01:00">
@@ -181,13 +181,13 @@ I had an old one that was only ever used for making chips (aka French fries for 
 <hr>
 <p>With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.</p>
 <p>I had an old one that was only ever used for making chips (aka <em>French fries</em> for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&rsquo;re in the UK and don&rsquo;t already use Quidco you should <a href="https://www.quidco.com/raf/43546/">give them a look</a>), so decided to treat myself to an absolute beast of an Air Fryer.</p>
-<p><img alt="Quidco Summary" src="/img/2023-04/QuidcoCashback.png">
+<p><img src="/img/2023-04/QuidcoCashback.png" alt="Quidco Summary">
 <!-- raw HTML omitted -->I&rsquo;ve been a Quidco member for over 10 years and averaged about £100 a year cashback, just doing normal shopping!<!-- raw HTML omitted --></p>
 <p>I&rsquo;d been squirrelling away my cashback for a while and was thinking of treating myself to a new watch, or possibly a Switch OLED, but neither of those things were things that I really <em>needed</em>&hellip;and then the Ninja Foodi Air Fryers caught my eye&hellip;</p>
 <p>Now I do like to cook for the family - pulling a meal together for everyone is a nice way to wind down at the end of a busy day, and being able to do this is one of my favourite things about working from home, however I do often find myself working fairly late, so being able to cook <em>quickly</em> is a bonus for me.</p>
 <p>With the crazy rise of air fryers over the last year or so though I also feel like I&rsquo;ve been bombarded with information on them and was pleasantly surprised at just how <em>capable</em> they are&hellip; I was mad only using the old one for the odd plate of chips, these things can cook <em>so much</em> and do it well!</p>
 <p>So I decided to take a chunk of my cashback out (boosted by 6% as I converted them to gift vouchers!) and treat myself and my family to a fancy all-singing, all-dancing Ninja AF451.</p>
-<p><img alt="Ninja Foodi Max AF451" src="/img/2023-04/AirFryer.jpg">
+<p><img src="/img/2023-04/AirFryer.jpg" alt="Ninja Foodi Max AF451">
 <!-- raw HTML omitted -->This bad boy is HUGE!<!-- raw HTML omitted --></p>
 <p>It&rsquo;s been a few weeks since it arrived now and I&rsquo;ve been cooking with it <em>loads</em> - I&rsquo;ve cooked steak, whole chickens, sides of salmon, roast beef, chicken wings&hellip; my wife has used it almost daily to do &lsquo;boiled&rsquo; eggs! It&rsquo;s so easy to use, so quick and so, so versatile!</p>
 <p>But anyway&hellip; that&rsquo;s not really the purpose of this post is it!</p>
@@ -201,15 +201,15 @@ I had an old one that was only ever used for making chips (aka French fries for 
 <h4 id="the-calculator">The Calculator</h4>
 <p>Firstly, it offers a quick calculator function - air fryers are significantly faster than a standard oven, but can also cook the same dishes at lower temperatures. When I was researching what to buy I came across a simple algorithm for converting oven cooking times to air fryer ones - essentially, know 20C/35F off the temperature, and 20% off the time.</p>
 <p>Something super easy to do in an app, and Flutter/Material Design makes this even easier with simple to use sliders (although maybe I&rsquo;ll write up a more tech focused note later as to why it&rsquo;s not really that easy when you start adding options like changing the units and making saved calculations editable!)</p>
-<p><img alt="The app calculator" src="/img/2023-04/Home-Light.png"></p>
+<p><img src="/img/2023-04/Home-Light.png" alt="The app calculator"></p>
 <h3 id="the-notebook">The notebook</h3>
 <p>Secondly, the notebook&hellip; now I&rsquo;m a bit of a pragmatist, and I know that an algorithm like the above is really just a <em>general rule</em>, it&rsquo;ll be right some of the time, but every oven and every air fryer is different (and let&rsquo;s not get started on individual tastes when it comes to food!), so I thought, <em>&lsquo;why not allow calculations to be saved and edited later&rsquo;</em>, hence <em>The Notebook</em>:</p>
-<p><img alt="The Notebook" src="/img/2023-04/AirFryerNotebook.jpg"></p>
+<p><img src="/img/2023-04/AirFryerNotebook.jpg" alt="The Notebook"></p>
 <p>Now what&rsquo;s the point of a notebook if you can&rsquo;t keep notes in it, so as well as allowing you to save a title, the cooking temperature and time, you can also write detailed notes with each entry and categorise the note for future reference (at present the categories just show against the note with an icon, but in a future release I&rsquo;ll add in a category filter too!).</p>
 <p>The notes are fully editable, so if you realise your dish needed more time, to be hotter or just that you want to make a note of what to try the next time you cook it, you can quickly and easily update the entry.</p>
 <h3 id="notebook-search">Notebook Search</h3>
 <p>I know I mentioned two things, but since starting to write this post I got sidetracked and released an updated v1.1 of the app (I&rsquo;m nice like that) which also includes a real-time search function, to quickly find things in an ever growing notebook</p>
-<p><img alt="Notebook Search" src="/img/2023-04/NotebookSearch.png"></p>
+<p><img src="/img/2023-04/NotebookSearch.png" alt="Notebook Search"></p>
 <p>&hellip;and that&rsquo;s a wrap! I had a lot of fun putting this together (you know how I <em>love</em> building silly wee apps!) and have a few ideas to still add to it, so keep an eye out for a v1.2 before too long!</p>
 <p>If you&rsquo;d like to give Air Fryr a try you can find it <a href="https://apps.apple.com/us/app/air-fryr/id6446950736">on the App Store</a> and <a href="https://play.google.com/store/apps/details?id=com.stifdev.airfryr">on Google Play</a></p>
 
@@ -365,11 +365,6 @@ I had an old one that was only ever used for making chips (aka French fries for 
     
     <div class="pagination">
         
-        <div class="pagination__title">
-            <span class="pagination__title-h">Read other posts</span>
-            <hr />
-        </div>
-        
 
         <div class="pagination__buttons">
             
@@ -410,7 +405,7 @@ I had an old one that was only ever used for making chips (aka French fries for 
         <div class="footer__content">
             <span>&copy; 2024</span>
             <span><a href="/"></a></span>
-            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            <span></span>
             <span><a href="/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
             
         </div>
