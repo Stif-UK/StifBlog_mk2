@@ -1,399 +1,146 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on granthutchison</title>
-    
-    
-    
-    <link>/tags/</link>
-    <description>Recent content in Tags on granthutchison</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
+    <title>Tags on Hello Friend NG</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Hello Friend NG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 12 Oct 2023 13:11:09 +0100</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>App Development</title>
-      <link>/tags/app-development/</link>
+      <link>//localhost:1313/tags/app-development/</link>
       <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
-      
-      <guid>/tags/app-development/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/app-development/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Privacy</title>
-      <link>/tags/privacy/</link>
+      <link>//localhost:1313/tags/privacy/</link>
       <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
-      
-      <guid>/tags/privacy/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/privacy/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Ads</title>
-      <link>/tags/ads/</link>
+      <link>//localhost:1313/tags/ads/</link>
       <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
-      
-      <guid>/tags/ads/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/ads/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Earning Update</title>
-      <link>/tags/earning-update/</link>
+      <link>//localhost:1313/tags/earning-update/</link>
       <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
-      
-      <guid>/tags/earning-update/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/earning-update/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Monetisation</title>
-      <link>/tags/monetisation/</link>
+      <link>//localhost:1313/tags/monetisation/</link>
       <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
-      
-      <guid>/tags/monetisation/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/monetisation/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Release Notes</title>
-      <link>/tags/release-notes/</link>
+      <link>//localhost:1313/tags/release-notes/</link>
       <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
-      
-      <guid>/tags/release-notes/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/release-notes/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Tech</title>
-      <link>/tags/tech/</link>
+      <link>//localhost:1313/tags/tech/</link>
       <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
-      
-      <guid>/tags/tech/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/tech/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Watches</title>
-      <link>/tags/watches/</link>
+      <link>//localhost:1313/tags/watches/</link>
       <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
-      
-      <guid>/tags/watches/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/watches/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Cooking</title>
-      <link>/tags/cooking/</link>
+      <link>//localhost:1313/tags/cooking/</link>
       <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
-      
-      <guid>/tags/cooking/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/cooking/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Video Games</title>
-      <link>/tags/video-games/</link>
+      <link>//localhost:1313/tags/video-games/</link>
       <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
-      
-      <guid>/tags/video-games/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/video-games/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Board Games</title>
-      <link>/tags/board-games/</link>
+      <link>//localhost:1313/tags/board-games/</link>
       <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
-      
-      <guid>/tags/board-games/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/board-games/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Review</title>
-      <link>/tags/review/</link>
+      <link>//localhost:1313/tags/review/</link>
       <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
-      
-      <guid>/tags/review/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/review/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>TableTop</title>
-      <link>/tags/tabletop/</link>
+      <link>//localhost:1313/tags/tabletop/</link>
       <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
-      
-      <guid>/tags/tabletop/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/tabletop/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Blog</title>
-      <link>/tags/blog/</link>
+      <link>//localhost:1313/tags/blog/</link>
       <pubDate>Wed, 14 Sep 2022 11:06:50 +0100</pubDate>
-      
-      <guid>/tags/blog/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/blog/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Cookies</title>
-      <link>/tags/cookies/</link>
+      <link>//localhost:1313/tags/cookies/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cookies/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/cookies/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>MTB</title>
-      <link>/tags/mtb/</link>
+      <link>//localhost:1313/tags/mtb/</link>
       <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
-      
-      <guid>/tags/mtb/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/mtb/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Bike Bling</title>
-      <link>/tags/bike-bling/</link>
+      <link>//localhost:1313/tags/bike-bling/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
-      
-      <guid>/tags/bike-bling/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/bike-bling/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Lockdown Upgrades</title>
-      <link>/tags/lockdown-upgrades/</link>
+      <link>//localhost:1313/tags/lockdown-upgrades/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
-      
-      <guid>/tags/lockdown-upgrades/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/lockdown-upgrades/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Electric Cars</title>
-      <link>/tags/electric-cars/</link>
+      <link>//localhost:1313/tags/electric-cars/</link>
       <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
-      
-      <guid>/tags/electric-cars/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>//localhost:1313/tags/electric-cars/</guid>
+      <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App Development on granthutchison</title>
+    <link>/tags/app-development/</link>
+    <description>Recent content in App Development on granthutchison</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 12 Oct 2023 13:11:09 +0100</lastBuildDate>
+    <atom:link href="/tags/app-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wristcheck Privacy Policy</title>
+      <link>/privacy/wristcheck_privacy_policy/</link>
+      <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
+      <guid>/privacy/wristcheck_privacy_policy/</guid>
+      <description>WristCheck Privacy Policy v1.2.0 Privacy Policy&#xA;Grant Hutchison built the WristCheck app as an Ad Supported app. This SERVICE is provided by Grant Hutchison at no cost and is intended for use as is.&#xA;This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.&#xA;If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
+    <item>
+      <title>Breaking Even</title>
+      <link>/posts/breaking_even/</link>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
+      <guid>/posts/breaking_even/</guid>
+      <description>Breaking Even&amp;hellip; Right, while I&amp;rsquo;m in the blogging mood, here&amp;rsquo;s another post that really is long overdue! Back in March (wow!) I wrote a quick update on how much income I&amp;rsquo;d made via advertising on WristCheck and via ads on the website and promised further updates.&#xA;Since then a few major things have happened - firstly, I released two additional apps (technically I released MP Checklist just before that post&amp;hellip;) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off forever (and again, I definitely need to write a little about how and why I implemented that!</description>
+    </item>
+    <item>
+      <title>Self Promotion</title>
+      <link>/posts/self_promotion/</link>
+      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+      <guid>/posts/self_promotion/</guid>
+      <description>Attempting to grow my user base Now that I&amp;rsquo;ve released three apps - two of which I&amp;rsquo;d like to think have the potential to be really useful to a decent number of people (sorry MP Checklist&amp;hellip; I think you might just be a bit too niche!) - I think it&amp;rsquo;s time that I make a bit more of an effort to get help more people to find the apps!&#xA;So, as well as releasing updates to both WristCheck and Air Fryr recently, I&amp;rsquo;ve also undertaken a couple of tasks with the hope of getting the apps in front of more people.</description>
+    </item>
+    <item>
+      <title>WristCheck v1.5 Release Notes</title>
+      <link>/posts/wristcheck_v1.5_release_notes/</link>
+      <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
+      <guid>/posts/wristcheck_v1.5_release_notes/</guid>
+      <description>WristCheck v1.5 Release Notes Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases&amp;hellip;) I&amp;rsquo;ll add a quick summary at the end!&#xA;But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&amp;rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&amp;rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.</description>
+    </item>
+    <item>
+      <title>Air Fryr Privacy Policy</title>
+      <link>/privacy/air-fryer-calculator-privacy-policy/</link>
+      <pubDate>Mon, 17 Apr 2023 11:30:10 +0000</pubDate>
+      <guid>/privacy/air-fryer-calculator-privacy-policy/</guid>
+      <description>Air Fryr Privacy Policy Privacy Policy v1.1&#xA;Grant Hutchison built the Air Fryr app as an Ad Supported app. This SERVICE is provided by Grant Hutchison at no cost and is intended for use as is.&#xA;This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.&#xA;If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
+    <item>
+      <title>Air Fryr</title>
+      <link>/posts/air_fryr/</link>
+      <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
+      <guid>/posts/air_fryr/</guid>
+      <description>Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.&#xA;I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&amp;rsquo;re in the UK and don&amp;rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.</description>
+    </item>
+    <item>
+      <title>The Millionaire Life</title>
+      <link>/posts/the_millionaire_life/</link>
+      <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
+      <guid>/posts/the_millionaire_life/</guid>
+      <description>Users and Earnings So, back in September I both implemented ads on the site and released my first proper app (although I didn&amp;rsquo;t put Ads into WristCheck until v1.2 about a month later).&#xA;This was all a fun experiment to see if I could make this wee hobby break even&amp;hellip; want to hear how it&amp;rsquo;s going?&#xA;A summary of costs Let&amp;rsquo;s start off with what it costs to put things together.</description>
+    </item>
+    <item>
+      <title>New App: MP Checklist</title>
+      <link>/posts/new_app_mp_checklist/</link>
+      <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
+      <guid>/posts/new_app_mp_checklist/</guid>
+      <description>A helper app for Metroid Prime&amp;hellip; Ok, so I realise this post quickly became an essay - if you want to read some background please read on, but if you just want to know about the app, please feel free to skip to the end.&#xA;Returning to Tallon VI From 2002 until early 2017 if anyone asked me what my favourite game of all time was (and I know that&amp;rsquo;s a school playground question&amp;hellip;) without hesitation I&amp;rsquo;d have answered Metroid Prime.</description>
+    </item>
+    <item>
+      <title>MP Checklist Privacy Policy</title>
+      <link>/privacy/mp_checklist_privacy_policy/</link>
+      <pubDate>Sat, 18 Feb 2023 19:25:53 +0000</pubDate>
+      <guid>/privacy/mp_checklist_privacy_policy/</guid>
+      <description>MP Checklist Privacy Policy v1.0 Privacy Policy&#xA;Grant Hutchison built the MP Checklist app as an Ad Supported app. This SERVICE is provided by Grant Hutchison at no cost and is intended for use as is.&#xA;This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.&#xA;If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
+    <item>
+      <title>WristCheck v1.3 Release Notes</title>
+      <link>/posts/wristcheck_v1.3_release_notes/</link>
+      <pubDate>Tue, 25 Oct 2022 15:44:33 +0100</pubDate>
+      <guid>/posts/wristcheck_v1.3_release_notes/</guid>
+      <description>WristCheck v1.3 Release Notes Version 1.3 of WristCheck is now available to the app beta testers, so will be released over the next couple of days (as I write this I&amp;rsquo;ve already got confirmation that Apple have approved it, so it&amp;rsquo;s just a case of hitting the button!) As before I thought I&amp;rsquo;d share a post with a bit more information on what&amp;rsquo;s changed, expanding a bit on the bullet points you&amp;rsquo;ll see in the app or on the store listings.</description>
+    </item>
+    <item>
+      <title>Wristcheck 101: A guide for new users</title>
+      <link>/posts/wristcheck_101_a_guide_for_new_users/</link>
+      <pubDate>Sat, 08 Oct 2022 18:57:09 +0100</pubDate>
+      <guid>/posts/wristcheck_101_a_guide_for_new_users/</guid>
+      <description>WristCheck 101: Getting started with WristCheck WristCheck has been out in the wild for a little over a month now, and as I&amp;rsquo;ve mentioned before I&amp;rsquo;ve got plans to continually add more functionality to the app and keep it supported for a good while (free time permitting of course!)&#xA;Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professional UX designer - I&amp;rsquo;ve just built an app to the best of my abilities that performs some functions that I want access to (and on the way added some things based on user feedback) - so the app has a few bugs and might not be as straight-forward to navigate as I think it is&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Wristcheck v1.2</title>
+      <link>/posts/wristcheck_v1.2/</link>
+      <pubDate>Fri, 07 Oct 2022 10:32:34 +0100</pubDate>
+      <guid>/posts/wristcheck_v1.2/</guid>
+      <description>WristCheck v1.2 is live! So, fairly hot on the heels of my last post, there&amp;rsquo;s another update to WristCheck landing in the app stores imminently (as I write it&amp;rsquo;s already live on Android, and should hit iOS early next week).&#xA;So, what&amp;rsquo;s new this time?&#xA;Ads! Yep, I originally said these would be in v1.1, but I wanted to make sure backup/restore and notifications could be properly tested, so I pushed out v1.</description>
+    </item>
+    <item>
+      <title>Wristcheck v1.1 Preview</title>
+      <link>/posts/wristcheck_1.1_preview/</link>
+      <pubDate>Fri, 16 Sep 2022 09:39:57 +0100</pubDate>
+      <guid>/posts/wristcheck_1.1_preview/</guid>
+      <description>WristCheck v1.1 Preview If you are not embarrassed by the first version of your product, you’ve launched too late. - Reid Hoffman, LinkedIn founder&#xA;I love the above quote, and when I hit release on WristCheck v1.0 I was acutely aware that this app was not finished!&#xA;I&amp;rsquo;ve got a whole bunch of additional features I&amp;rsquo;m planning to add, but initially I&amp;rsquo;ve set my sights on a small number that will make up v1.</description>
+    </item>
+    <item>
+      <title>Wristcheck App</title>
+      <link>/posts/wristcheck-app/</link>
+      <pubDate>Thu, 08 Sep 2022 00:31:55 +0100</pubDate>
+      <guid>/posts/wristcheck-app/</guid>
+      <description>WristCheck App Version 1.0.0 is live! I&amp;rsquo;m pleased to announce that I&amp;rsquo;ve just released my first fully released app on both Android and iOS! (If you&amp;rsquo;re browsing around you may see I have previously posted about the ReboundMTB app, however this was never fully released!).&#xA;What is WristCheck? WristCheck is a digital watch box, so if you&amp;rsquo;re both a) a watch collector, and b) a nerd, then this post might interest you!</description>
+    </item>
+    <item>
+      <title>Rebound MTB App</title>
+      <link>/posts/rebound-mtb-app/</link>
+      <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
+      <guid>/posts/rebound-mtb-app/</guid>
+      <description>The Rebound MTB App Part 1: The beta release For the past forever I&amp;rsquo;ve been studying with the Open University, working towards a Bachelor&amp;rsquo;s degree in Software Engineering and after all that time the end is in sight!.&#xA;To complete the degree I have to undertake a significant project, so I&amp;rsquo;ve teamed up with the guys at Rebound to build a mobile application to support them.&#xA;Rebound is a registered charity, which aims to &amp;ldquo;develop the local community through sport&amp;rdquo; - with a primary focus on mountain biking.</description>
+    </item>
+    <item>
+      <title>Rebound App Privacy Policy</title>
+      <link>/privacy/app-privacy-policy/</link>
+      <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
+      <guid>/privacy/app-privacy-policy/</guid>
+      <description>This post contains the Privacy Policy generated for the Rebound MTB app, developed in collaboration with Rebound SCIO&#xA;Privacy Policy&#xA;Rebound SCIO built the Rebound MTB app as an Open Source app. This SERVICE is provided by Rebound SCIO at no cost and is intended for use as is.&#xA;This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,89 +1,98 @@
-baseurl = "/"
+baseurl      = "/"
+title        = "StifBlog_mk2"
 languageCode = "en-GB"
-title = "StifBlog_mk2"
-theme = "hello-friend"
-paginate = 5
-publishDir = "docs"
-googleAnalytics = "UA-148818946-1"
-disqusShortname = 'granthutchison-com'
+theme        = "hello-friend-ng"
+paginate     = 10
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # "light" or "dark"
-  defaultTheme = "dark"
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
-  # Show reading time in minutes for posts
-  showReadingTime = true
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
-  [Params.social.share]
-    facebook = true
-    linkedin = true
-    twitter = true
-    whatsapp = false
-    email = false
+  # Subtitle for home
+  homeSubtitle = "words on the internet"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Enable theme toggle
+  enableThemeToggle = true
+
+  # Metadata mostly used in document's head
+  description = "granthutchison.com"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
 [languages]
   [languages.en]
     title = "granthutchison"
-    subtitle = "words on the internet"
     keywords = ""
-    copyright = "©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 "
-    menuMore = "More"
-    writtenBy = "by"
-    readMore = "Read more"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "02/01/2006"
-    dateFormatList = "02/01/2006"
+
+  [languages.en.params]
+    subtitle  = "words on the internet"
 
     [languages.en.params.logo]
-      logoText = "granthutchison"
+      logoText = "granthutchison.com"
       logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "blog"
-        name = "Blog"
-        url = "/"
-      [[languages.en.menu.main]]
-        identifier = "tags"
-        name = "Tags"
-        url = "/tags"
-      [[languages.en.menu.main]]
-        identifier = "categories"
-        name = "Categories"
-        url = "/categories"
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+  [[menu.main]]
+    identifier = "tags"
+    name       = "Tags"
+    url        = "/tags"
 
-        [markup]
-      [markup.goldmark]
-        [markup.goldmark.extensions]
-          definitionList = true
-          footnote = true
-          linkify = true
-          linkifyProtocol = 'https'
-          strikethrough = true
-          table = true
-          taskList = true
-          typographer = true
-        [markup.goldmark.parser]
-          autoHeadingID = true
-          autoHeadingIDType = 'github'
-          [markup.goldmark.parser.attribute]
-            block = false
-            title = true
-        [markup.goldmark.renderer]
-          hardWraps = false
-          unsafe = true
-          xhtml = false
+
+    #social
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/Stif-UK/"
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/wristtrack.app/"
+  [[params.social]]
+    name = "googleplay"
+    url = "https://play.google.com/store/apps/developer?id=stifDev"
+
+    [params.portrait]
+        path     = "/img/Stif_Five_Round.png"
+        alt      = "Portrait"
+        maxWidth = "150px"
+
+
+    [params.footer]
+    trademark = 2024
+    rss = true
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>, theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>",
+      "Made with &#10084; by <a href=\"https://github.com/Stif-UK/\">Grant Hutchison</a>"
+    ]

@@ -1,100 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Board Games on granthutchison</title>
-    
-    
-    
-    <link>/tags/board-games/</link>
-    <description>Recent content in Board Games on granthutchison</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
+    <title>Board Games on Hello Friend NG</title>
+    <link>//localhost:1313/tags/board-games/</link>
+    <description>Recent content in Board Games on Hello Friend NG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 27 Oct 2022 17:45:53 +0100</lastBuildDate>
-    
-	<atom:link href="/tags/board-games/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="//localhost:1313/tags/board-games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zombie Dice Review</title>
-      <link>/posts/zombie-dice-review/</link>
+      <link>//localhost:1313/posts/zombie-dice-review/</link>
       <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
-      
-      <guid>/posts/zombie-dice-review/</guid>
-      <description>
-        
-          &lt;img src=&#34;/img/2022-10/zombie-dice-header.png&#34;/&gt;
-          
-        
-        
-        
-          Brains is good food&amp;hellip; # (Like some of my other tabletop reviews this was originally posted on Boardgaming.com almost a decade ago! I&amp;rsquo;m reposting here as I liked writing these and might well add a few more if there&amp;rsquo;s interest) # When there is no more room in hell, the dead shall walk the earth… and try to eat your brain, unless you can run away or blast them with a shotgun!
-          
-        
-        </description>
+      <guid>//localhost:1313/posts/zombie-dice-review/</guid>
+      <description>Brains is good food&amp;hellip; (Like some of my other tabletop reviews this was originally posted on Boardgaming.com almost a decade ago! I&amp;rsquo;m reposting here as I liked writing these and might well add a few more if there&amp;rsquo;s interest) When there is no more room in hell, the dead shall walk the earth… and try to eat your brain, unless you can run away or blast them with a shotgun!</description>
     </item>
-    
     <item>
       <title>Sentinels of the Multiverse Review</title>
-      <link>/posts/sentinels-of-the-multiverse-review/</link>
+      <link>//localhost:1313/posts/sentinels-of-the-multiverse-review/</link>
       <pubDate>Thu, 17 Sep 2015 16:36:30 +0100</pubDate>
-      
-      <guid>/posts/sentinels-of-the-multiverse-review/</guid>
-      <description>
-        
-          &lt;img src=&#34;/img/2022-10/sentinels-header.png&#34;/&gt;
-          
-        
-        
-        
-          Sentinels of the Multiverse Review # (This review was originally posted on Boardgaming.com and subsequently posted on the old version of this blog, hence the 2015 post date!)
-Sentinels, ASSEMBLE # Baron Blade and his minions are attempting to destroy Megalopolis using their mobile attack platform! It’s time to join forces with Legacy and the other heroes of the Multiverse to take him down!
-Sentinels of the Multiverse is a co-operative card game for 2-5 players, which can be played in 30-45 minutes (although you might just find you want to start another game straight after…)
-          
-        
-        </description>
+      <guid>//localhost:1313/posts/sentinels-of-the-multiverse-review/</guid>
+      <description>Sentinels of the Multiverse Review (This review was originally posted on Boardgaming.com and subsequently posted on the old version of this blog, hence the 2015 post date!)&#xA;Sentinels, ASSEMBLE Baron Blade and his minions are attempting to destroy Megalopolis using their mobile attack platform! It’s time to join forces with Legacy and the other heroes of the Multiverse to take him down!&#xA;Sentinels of the Multiverse is a co-operative card game for 2-5 players, which can be played in 30-45 minutes (although you might just find you want to start another game straight after…)</description>
     </item>
-    
     <item>
       <title>Settlers of Catan Review</title>
-      <link>/posts/settlers-of-catan-review/</link>
+      <link>//localhost:1313/posts/settlers-of-catan-review/</link>
       <pubDate>Thu, 17 Sep 2015 16:13:14 +0100</pubDate>
-      
-      <guid>/posts/settlers-of-catan-review/</guid>
-      <description>
-        
-          &lt;img src=&#34;/img/2022-10/CATAN-BaseGame.jpeg&#34;/&gt;
-          
-        
-        
-        
-          Welcome to Catan! # (Like some of my other tabletop reviews this was originally posted on Boardgaming.com almost a decade ago! I&amp;rsquo;m reposting here as I liked writing these and might well add a few more if there&amp;rsquo;s interest)
-As one of a handful of new settlers on this newly colonised island, your goal is to build and expand, using your resources to become the dominant individual on the island.
-          
-        
-        </description>
+      <guid>//localhost:1313/posts/settlers-of-catan-review/</guid>
+      <description>Welcome to Catan! (Like some of my other tabletop reviews this was originally posted on Boardgaming.com almost a decade ago! I&amp;rsquo;m reposting here as I liked writing these and might well add a few more if there&amp;rsquo;s interest)&#xA;As one of a handful of new settlers on this newly colonised island, your goal is to build and expand, using your resources to become the dominant individual on the island.&#xA;Like many others who have written reviews of this great game, Catan was what I consider to be my first ‘real’ introduction to the wonderful world of board gaming, so it felt right that it should also be one of the first reviews I posted on the site!</description>
     </item>
-    
     <item>
       <title>Battlestar Galactica: The Board Game Review</title>
-      <link>/posts/battlestar_galactica_the_board_game_review/</link>
+      <link>//localhost:1313/posts/battlestar_galactica_the_board_game_review/</link>
       <pubDate>Fri, 11 Sep 2015 14:10:09 +0100</pubDate>
-      
-      <guid>/posts/battlestar_galactica_the_board_game_review/</guid>
-      <description>
-        
-          &lt;img src=&#34;/img/2022-10/bsg01_feature.jpeg&#34;/&gt;
-          
-        
-        
-        
-          BattleStar Galactica: The Board Game - Review # (This review was originally posted on Boardgaming.com and subsequently posted on the old version of this blog)
-Humanity has lost # The second Cylon war is over. Humanity has lost, and now it’s only hope for survival is a small fleet of ships carrying all that remains of the human population, lead by the aging Battlestar Galactica.
-Battlestar Galactica: The Board Game is based on the first season of the 2004 re-imagining of the classic 70’s TV show, where the surviving human fleet desperately tries to escape their Cylon pursuers on their way to the planet Kobol – the legendary planet where humanity began (and a waypoint on their longer journey to find the fabled 13th colony, Earth).
-          
-        
-        </description>
+      <guid>//localhost:1313/posts/battlestar_galactica_the_board_game_review/</guid>
+      <description>BattleStar Galactica: The Board Game - Review (This review was originally posted on Boardgaming.com and subsequently posted on the old version of this blog)&#xA;Humanity has lost The second Cylon war is over. Humanity has lost, and now it’s only hope for survival is a small fleet of ships carrying all that remains of the human population, lead by the aging Battlestar Galactica.&#xA;Battlestar Galactica: The Board Game is based on the first season of the 2004 re-imagining of the classic 70’s TV show, where the surviving human fleet desperately tries to escape their Cylon pursuers on their way to the planet Kobol – the legendary planet where humanity began (and a waypoint on their longer journey to find the fabled 13th colony, Earth).</description>
     </item>
-    
   </channel>
 </rss>

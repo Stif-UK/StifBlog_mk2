@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Random nonsense on granthutchison</title>
-    
-    
-    
-    <link>/categories/random-nonsense/</link>
-    <description>Recent content in Random nonsense on granthutchison</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
+    <title>Random Nonsense on granthutchison</title>
+    <link>//localhost:1313/categories/random-nonsense/</link>
+    <description>Recent content in Random Nonsense on granthutchison</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>©2019 - 2022 Grant Hutchison: CC BY-SA 4.0 </copyright>
     <lastBuildDate>Sun, 22 Sep 2019 12:12:59 +0100</lastBuildDate>
-    
-	<atom:link href="/categories/random-nonsense/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="//localhost:1313/categories/random-nonsense/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cart Before Horse</title>
-      <link>/posts/cart-before-the-horse/</link>
+      <link>//localhost:1313/posts/cart-before-the-horse/</link>
       <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
-      
-      <guid>/posts/cart-before-the-horse/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Putting the Cart before the Horse # So, this isn&amp;rsquo;t the first website I&amp;rsquo;ve ever thrown together. Nor the first blog. Not even the first blog built using a static site generator&amp;hellip;
-A few years ago (I&amp;rsquo;d love to say a couple, but I&amp;rsquo;m scared it&amp;rsquo;s now far more&amp;hellip;), I registered the domain granthutchison.com, not only because vanity domains are cool, but because I wanted to carve out a little corner of the internet to write and play.
-          
-        
-        </description>
+      <guid>//localhost:1313/posts/cart-before-the-horse/</guid>
+      <description>Putting the Cart before the Horse So, this isn&amp;rsquo;t the first website I&amp;rsquo;ve ever thrown together. Nor the first blog. Not even the first blog built using a static site generator&amp;hellip;&#xA;A few years ago (I&amp;rsquo;d love to say a couple, but I&amp;rsquo;m scared it&amp;rsquo;s now far more&amp;hellip;), I registered the domain granthutchison.com, not only because vanity domains are cool, but because I wanted to carve out a little corner of the internet to write and play.</description>
     </item>
-    
   </channel>
 </rss>

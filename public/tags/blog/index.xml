@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on granthutchison</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in Blog on granthutchison</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 14 Sep 2022 11:06:50 +0100</lastBuildDate>
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Addings Ads</title>
+      <link>/posts/addings_ads/</link>
+      <pubDate>Wed, 14 Sep 2022 11:06:50 +0100</pubDate>
+      <guid>/posts/addings_ads/</guid>
+      <description>Adding Ads&amp;hellip; and stuff&amp;hellip; Yep, I&amp;rsquo;ve done it&amp;hellip;sorry.&#xA;I&amp;rsquo;ve gone ahead and added some hideous advertising all across the site&amp;hellip;but why?&#xA;Good question, and I&amp;rsquo;m not sure I have a good answer&amp;hellip; It&amp;rsquo;s not really to make money, as the volume of readers of this site are tiny. It&amp;rsquo;s a site I&amp;rsquo;ve built far more for myself than for anyone else, but hey, if you&amp;rsquo;ve found you&amp;rsquo;re way here thanks for visiting (and if you&amp;rsquo;ve enjoyed your time here, even better!</description>
+    </item>
+    <item>
+      <title>Blog Workflow</title>
+      <link>/posts/blog-workflow/</link>
+      <pubDate>Tue, 24 Sep 2019 16:31:56 +0100</pubDate>
+      <guid>/posts/blog-workflow/</guid>
+      <description>My blog workflow So, I&amp;rsquo;m writing this post as much for my own benefit as anyone else&amp;rsquo;s. The last time I tried to build a blog I left it alone for a while and when I came back to it I&amp;rsquo;d forgotten the steps to build it&amp;hellip; If this is of benefit to anyone else though, great!&#xA;I&amp;rsquo;ve put this blog together using Hugo, a static site generator. What does that mean?</description>
+    </item>
+    <item>
+      <title>Cart Before Horse</title>
+      <link>/posts/cart-before-the-horse/</link>
+      <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
+      <guid>/posts/cart-before-the-horse/</guid>
+      <description>Putting the Cart before the Horse So, this isn&amp;rsquo;t the first website I&amp;rsquo;ve ever thrown together. Nor the first blog. Not even the first blog built using a static site generator&amp;hellip;&#xA;A few years ago (I&amp;rsquo;d love to say a couple, but I&amp;rsquo;m scared it&amp;rsquo;s now far more&amp;hellip;), I registered the domain granthutchison.com, not only because vanity domains are cool, but because I wanted to carve out a little corner of the internet to write and play.</description>
+    </item>
+  </channel>
+</rss>

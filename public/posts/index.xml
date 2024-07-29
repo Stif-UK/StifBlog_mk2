@@ -1,0 +1,1174 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on granthutchison</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on granthutchison</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 07 Sep 2023 17:16:39 +0100</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Breaking Even</title>
+            <link>/posts/breaking_even/</link>
+            <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
+            
+            <guid>/posts/breaking_even/</guid>
+            <description>Breaking Even&amp;hellip; Right, while I&amp;rsquo;m in the blogging mood, here&amp;rsquo;s another post that really is long overdue! Back in March (wow!) I wrote a quick update on how much income I&amp;rsquo;d made via advertising on WristCheck and via ads on the website and promised further updates.
+Since then a few major things have happened - firstly, I released two additional apps (technically I released MP Checklist just before that post&amp;hellip;) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off forever (and again, I definitely need to write a little about how and why I implemented that!</description>
+            <content type="html"><![CDATA[<h2 id="breaking-even">Breaking Even&hellip;</h2>
+<hr>
+<p>Right, while I&rsquo;m in the blogging mood, here&rsquo;s another post that really is long overdue! Back in March (wow!) I wrote a <a href="/posts/the_millionaire_life/">quick update</a> on how much income I&rsquo;d made via advertising on WristCheck and via ads on the website and promised further updates.</p>
+<p>Since then a few major things have happened - firstly, I released two additional apps (technically I released <a href="/posts/new_app_mp_checklist/">MP Checklist</a> just before that post&hellip;) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off <em>forever</em> (and again, I definitely need to write a little about how and why I implemented that!).</p>
+<p>So, it&rsquo;s now six months later and I have additional income streams&hellip; <em>am I rich yet?</em></p>
+<h3 id="the-goals">The Goals</h3>
+<p>Let&rsquo;s go through things again and break things down - I&rsquo;ll take data from a spreadsheet I keep and call out my earnings across ads and in app payments, then add it all up at the end!</p>
+<p>Firstly though, why am I monetising the apps? I won&rsquo;t do the full breakdown again, but as I mentioned in the first post on this subject developing mobile apps isn&rsquo;t free.
+Again I&rsquo;ll ignore the cost of my time <em>(it is a hobby after all!)</em> but in summary I&rsquo;m looking to make a little over <em>£100</em> a year to consider myself broken even - since the last post I&rsquo;ve registered some <a href="/posts/self_promotion/">new domains</a> so let&rsquo;s set a target of <strong>£150</strong> for the purposes of this post.</p>
+<h2 id="ad-revenue">Ad Revenue</h2>
+<p>So, how much am I earning from ads? Well firstly, <em>nobody reads this website</em>, so from the web ads, virtually nothing! In total I&rsquo;ve earned <strong>£2.79</strong> from the website, and based on this I think I&rsquo;ll roll back the ads - I think they just get in the way. I also have zero intention of adding any to the app landing pages as those aren&rsquo;t there to be monetised, but to help people find the apps.</p>
+<p>Speaking of the apps, those are actually a rather different story! My total ad revenue between October 2022 and August 2023 is actually a quite healthy <strong>£91.18</strong>&hellip; yes, you read that right, I actually earned enough from ads to cover my annual Apple Developer fee of £79!</p>
+<p>This includes a couple of spikes in both May and then again in August where the <em>Air Fryr</em> app went a bit viral - amazingly people (when they learn about the app) seem keen to try it so a few mentions on Facebook Air Fryer groups (yep, that&rsquo;s where I hang out now!) has been enough to give me some big bumps in revenue.
+After the first time the user numbers did slowly roll back down, but I&rsquo;m just coming off one of those peaks and currently have around 1100 users across the apps! Which is honestly <em>amazing!</em></p>
+<h3 id="in-app-payments">In App payments</h3>
+<p>Now lets move on to in app payments - I introduced these earlier in the year but they are paid by the platforms a month or two in arrears. Income isn&rsquo;t massive (I did get an initial jump on WristCheck from existing users who must have welcomed the ability to go ad free) but I do see the odd purchase one or two times a month.</p>
+<p>In total though I&rsquo;m tracking an total across the apps of <strong>£55.11</strong> - not massive, but I honestly think it&rsquo;s so awesome that people value what I&rsquo;ve built enough to consider paying for it at all!</p>
+<h3 id="totals">Totals</h3>
+<p>So, doing some creating rounding that adds up to rough expenditure of <strong>£150</strong> and rough income of <strong>£150</strong>&hellip;</p>
+<p>As the title of this post proclaims, I&rsquo;ve pretty much <em>broken even!</em></p>
+<h3 id="what-next">What next?</h3>
+<p>This is partly why I&rsquo;ve turned a bit of attention to trying to increase awareness of the apps to drive installs a bit - I&rsquo;m putting all revenue into a separate bank account and would love to now aim to save enough to get a second hand iPhone to aid in testing whilst I&rsquo;m building the apps (I&rsquo;ve kept my old Google Pixel 4 to use specifically as a test device and it makes a bit difference on the Android side of things) - nothing fancy, just something old and second hand that&rsquo;ll get at least one or two more OS updates.</p>
+<p>Will I manage that? Who knows, but one step at a time eh? Maybe one day I&rsquo;ll earn enough to retire!</p>
+<p>Credits: Photo by <!-- raw HTML omitted -->Alexander Grey<!-- raw HTML omitted --> on <!-- raw HTML omitted -->Unsplash<!-- raw HTML omitted --></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Self Promotion</title>
+            <link>/posts/self_promotion/</link>
+            <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+            
+            <guid>/posts/self_promotion/</guid>
+            <description>Attempting to grow my user base Now that I&amp;rsquo;ve released three apps - two of which I&amp;rsquo;d like to think have the potential to be really useful to a decent number of people (sorry MP Checklist&amp;hellip; I think you might just be a bit too niche!) - I think it&amp;rsquo;s time that I make a bit more of an effort to get help more people to find the apps!
+So, as well as releasing updates to both WristCheck and Air Fryr recently, I&amp;rsquo;ve also undertaken a couple of tasks with the hope of getting the apps in front of more people.</description>
+            <content type="html"><![CDATA[<h2 id="attempting-to-grow-my-user-base">Attempting to grow my user base</h2>
+<hr>
+<p>Now that I&rsquo;ve released three apps - two of which I&rsquo;d like to think have the potential to be really useful to a decent number of people (sorry MP Checklist&hellip; I think you might just be a bit <em>too niche!)</em> - I think it&rsquo;s time that I make a bit more of an effort to get help more people to <em>find</em> the apps!</p>
+<p>So, as well as releasing updates to both <a href="/posts/wristcheck_v1.5_release_notes/">WristCheck</a> and Air Fryr recently, I&rsquo;ve also undertaken a couple of tasks with the hope of getting the apps in front of more people.</p>
+<h3 id="the-landing-pages">The landing pages</h3>
+<p>First, now that my apps have <em>broken even</em> (another long overdue post! Since monetising the apps I&rsquo;ve earned enough to cover my annual development fees, but I&rsquo;m a <em>long way</em> from what I&rsquo;d call &lsquo;profitable&rsquo;!) I thought I&rsquo;d spend a little and register some domains for the apps.</p>
+<p>Starting with <a href="https://www.getairfryr.com">getAirFryr.com</a> and then following the same pattern with <a href="https://www.wristcheck.app">wristcheck.app</a>.</p>
+<p>If you&rsquo;ve clicked on the links above you&rsquo;ll see that not only have I registered the domains, but I&rsquo;ve put up landing pages for each app too! I found a super simple Jekyll template created by <a href="https://emilbaehr.com/">Emil Baehr</a> which let me create simple homepages for the apps really easily - it was as simple as forking his repository on github, changing some config and page content and then publishing via github pages (which also means they&rsquo;re currently free to host!).</p>
+<p>Having a simple landing page for each app, where I can provide direct links to each app store, highlight the key app features and publish a quick and simple changelog for each (and link back to this blog where I can continue to write a bit more in-depth, diary style about the apps) is great, as it means I just need to provide a simple web link if I want to share the apps with anyone, rather than trying to direct them to find the app themselves on the appropriate app store.</p>
+<h3 id="am-i-an-influencer-yet">Am I an influencer yet?</h3>
+<p>The next step in my <em>master plan</em> (lol!) was to create a social media presence for the apps - I&rsquo;m approaching this from a couple of directions.</p>
+<p>To start with, I set up an <a href="https://www.instagram.com/getairfryr/">Instagram account</a> for Air Fryr - as I built the app to help me get the most from my air fryer, it probably comes as no surprise that I use it to cook a lot, so I thought I could capture and share lots of pictures and short, poorly filmed videos (I&rsquo;ve only posted a couple so far, which have had about 150 views each) - for Air Fryr I think I&rsquo;ll also branch out to TikTok as it seems fitting.</p>
+<p>For WristCheck I&rsquo;ve done something similar, but with more of a focus on just sharing pictures - I often post watch shots to some Facebook groups already, so all I&rsquo;m really doing here is the same but now I&rsquo;ve got a wee dedicated <a href="https://www.instagram.com/wristcheck.app/">Instagram corner</a> to do it in!</p>
+<p>I&rsquo;ve also set up a profile for WristCheck on the social media platform formerly known as <a href="https://twitter.com/WristcheckApp">Twitter</a>.</p>
+<p>My intention is just to share watch and air fryer related pictures, comments, reels etc in the hope of getting the apps a bit more visible (with minimal effort and expense)&hellip; will it work? Who knows! But it&rsquo;ll be fun anyway!</p>
+<p>I&rsquo;ll post an update at some point in the future if I ever manage to get more than three followers&hellip;</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>WristCheck v1.5 Release Notes</title>
+            <link>/posts/wristcheck_v1.5_release_notes/</link>
+            <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
+            
+            <guid>/posts/wristcheck_v1.5_release_notes/</guid>
+            <description>WristCheck v1.5 Release Notes Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases&amp;hellip;) I&amp;rsquo;ll add a quick summary at the end!
+But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&amp;rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&amp;rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.</description>
+            <content type="html"><![CDATA[<h2 id="wristcheck-v15-release-notes">WristCheck v1.5 Release Notes</h2>
+<hr>
+<p>Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! <em>(and for the last couple of Air Fryr releases&hellip;)</em>  I&rsquo;ll add a quick summary at the end!</p>
+<p>But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.e. the wish list and sold watches lists).</p>
+<p>Let&rsquo;s go through these to summarise the main changes&hellip;</p>
+<h3 id="redesign-of-the-watch-box-ui">Redesign of the Watch Box UI</h3>
+<p>The original view presented in WristCheck was just a sterile text only list of watches, with an expanding accordion tile at the top that hid links to search and the secondary watch box views&hellip; I was never particularly happy with this view. When I was getting stuck into using Flutter I had issues with getting images onto the tiles without them messing up the various dimensions, and I just <em>could not</em> get the view to refresh as I wanted when the database filters were changed, hence creating separate individual pages for the sold watches and wishlist views.</p>
+<p>But a year or so into my adventures with Flutter I&rsquo;m now much more confident with it&rsquo;s capabilities and how the various widgets interact with each other&hellip; so it felt like a good time to rebuild the homepage!</p>
+<p><img alt="WristCheck new UI" src="/img/2023-09/dark_listview.jpg">
+<!-- raw HTML omitted --><em>The new user interface!</em><!-- raw HTML omitted --></p>
+<p>One major update is the addition of the drop-down picker at the top of the page - you can now move from your watch box, to wish list, to list of sold watches or directly to a random watch by selecting from the dropdown and the page will instantly refresh to display your selection! No more navigating to <em>different pages!</em></p>
+<h3 id="search-is-more-prominent">Search is more prominent</h3>
+<p>From a quick look at the image above you&rsquo;ll see that the ability to search your collection is no longer hidden away - it&rsquo;s always right there in the top right of the home screen.</p>
+<p>From the start I wanted WristCheck to work well for users with large watch collections - a common complaint I heard about other apps was that they started to slow down or got to a point where it was just too hard to find the watch you wanted once you&rsquo;d added so many, so a quick and easy real-time search option was a must - I&rsquo;m super happy that this is now easy to find and right in front of the user!</p>
+<h3 id="quickly-re-order-your-collection">Quickly re-order your collection</h3>
+<p>Previously the watches always appeared in the list in the order you added them to the database&hellip; which was <em>fine</em>, but not the best experience&hellip; whenever you got a new watch, it would always be the last one on the screen!</p>
+<p>Now I&rsquo;ve added the ability to re-order the collection on the fly, using one of several options (I restrained myself to avoid overdoing it, but if something is really missing shout out in an app review!)</p>
+<p><img alt="Display Order Picker" src="/img/2023-09/display_order.jpg">
+<!-- raw HTML omitted --><em>Quickly re-order your collection!</em><!-- raw HTML omitted --></p>
+<p>Since moving the release from my test device to my day to day phone I&rsquo;ve found this fantastic! I like to show my collection by last worn date, so my recently worn watches are always at the top (and when I wear something different from the previous day it&rsquo;s nice to see the page refresh itself!)</p>
+<h3 id="watch-images-in-the-main-view">Watch images in the main view</h3>
+<p>Another long overdue, and often asked for feature! The watch list now shows a small thumbnail of the watches! Again this turns out to be really useful for quickly finding the watch you&rsquo;ve just put on when you go in to track what you&rsquo;re wearing, and has been something I&rsquo;ve been meaning to figure out for <em>ages&hellip;</em></p>
+<p>&hellip;but that&rsquo;s not all!</p>
+<h3 id="grid-or-list-view">Grid or list view</h3>
+<p>I mentioned at the start of this post that the original watch view was just a fairly sterile list of watches&hellip; and I&rsquo;ve just mentioned that that sterile list now includes an image of the watch&hellip; but what if you want <em>more</em>?</p>
+<p>Well, now you also have the option to change the default view to a grid view, with larger pictures!</p>
+<p><img alt="WristCheck Grid View" src="/img/2023-09/light_gridview.jpg">
+<!-- raw HTML omitted --><em>Display your collection in a grid view!</em><!-- raw HTML omitted --></p>
+<p>I should call out that this viewing pattern doesn&rsquo;t work well on very small screens - if your screen is too small then the watch names (neatly) truncate, and the wear dates may be hidden behind the box border! But it works well on most modern phones!</p>
+<p>Personally I love this view - I&rsquo;ve found myself using it day to day over the original list view!</p>
+<h3 id="_minor-improvements_"><em>&ldquo;Minor Improvements&rdquo;</em></h3>
+<p>The last piece of the puzzle for v1.5 is hidden away! Google now request that developers target the latest version of Android, so had requested I ensured my SDK target was updated to level 33&hellip;which I&rsquo;m sure sounds rather boring, but as part of this I also updated the underlying Flutter version I was using and updated <em>some</em> of the libraries the app makes use of to function - all hidden away under the hood, but hopefully it&rsquo;ll make for a smoother app experience!</p>
+<h3 id="what-about-version-14">What about version 1.4?</h3>
+<p>I mentioned at the start that I&rsquo;d forgotten to provide an update when I release WristCheck v1.4, so figure I&rsquo;ll add a quick update here to close out the post.</p>
+<p>Version 1.4 was probably the most important release of the app since I launched it, as it included integrating the RevenueCat SDK to allow me to set up some simple in-app purchases within the app - this really deserves it&rsquo;s own separate post (as I also integrated this into Air Fryr). I&rsquo;ll write up a full post about monetisation (as a follow up to my previous advertising revenue one), but from a WristCheck point of view, the key change in v1.4 was the ability for a user to choose their own price for the app to become ad-free.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Air Fryr</title>
+            <link>/posts/air_fryr/</link>
+            <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
+            
+            <guid>/posts/air_fryr/</guid>
+            <description>Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
+I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&amp;rsquo;re in the UK and don&amp;rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.</description>
+            <content type="html"><![CDATA[<h2 id="air-fryr---an-air-fryer-companion-app">Air Fryr - An Air Fryer Companion app</h2>
+<hr>
+<p>With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.</p>
+<p>I had an old one that was only ever used for making chips (aka <em>French fries</em> for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&rsquo;re in the UK and don&rsquo;t already use Quidco you should <a href="https://www.quidco.com/raf/43546/">give them a look</a>), so decided to treat myself to an absolute beast of an Air Fryer.</p>
+<p><img alt="Quidco Summary" src="/img/2023-04/QuidcoCashback.png">
+<!-- raw HTML omitted -->I&rsquo;ve been a Quidco member for over 10 years and averaged about £100 a year cashback, just doing normal shopping!<!-- raw HTML omitted --></p>
+<p>I&rsquo;d been squirrelling away my cashback for a while and was thinking of treating myself to a new watch, or possibly a Switch OLED, but neither of those things were things that I really <em>needed</em>&hellip;and then the Ninja Foodi Air Fryers caught my eye&hellip;</p>
+<p>Now I do like to cook for the family - pulling a meal together for everyone is a nice way to wind down at the end of a busy day, and being able to do this is one of my favourite things about working from home, however I do often find myself working fairly late, so being able to cook <em>quickly</em> is a bonus for me.</p>
+<p>With the crazy rise of air fryers over the last year or so though I also feel like I&rsquo;ve been bombarded with information on them and was pleasantly surprised at just how <em>capable</em> they are&hellip; I was mad only using the old one for the odd plate of chips, these things can cook <em>so much</em> and do it well!</p>
+<p>So I decided to take a chunk of my cashback out (boosted by 6% as I converted them to gift vouchers!) and treat myself and my family to a fancy all-singing, all-dancing Ninja AF451.</p>
+<p><img alt="Ninja Foodi Max AF451" src="/img/2023-04/AirFryer.jpg">
+<!-- raw HTML omitted -->This bad boy is HUGE!<!-- raw HTML omitted --></p>
+<p>It&rsquo;s been a few weeks since it arrived now and I&rsquo;ve been cooking with it <em>loads</em> - I&rsquo;ve cooked steak, whole chickens, sides of salmon, roast beef, chicken wings&hellip; my wife has used it almost daily to do &lsquo;boiled&rsquo; eggs! It&rsquo;s so easy to use, so quick and so, so versatile!</p>
+<p>But anyway&hellip; that&rsquo;s not really the purpose of this post is it!</p>
+<p>Being the nerd that you know I am, I wanted to get the most out of it so decided to throw together a little app for myself!</p>
+<h3 id="enter-air-fryr">Enter Air Fryr</h3>
+<p>I had no idea what to call the app - I started off with the idea of <em>&lsquo;Air Fryer Calculator&rsquo;</em>, but as the app came together I realised that the calculator is really a <em>&rsquo;nice to have&rsquo;</em> feature - the headline feature is probably actually the notebook.</p>
+<p>So, rather jokingly, I did what loads of apps seem to have done and decided to just drop some vowels - well, if it&rsquo;s good enough for Flickr and Tumblr!</p>
+<p>&hellip;and there we have it: <strong>Air Fryr</strong></p>
+<h3 id="what-does-it-do">What does it do?</h3>
+<p>In v1.0 Air Fryr has two main features:</p>
+<h4 id="the-calculator">The Calculator</h4>
+<p>Firstly, it offers a quick calculator function - air fryers are significantly faster than a standard oven, but can also cook the same dishes at lower temperatures. When I was researching what to buy I came across a simple algorithm for converting oven cooking times to air fryer ones - essentially, know 20C/35F off the temperature, and 20% off the time.</p>
+<p>Something super easy to do in an app, and Flutter/Material Design makes this even easier with simple to use sliders (although maybe I&rsquo;ll write up a more tech focused note later as to why it&rsquo;s not really that easy when you start adding options like changing the units and making saved calculations editable!)</p>
+<p><img alt="The app calculator" src="/img/2023-04/Home-Light.png"></p>
+<h3 id="the-notebook">The notebook</h3>
+<p>Secondly, the notebook&hellip; now I&rsquo;m a bit of a pragmatist, and I know that an algorithm like the above is really just a <em>general rule</em>, it&rsquo;ll be right some of the time, but every oven and every air fryer is different (and let&rsquo;s not get started on individual tastes when it comes to food!), so I thought, <em>&lsquo;why not allow calculations to be saved and edited later&rsquo;</em>, hence <em>The Notebook</em>:</p>
+<p><img alt="The Notebook" src="/img/2023-04/AirFryerNotebook.jpg"></p>
+<p>Now what&rsquo;s the point of a notebook if you can&rsquo;t keep notes in it, so as well as allowing you to save a title, the cooking temperature and time, you can also write detailed notes with each entry and categorise the note for future reference (at present the categories just show against the note with an icon, but in a future release I&rsquo;ll add in a category filter too!).</p>
+<p>The notes are fully editable, so if you realise your dish needed more time, to be hotter or just that you want to make a note of what to try the next time you cook it, you can quickly and easily update the entry.</p>
+<h3 id="notebook-search">Notebook Search</h3>
+<p>I know I mentioned two things, but since starting to write this post I got sidetracked and released an updated v1.1 of the app (I&rsquo;m nice like that) which also includes a real-time search function, to quickly find things in an ever growing notebook</p>
+<p><img alt="Notebook Search" src="/img/2023-04/NotebookSearch.png"></p>
+<p>&hellip;and that&rsquo;s a wrap! I had a lot of fun putting this together (you know how I <em>love</em> building silly wee apps!) and have a few ideas to still add to it, so keep an eye out for a v1.2 before too long!</p>
+<p>If you&rsquo;d like to give Air Fryr a try you can find it <a href="https://apps.apple.com/us/app/air-fryr/id6446950736">on the App Store</a> and <a href="https://play.google.com/store/apps/details?id=com.stifdev.airfryr">on Google Play</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>The Millionaire Life</title>
+            <link>/posts/the_millionaire_life/</link>
+            <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
+            
+            <guid>/posts/the_millionaire_life/</guid>
+            <description>Users and Earnings So, back in September I both implemented ads on the site and released my first proper app (although I didn&amp;rsquo;t put Ads into WristCheck until v1.2 about a month later).
+This was all a fun experiment to see if I could make this wee hobby break even&amp;hellip; want to hear how it&amp;rsquo;s going?
+A summary of costs Let&amp;rsquo;s start off with what it costs to put things together.</description>
+            <content type="html"><![CDATA[<h2 id="users-and-earnings">Users and Earnings</h2>
+<hr>
+<p>So, back in September I both <a href="/posts/addings_ads/">implemented ads on the site</a> and <a href="/posts/wristcheck-app/">released my first proper app</a> (although I didn&rsquo;t put Ads into <em>WristCheck</em> until v1.2 about a month later).</p>
+<p>This was all a fun experiment to see if I could make this wee hobby break even&hellip; want to hear how it&rsquo;s going?</p>
+<h3 id="a-summary-of-costs">A summary of costs</h3>
+<p>Let&rsquo;s start off with what it costs to put things together. I&rsquo;ll keep this super lean and ignore some pretty significant ones (such as the price of my MacBook or cost of holding onto old phones for testing purposes rather than trading them in or selling them).</p>
+<p>First, let&rsquo;s start with the website itself - nice and easy, I host it for free using <em>github pages</em>, so let&rsquo;s assume the only cost is for the domain, which comes to <em>[checks notes]</em> around <strong>£13</strong> per year (I&rsquo;m in the UK so will stick to <em>GBP</em>).</p>
+<p>Next, we&rsquo;ll again ignore the value of my time (this is all for fun, so happy to assume that&rsquo;s free!) what does app development cost?</p>
+<p>This differs by platform, with Google charging a one-off <strong>US$25</strong> fee to register as a developer (which works out at roughly <strong>£20</strong>) and Apple charging an annual fee of $99 or <strong>£79</strong> to maintain a developer account.</p>
+<p>For the app store listings and some peripheral work I&rsquo;ve made use of freely available web apps, however should I ever reach the point of <em>&lsquo;profit&rsquo;</em> I&rsquo;ll be dropping these guys a wee donation too as they have been absolutely invaluable (I&rsquo;ll need to write a separate post on that!).</p>
+<p>Adding these all together comes to <strong>£112</strong>, but since the Android fee isn&rsquo;t recurring (and the web hosting fees are increasing) let&rsquo;s say my break even target is a nice round <em><strong>£100</strong></em></p>
+<h3 id="user-numbers">User Numbers</h3>
+<p>Before going into the income, let&rsquo;s first summarise how many people actually use the app and visit this site (clue, not many!).</p>
+<p>For the website, Google Analytics reckons I&rsquo;ve had 50 unique users in the last 90 days (ha, what are you here for!)</p>
+<p>For WristCheck things aren&rsquo;t quite so clear - on Android I seem to hover around 70 active users. This jumps up and down and I&rsquo;m not sure if that&rsquo;s because some people give up on it at a similar pace to new users onboarding, or if it&rsquo;s just that the analytics are wonky!</p>
+<p>On iOS I&rsquo;m not sure how to see active users (and anyone who opts into not being tracked wouldn&rsquo;t show anyway), but I can see I&rsquo;ve got a little over 160 unique installs, so if half of those users stick with the app (and who doesn&rsquo;t like <em>graphs!</em>) then it&rsquo;s probably roughly in line with those Android numbers.</p>
+<h3 id="earnings-call">Earnings call</h3>
+<p>So that&rsquo;s my target&hellip; how close to it have I managed to get?</p>
+<p>In reality, I started to gain a little income in October, so for the purposes of this post it&rsquo;s an update of earnings from <em>October 2022 to February 2023</em>, roughly a five month period.</p>
+<p>In that time I&rsquo;ve earned:</p>
+<p><strong>£10.97</strong> from ads in WristCheck.</p>
+<p><strong>£2.63</strong> from ads on the website.</p>
+<p>and that&rsquo;s it&hellip; a grand total of <strong><em>£13.60</em></strong> so far!</p>
+<p>Honestly, I&rsquo;d call that a success! (Certainly better than the <em>£0</em> I had previously).</p>
+<h3 id="whats-next">What&rsquo;s next?</h3>
+<p>So, I&rsquo;m currently £86.40 below my target for the year, but I&rsquo;ve not setup the long promised <em>WristCheck Pro</em> option yet, which I&rsquo;ve made a start on (and several people keep asking me about!).</p>
+<p>My plan is to allow a simple, <em>&lsquo;pay what you want&rsquo;</em> option to remove ads in the app, which is surprisingly more awkward than it sounds when your app is on two platforms!</p>
+<p>So first I&rsquo;m going to tackle a simple <em>&lsquo;Remove ads for £1 (or thereabouts)&rsquo;</em> on the <em>MP Checklist</em> app. It&rsquo;s likely to have a smaller userbase and most users will probably play through the game with it once or twice at most and be done.
+This&rsquo;ll help me figure out the details of how to best implement in-app purchases and see if I can make a dent in that outstanding £80ish&hellip;</p>
+<hr>
+<p><!-- raw HTML omitted -->Cover Image by <!-- raw HTML omitted -->Freepik<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>New App: MP Checklist</title>
+            <link>/posts/new_app_mp_checklist/</link>
+            <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
+            
+            <guid>/posts/new_app_mp_checklist/</guid>
+            <description>A helper app for Metroid Prime&amp;hellip; Ok, so I realise this post quickly became an essay - if you want to read some background please read on, but if you just want to know about the app, please feel free to skip to the end.
+Returning to Tallon VI From 2002 until early 2017 if anyone asked me what my favourite game of all time was (and I know that&amp;rsquo;s a school playground question&amp;hellip;) without hesitation I&amp;rsquo;d have answered Metroid Prime.</description>
+            <content type="html"><![CDATA[<h2 id="a-helper-app-for-metroid-prime">A helper app for Metroid Prime&hellip;</h2>
+<hr>
+<p>Ok, so I realise this post quickly became an essay - if you want to read some background please read on, but if you just want to know about the app, please feel free to <a href="/">skip to the end.</a></p>
+<h3 id="returning-to-tallon-vi">Returning to Tallon VI</h3>
+<p>From 2002 until early 2017 if anyone asked me what my favourite game of all time was (and I know that&rsquo;s a school playground question&hellip;) without hesitation I&rsquo;d have answered <em>Metroid Prime</em>.</p>
+<p><!-- raw HTML omitted -->(If you&rsquo;re wondering, past 2017 a certain elfish gent waking up from a 100 year slumber gave this a nudge into second place&hellip;)<!-- raw HTML omitted --></p>
+<p>Back in the early 2000&rsquo;s I was in my early 20s and going through a bit of a <em>gaming phase</em>, and owned all of that current generation of consoles and handhelds, as well as a rather fine retro collection, but of them all my absolute favourite was my GameCube because it was just full of <em>Nintendo Magic!</em></p>
+<p>When Metroid Prime came out I was incredibly disappointed when it was announced that the UK (and other PAL regions) would have to wait at least six months to get our hands on it - <em>this was long before the days of simultaneous global releases</em> - so I did what any self respecting Games Nerd did back in those days&hellip;</p>
+<p>I bought an import US GameCube and ordered myself an NTSC copy of the game (and from that moment on 90% of my Nintendo games made their way to me early, usually from Canada&hellip;)</p>
+<p>Prime was a revelation, taking the 2D games <em>explore-&rsquo;em-up</em> backtracking adventure style and making it 3D, the game was full of little touches that really made you feel like you <em>were</em> Samus Aran, from the effects of rain on her visor to the wonderful reflection of her eyes when you set of an explosion too close.
+To me though, what really elevated it to another level was the passive way the story was told, everything you learn about what&rsquo;s going on in the world is through scanning the environment and reading the associated log book entries - to me this was just wonderful and whilst arguably Metroid Prime 2 improves on the gameplay aspects I have to say it took a step backwards for me in this regard (but I really should try to replay that soon too&hellip;).</p>
+<p>Anyway, with the <em>(sooooo long awaited)</em> release of <strong>Metroid Prime: Remastered</strong> I was desperate to make my way back to Tallon VI and not only replay the game, but do what every Metroid Nerd wants to do and gain a 100% completion of it!</p>
+<h3 id="hold-on-lads-ive-got-an-idea">Hold on lad&rsquo;s, I&rsquo;ve got an idea&hellip;</h3>
+<p>Now what I really didn&rsquo;t want to do was to follow a guide - why ruin my trip to this wonderful, immersive world by jumping back and forth through a list of where to go next&hellip; no, what I wanted was just a simple checklist of all of the items available to collect, so that I could tick them off as I went&hellip;</p>
+<p>A quick google turned up <a href="https://www.reddit.com/r/Metroid/comments/59uafk/couldnt_find_anything_like_it_so_i_made_my_own/">this excellent post</a> on the r/Metroid subReddit by <em>u/PityUpvote</em> where they mention a printable list to tick off as you go&hellip;. fantastic, this is <em>exactly what I want!</em></p>
+<p>Except&hellip; I don&rsquo;t have a printer! Now, here&rsquo;s where we head into &lsquo;solution looking for a problem&rsquo; territory, but if you&rsquo;ve read anything else on this site you&rsquo;ll know I like to mess around with code, and this seemed like a fun wee problem to solve&hellip;</p>
+<h3 id="a-little-weekend-hackathon">A little weekend hackathon</h3>
+<p>So, I set myself a wee challenge - could I throw together an app to encapsulate this checklist in a weekend?</p>
+<p>As such, like <a href="/posts/wristcheck-app/">WristCheck</a> before it, MP Checklist is built using Flutter and uses a fast end efficient Hive database to store data and state.</p>
+<p>Every item in the game is tracked as an Object in the database, which then makes it nice and easy to manipulate them in different ways, as well as track different statuses (e.g. collected / not collected).</p>
+<p>I was able to throw the app together over two days, and then spent probably twice as long doing a few tweaks to add some QoL features (that became apparent when I started to use it) as well as wrestling to get it onto the app stores (Google weren&rsquo;t keen on the Trademarked name &lsquo;Metroid&rsquo; being anywhere&hellip;so the app description doesn&rsquo;t really tell you what the app is for, and on iOS I faced some hurdles getting the privacy declaration and app permissions setup correctly - useful experience for next time though!)</p>
+<h3 id="what-is-mp-checklist-and-what-does-it-do">What is MP Checklist and what does it do</h3>
+<p>If you&rsquo;ve skipped all of the above (and who can blame you) here&rsquo;s a wee idea of what MP Checklist actually is.</p>
+<p>In essence it&rsquo;s a big list of all of the items that can be collected within the game Metroid Prime, which can be ticked off as you go. You can see a summary of either the completion per game region, or by item type.</p>
+<p><img alt="MP Checklist home screen image" src="/img/2023-02/MPChecklist_homescreens.png">
+<!-- raw HTML omitted --><em>Also, light or dark theme!</em><!-- raw HTML omitted --></p>
+<p>Clicking on either an item type or region then gives you a list of associated items, which can either be ticket off straight from the list&hellip;</p>
+<p><img alt="Item List" src="/img/2023-02/item_list.png">
+<!-- raw HTML omitted --><em>Here&rsquo;s a regional view!</em><!-- raw HTML omitted --></p>
+<p>or you can click in to add notes against the item, perhaps with information of how you <em>think</em> it might be unlocked for collection.</p>
+<p><img alt="Item Notes" src="/img/2023-02/item_notes.png">
+<!-- raw HTML omitted --><em>Here&rsquo;s one I made earlier!</em><!-- raw HTML omitted --></p>
+<p>Every item contains both the <em>Region</em> it is found in (the five distinct areas of the game) and also the <em>Room</em> - if you pause Metroid Prime you&rsquo;ll see each &lsquo;room&rsquo; on the map has a title.
+In v1.2 of the app (the current version in the stores) I also implemented a search feature where you can search by room name, so if playing the game when you find an item you can quickly pull up the map in game, search in the app for the items associated with that room, and then either mark as collected, or make notes quickly.</p>
+<p>In later Metroid games (such as the Excellent <em>Metroid Dread</em> and <em>Metroid Prime 3: Corruption</em>) the developers implemented great features such as map indicators where you had seen, but not yet collected, an item, which really improves the 100% item chase experience, but that&rsquo;s definitely a gap I found going back to the original <em>Prime</em> that hopefully this app fills.</p>
+<p>This app might be a solution looking for a problem, but I&rsquo;ve enjoyed using it during my playthrough of the Remaster so far, and hopeful it&rsquo;ll help me hit that magical <em>100% items completion!</em></p>
+<h3 id="where-can-i-find-this-wonderful-app">Where can I find this wonderful app?</h3>
+<p>The Android app is currently approved and available on <a href="https://play.google.com/store/apps/details?id=com.stifdev.mpchecklist">Google Play</a> just now.</p>
+<p>A build has been submitted to Apple and is currently working it&rsquo;s way through the review process - I&rsquo;ll update this post with a link once that&rsquo;s complete.</p>
+<p>Got any comments or feedback? I still can&rsquo;t figure out why comments on the blog died, so please feel free to either leave an app review or drop a note via the developer contact options on the stores!</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Zombie Dice Review</title>
+            <link>/posts/zombie-dice-review/</link>
+            <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
+            
+            <guid>/posts/zombie-dice-review/</guid>
+            <description>Brains is good food&amp;hellip; (Like some of my other tabletop reviews this was originally posted on Boardgaming.com almost a decade ago! I&amp;rsquo;m reposting here as I liked writing these and might well add a few more if there&amp;rsquo;s interest) When there is no more room in hell, the dead shall walk the earth… and try to eat your brain, unless you can run away or blast them with a shotgun!</description>
+            <content type="html"><![CDATA[<h2 id="brains-is-good-food">Brains is good food&hellip;</h2>
+<hr>
+<h2 id="_like-some-of-my-other-tabletop-reviewscategoriestabletop-this-was-originally-posted-on-boardgamingcomhttpsboardgamingcom-almost-a-decade-ago-im-reposting-here-as-i-liked-writing-these-and-might-well-add-a-few-more-if-theres-interest_"><em>(Like some of my other <a href="/categories/tabletop/">tabletop reviews</a> this was originally posted on <a href="https://boardgaming.com">Boardgaming.com</a> almost a decade ago! I&rsquo;m reposting here as I liked writing these and might well add a few more if there&rsquo;s interest)</em></h2>
+<p><em>When there is no more room in hell, the dead shall walk the earth… and try to eat your brain, unless you can run away or blast them with a shotgun!</em></p>
+<p>Zombie Dice is a quick to play ‘push your luck’ dice game for, well, any number of players (although I expect more than 4 or 5 would probably be a bit rubbish…). In it, you play a member of the undead horde out for lunch. You want to eat as many brains as you can, chasing down any humans who escape and hoping to avoid catching a shotgun blast to the chest!</p>
+<p><strong>Components</strong></p>
+<p>The game comes with 13 dice (6 green, 4 yellow, 3 red) and a tub to keep them all in (which can also be used as a dice shaker, if you so wish). Green dice have more brains than shotguns, red dice have more shotguns than brains and yellow are somewhere in the middle.</p>
+<p><img alt="zombie dice image" src="/img/2022-10/zombie-dice.jpg" title="Brains are good food!...">
+<!-- raw HTML omitted --> <em>Zombie dice&hellip;literally!</em> <!-- raw HTML omitted --></p>
+<p>The quality of these dice is lovely – each are well made, and have brains, footsteps and shotgun blasts embossed on their sides. In short, they roll nicely and look good… not much else to say here!</p>
+<p>The dice shaker/tub isn’t quite so nice. It’s just a cardboard tube after all, and the dice do make quite an annoying rattling sound when in it – if you plan to carry the game around with you it’s worth either jamming some cotton wool in there, or getting a wee dice bag to keep the dice in instead.</p>
+<p>There’s also a rule sheet… which has the rules on it…</p>
+<p><strong>Gameplay</strong></p>
+<p>The rules and gameplay of Zombie Dice are incredibly simple – when it’s your turn, you randomly select 3 dice and roll them. Any brains or shotgun blasts rolled are kept and set aside, any footsteps are returned to your hand ready for re-rolling (these represent your victims escaping).</p>
+<p>After each roll, you can decide if you want to ‘bank’ any brains you’ve rolled, or if you want to push your luck and keep rolling. If you want to continue, you take any dice which had footsteps and draw additional dice to ensure you have three in your hand – you then roll these.</p>
+<p>Then wash, rinse, repeat – simple as that. If at any point you have 3 shotgun blasts it means your victims have got the better of you and your undead self is now all the way dead…so you lose any brains you had collected so far on that turn.</p>
+<p>If you decide to stop before this happens, add however many brains you had to your running score and pass the dice to the next player. The game keeps going in this way until one player has reached the target of 13 brains (although once this happens everyone else gets one more roll to see if they can match/beat the score before the game ends and the winner is declared).</p>
+<p><strong>Play time</strong></p>
+<p>Zombie dice takes about 10 minutes to play, and with a small group it’s great fun. Each turn is over very quickly, so in small groups there’s not too much downtime. Being a quick-fire game it’s usually good for a two or three rounds of play before moving onto something else.</p>
+<p><strong>Summary</strong></p>
+<p>Zombie Dice is a fun game, that I like to keep in my bag to pull out if I find myself with a short amount of time to fill with friends, and it’s so simple absolutely anyone (well, pretty much…) can pick it up and play it.
+I’ve pulled it out for quick plays at game sessions, on train rides and even at work to take a quick break, and it’s always gone down well.</p>
+<p>Rating it is difficult – the score I’ve given it is based on it’s cost, simplicity and on the type of game it is… it’s certainly not comparable to a game like Battlestar Galactica, but I still think it’s worth a solid score as I think it’s great value for money (I paid £9.99 for my copy here in the UK) and a great fun wee filler game.</p>
+<p>Games move fast and fly by, making this a great game to play either if you find yourself with 20 minutes to spare on a train ride, or whilst another game is being set up for play…and if someone pulls out a copy and you end up not enjoying it, well, it’ll be over in 10 minutes anyway!</p>
+<p><em>2022 Edit: Posting this as a brief update to the original review, which is now almost a decade old! Since I first wrote about Zombie Dice I now have two young children who absolutely love this game - it&rsquo;s always their first choice when we&rsquo;ve got a short amount of time to play - so if you have kids, add a +3 to the score below!</em></p>
+<p>Verdict: 7/10</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>WristCheck v1.3 Release Notes</title>
+            <link>/posts/wristcheck_v1.3_release_notes/</link>
+            <pubDate>Tue, 25 Oct 2022 15:44:33 +0100</pubDate>
+            
+            <guid>/posts/wristcheck_v1.3_release_notes/</guid>
+            <description>WristCheck v1.3 Release Notes Version 1.3 of WristCheck is now available to the app beta testers, so will be released over the next couple of days (as I write this I&amp;rsquo;ve already got confirmation that Apple have approved it, so it&amp;rsquo;s just a case of hitting the button!) As before I thought I&amp;rsquo;d share a post with a bit more information on what&amp;rsquo;s changed, expanding a bit on the bullet points you&amp;rsquo;ll see in the app or on the store listings.</description>
+            <content type="html"><![CDATA[<h2 id="wristcheck-v13-release-notes">WristCheck v1.3 Release Notes</h2>
+<hr>
+<p>Version 1.3 of WristCheck is now available to the app beta testers, so will be released over the next couple of days (as I write this I&rsquo;ve already got confirmation that Apple have approved it, so it&rsquo;s just a case of hitting the button!) As <a href="/posts/wristcheck_v1.2/">before</a> I thought I&rsquo;d share a post with a bit more information on what&rsquo;s changed, expanding a bit on the bullet points you&rsquo;ll see in the app or on the store listings.</p>
+<h3 id="updates-to-image-handling">Updates to Image Handling</h3>
+<p>This is probably the biggest change in v1.3 and perhaps worth discussing a bit here. Firstly, to summarise how the app handles images, when a user wants to add a watch image to a watch record, they click a wee &lsquo;add image&rsquo; button, which pulls up a <em>bottom sheet</em> allowing them to select whether to select the image from their gallery, or to take a new one with their camera - this is achieved using the Flutter <em>image_picker</em> library.</p>
+<p>Once selected or taken, the image file is then passed to a second library, <em>image_cropper</em> to, you guessed it, crop it - by doing this I can control the aspect ratio of the final image, which allows me to better manage the page layout.</p>
+<p>Finally, the image is saved - there are two parts to this. First, the image file is saved locally on the phone and secondly the <em>path</em> to this image file is saved as a parameter of the watch record in the database (I purposely keep the images and watch records separate - a small database means a faster, more responsive app even for large collections, thus the images themselves are <em>not</em> in the database).</p>
+<p>As you can imaging, to achieve all of the above I&rsquo;ve got a series of methods written, including <em>pickImage()</em>, <em>saveImage()</em>, <em>imageSourcePopUp()</em> etc.</p>
+<p>Initially some of these were methods within the class for the page, and others were in my <em>WatchMethods()</em> class, but given these all relate to the same purpose - managing images - I began v1.3 by refactoring all image related code out into its own <em>ImageUtil()</em> utility class.</p>
+<p>This keeps everything together in its own wee corner of the app, simplifying code maintenance and supporting reusability.</p>
+<p>As part of this refactor I also fixed some hidden issues with the earlier versions of the app.
+Firstly, the app now creates an <em>/img/</em> subdirectory in the apps storage - on Android you&rsquo;ll never see this as app data is hidden and encrypted, but on iOS you can use <em>Files</em> to navigate the app directory and see the structure. Therefore from v1.3 all images will live in this sub-folder (which will make building a backup solution for images in future easier too!)</p>
+<p>I also updating the way images are named - previousy the image_cropper plugin threw out a random name, which is fine if you never see the file, but will be rubbish if you export them to use later - so now the images get a more human readable name!</p>
+<p>Secondly, in the early versions of the app images would be saved along with their paths (as above)&hellip;but they were never deleted! <em>(oops!)</em>
+Therefore if you deleted a watch or changed it&rsquo;s picture, the old one was still sitting there taking up space on your phone&hellip;
+Clearly, that is <em>Not Very Good!</em></p>
+<p>Thus in v1.3 I&rsquo;ve fixed this! Now whenever a new image is saved, the old one is deleted (if it exists), as well as images being deleted when a watch is deleted, or if the &lsquo;delete collection&rsquo; button is triggered, they&rsquo;re all deleted (I doubt anyone will use that &lsquo;delete all&rsquo; function, but it was useful for testing so I kept it in&hellip;)</p>
+<p>But I didn&rsquo;t just do this refactoring to fix <em>glaring issues</em>, it was also done to support two new features&hellip;</p>
+<h3 id="add-watch-images-when-adding-a-new-watch">Add watch images when adding a new watch</h3>
+<p>I was asked more than once why, when adding a new watch record, the user had to add the watch and then go in and edit it to add an image to it. Partly this was down to how I&rsquo;d implemented the code to save the image. Partly it was down to needing a watch record to exist, before it could save the image path to it (see my note above about keeping the images out of the database).</p>
+<p>But following this refactoring, I&rsquo;ve now made it easy for me to manage this - the UI isn&rsquo;t fantastic to be honest <em>(is any of my UI?)</em> but it works, and users can now add watch pictures at the same time as they record their new watch in the app!</p>
+<h3 id="add-caseback-images">Add caseback images!</h3>
+<p>One of the most requested additions to the app was the ability to add a second image for each watch, to show the caseback - and with the above work complete, this became a nice easy task! Now you can save both a main image and a second one (and hey, nobody is forcing you to take a picture of the caseback, you can use it for the bracelet clasp or whatever you want!)</p>
+<p><img alt="WristCheck CaseBack Image" src="/img/2022-10/CaseBackImg.png">
+<!-- raw HTML omitted --><em>Some casebacks are worth sharing!</em><!-- raw HTML omitted --></p>
+<h3 id="_minor-improvements_"><em>&ldquo;Minor Improvements&rdquo;</em></h3>
+<p>Every app release always includes a few <em>little things</em> that don&rsquo;t make the headlines, but again it&rsquo;s good to give an idea of what&rsquo;s going on!</p>
+<p>Firstly, another change that&rsquo;s come from user feedback, is that watch names now auto-capitalise the first letter of each word - a small change, but one that was asked for a few times!</p>
+<p><em>(as an aside, comments on this blog seem to have broken&hellip;sure that&rsquo;s my fault&hellip; you can provide feedback via the app stores themselves as a user review, or via email - again on the store listings - or finally there&rsquo;s a thread on the <a href="https://www.christopherwardforum.com/offtopic/wristcheck-stif-s-mobile-watchbox-app-project-almost-at-beta-t59567.html">Christopher Ward Forum</a> )</em></p>
+<p>Another change that falls under the &lsquo;minor improvements&rsquo; category is updating the help text relating to the watch calendar view - if you click to see the dates you&rsquo;ve worn a watch when no dates are tracked the on screen text was misleading, and there was no additional guidance on this page - which is rubbish since this is where you can add to or amend the watches history! (I think I&rsquo;ll also write a <a href="/categories/wristcheck-guides-faqs/">guide</a> about this at some point too&hellip;)</p>
+<h3 id="app-review-prompt">App Review Prompt</h3>
+<p>Lastly, to round out these release notes the last change was to implement a review prompt in the app. Both Android and iOS provide libraries to do this, which are now also both encapsulated in a Flutter library, so the core implementation is pretty straightforward.</p>
+<p>Both app stores also ensure that this isn&rsquo;t abused, and thus any request to show a prompt is first checked with the underlying platform before it&rsquo;s shown (thus nobody should ever get one at <em>every login</em>)</p>
+<p>I laid some groundwork for this in an earlier release <em>(v1.1 I think)</em> by recording in the background how many times the app was opened and how many times watches had been marked as worn. These stats live locally on the device and weren&rsquo;t used, but it&rsquo;s allowed me to write some logic to make sure the prompt is triggered only after a user has had a chance to make some use of the app.
+If dismissed it will then potentially re-prompt after around 100 days - a good space to hopefully help gather further feedback as I continue to improve the app.</p>
+<p>I <em>haven&rsquo;t</em> hidden this prompt behind a <em>&lsquo;do you like this app&rsquo;</em> question first (lots of apps do this, to make sure that only users who are going to rate an app highly get the actual prompt)&hellip; partly this is through laziness, it would be more work to do, but at this point I&rsquo;m not desperate for everyone to rate WristCheck 4 or 5 stars (although it would be nice!), but rather I want to get as much feedback as possible to help me continue to make the app better!</p>
+<p>Anyway, that&rsquo;s it for v1.3&hellip; v1.4 will be along soon enough in another 3-4 weeks!</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Wristcheck 101: A guide for new users</title>
+            <link>/posts/wristcheck_101_a_guide_for_new_users/</link>
+            <pubDate>Sat, 08 Oct 2022 18:57:09 +0100</pubDate>
+            
+            <guid>/posts/wristcheck_101_a_guide_for_new_users/</guid>
+            <description>WristCheck 101: Getting started with WristCheck WristCheck has been out in the wild for a little over a month now, and as I&amp;rsquo;ve mentioned before I&amp;rsquo;ve got plans to continually add more functionality to the app and keep it supported for a good while (free time permitting of course!)
+Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professional UX designer - I&amp;rsquo;ve just built an app to the best of my abilities that performs some functions that I want access to (and on the way added some things based on user feedback) - so the app has a few bugs and might not be as straight-forward to navigate as I think it is&amp;hellip;</description>
+            <content type="html"><![CDATA[<h2 id="wristcheck-101-getting-started-with-wristcheck">WristCheck 101: Getting started with WristCheck</h2>
+<hr>
+<p>WristCheck has been out <em>in the wild</em> for a little over a month now, and as I&rsquo;ve mentioned before I&rsquo;ve got plans to continually add more functionality to the app and keep it supported for a good while <em>(free time permitting of course!)</em></p>
+<p>Now I&rsquo;d not claim to be the worlds best developer, nor am I a professional UX designer - I&rsquo;ve just built an app to the best of my abilities that performs some functions that I want access to <em>(and on the way added some things based on user feedback)</em> - so the app has a few bugs and might not be as straight-forward to navigate as I think it is&hellip;</p>
+<p>So for a while I&rsquo;ve thought: <em>&ldquo;I should really write up some user guides and FAQs for WristCheck!&rdquo;&hellip;</em> Well, here we go - I thought I&rsquo;d kick off with a quick introduction to the app to get up and running quickly.</p>
+<ul>
+<li>
+<p><em>Note: At the time of writing version 1.2 of the app is available - I&rsquo;ll try to update this if anything changes in future releases. You can check your app version in the settings menu!</em></p>
+</li>
+<li>
+<p><em>This guide is incomplete, but I&rsquo;ll return and update this page with further guides over time</em></p>
+</li>
+</ul>
+<hr>
+<h2 id="contents">Contents</h2>
+<ul>
+<li><a href="/posts/wristcheck_101_a_guide_for_new_users/#adding-watches-to-your-collection">Adding Watches to your collection</a>
+<ul>
+<li><a href="/posts/wristcheck_101_a_guide_for_new_users/#a-note-on-watch-status">Watch Status</a></li>
+</ul>
+</li>
+<li><a href="/posts/wristcheck_101_a_guide_for_new_users/#tracking-the-watches-you-wearing">Track what you wear</a></li>
+<li><a href="/posts/wristcheck_101_a_guide_for_new_users/#remembering-to-track-what-you-wear-setting-up-reminders">Set up Daily Reminders</a></li>
+</ul>
+<hr>
+<h3 id="adding-watches-to-your-collection">Adding watches to your collection</h3>
+<p>It&rsquo;s probably obvious, but the first thing to do is to add some watches to your collection so that you can start tracking them, and this is as simple as pressing the big red <del>do not press</del> <em>floating action button</em>:
+<img alt="WristCheck Landing Page image" src="/img/2022-10/wristcheck_101/EmptyLanding.png">
+<!-- raw HTML omitted --> <em>DO push this button!</em> <!-- raw HTML omitted --></p>
+<p>To get started, the only mandatory fields are the <em>Manufacturer</em> and <em>Model</em>, all other fields are optional and can be edited later. Once these are entered, you can press the  &lsquo;add watch&rsquo; button to enter the watch in your collection.</p>
+<p><img alt="Add Watch Screen image" src="/img/2022-10/wristcheck_101/AddWatch.png"></p>
+<p>This process can then be repeated to add more watches to your collection.</p>
+<h4 id="a-note-on-watch-status">A note on watch status</h4>
+<p>The <em>Status</em> field determines which list the watch appears in. By default this is <em>&lsquo;In Collection&rsquo;</em>, and any watches with this status are shown in the main watch-box view (the app home screen).</p>
+<p>Watches need to have a status of &lsquo;In Collection&rsquo; to be able to track wearing them.</p>
+<p>In addition, there are currently three other statuses:</p>
+<ul>
+<li>WishList</li>
+<li>Sold</li>
+<li>Archived</li>
+</ul>
+<p>When added to the WishList the watches appear in the <em>&lsquo;WishList&rsquo;</em> view - this can be used to track a list of watches you are considering purchasing in the future.</p>
+<p>Watches can be added to the <em>&lsquo;Sold&rsquo;</em> list to remove them from the main collection and add them to the &lsquo;Sold watches&rsquo; filter (in the future I&rsquo;ll add some calculations based on prices too).</p>
+<p>Finally, if you just want to delete a watch, it can be added to the <em>&lsquo;Archive&rsquo;</em> - these watches are hidden, although can be accessed via the Settings menu. From there a watch can be restored to a different status, or permanently deleted by swiping it left.</p>
+<h3 id="tracking-the-watches-you-wearing">Tracking the watches you wearing</h3>
+<p>Now that we have some watches in our collection, let&rsquo;s wear them!</p>
+<p>From the main view you can click any watch to enter the <em>View Watch</em> screen - and from here, you can wear a watch by clicking the big <em>&lsquo;Wear this watch today&rsquo;</em> button. This adds a date record to the watches calendar.</p>
+<p><img alt="Add Watch Button image" src="/img/2022-10/wristcheck_101/TrackWearButton.png"></p>
+<p>&hellip;and that&rsquo;s all you need to do to start generating graphs!</p>
+<h3 id="remembering-to-track-what-you-wear-setting-up-reminders">Remembering to track what you wear: Setting up reminders</h3>
+<p>The charts the app generates are only as good as the data that&rsquo;s been added, so how do you make sure the data is kept up to date?</p>
+<p>The easiest way is to set up a daily reminder, which the app handily provides!</p>
+<p>This can be found by navigating to the Settings page, which is found in the <em>&lsquo;burger menu&rsquo;</em> from the app homepage:</p>
+<p><img alt="Burger Menu Button image" src="/img/2022-10/wristcheck_101/BurgerMenu.png"></p>
+<p>This opens the app drawer, where you can select <em>Settings</em>:
+<img alt="App Drawer image" src="/img/2022-10/wristcheck_101/AppDrawer.png"></p>
+<p>Finally, in the settings menu select <em>&lsquo;Daily Reminder&rsquo;</em>:
+<img alt="Settings Menu image" src="/img/2022-10/wristcheck_101/SettingsMenu.png"></p>
+<p>When a daily reminder is set it will firstly ask for permission to send notifications - without these platform level permissions any time set will be blocked!</p>
+<p>The daily reminder defaults to 8am every day, however this can be changed to 12pm, 6pm or a custom time can be selected via a time picker - once set the reminder will generate at the same time every day - the time selected can be checked or amended at any time by navigating back to this page.</p>
+<p><img alt="Daily Reminder image" src="/img/2022-10/wristcheck_101/DailyReminder.png"></p>
+<hr>
+<h3 id="want-to-read-more">Want to read more?</h3>
+<p>I&rsquo;ll end this here, this should give enough of a kick-start to get watches into the app and start recording data daily.</p>
+<p>I&rsquo;ll follow up with some further posts about how to add historic data, setup service schedules and how to backup and restore the watch database.</p>
+<p>If you&rsquo;d like to read more posts about the WristCheck App, you can see all posts under that category on this site <a href="/categories/wristcheck-app/">by clicking here</a></p>
+<p><em>Cover image credit: <a href="https://www.freepik.com/free-photo/confused-bearded-guy-shrugging-can-t-understand-how-use-mobile-phone-app_9583792.htm#query=how%20to&position=9&from_view=search&track=sph">Image by cookie_studio on Freepik</a></em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Wristcheck v1.2</title>
+            <link>/posts/wristcheck_v1.2/</link>
+            <pubDate>Fri, 07 Oct 2022 10:32:34 +0100</pubDate>
+            
+            <guid>/posts/wristcheck_v1.2/</guid>
+            <description>WristCheck v1.2 is live! So, fairly hot on the heels of my last post, there&amp;rsquo;s another update to WristCheck landing in the app stores imminently (as I write it&amp;rsquo;s already live on Android, and should hit iOS early next week).
+So, what&amp;rsquo;s new this time?
+Ads! Yep, I originally said these would be in v1.1, but I wanted to make sure backup/restore and notifications could be properly tested, so I pushed out v1.</description>
+            <content type="html"><![CDATA[<h2 id="wristcheck-v12-is-live">WristCheck v1.2 is live!</h2>
+<hr>
+<p>So, fairly hot on the heels of my <a href="/posts/wristcheck_1.1_preview/">last post</a>, there&rsquo;s another update to WristCheck landing in the app stores imminently (as I write it&rsquo;s already live on Android, and should hit iOS early next week).</p>
+<p>So, what&rsquo;s new this time?</p>
+<h3 id="ads">Ads!</h3>
+<p>Yep, I originally said these would be in v1.1, but I wanted to make sure backup/restore and notifications could be properly tested, so I pushed out v1.1 without ads.</p>
+<p>The implementation of these was also surprisingly time consuming, as I needed to add individual ad units throughout the app.</p>
+<p>I also built them behind some toggles - one that lets me run dev builds showing test ads (meaning during testing I can click them to my hearts content on any device), and another that lets me set a global flag to turn them off - this will play a part in a future &lsquo;pro&rsquo; option to go ad-free.</p>
+<p><img alt="Ad Earnings Image" src="/img/2022-10/earnings.png">
+<!-- raw HTML omitted --> <em>I&rsquo;m going to be rich!</em> <!-- raw HTML omitted --></p>
+<p>Now that these are in place I can start to earn some pennies! <em>(and it will be pennies!)</em> - my next Apple Developer subscription is due in June - I&rsquo;ll post again closer to the time to see if I can even get close to covering it!</p>
+<h3 id="notifications">Notifications</h3>
+<p>Again, I&rsquo;ve already mentioned this in v1.1, however I did a little more to improve these in v1.2 (specifically, making sure that permissions were granted at the correct time on Android!)</p>
+<p><img alt="WristCheck Notification Image" src="/img/2022-10/reminder.png">
+<!-- raw HTML omitted --> <em>Here&rsquo;s what they look like on Android!</em> <!-- raw HTML omitted --></p>
+<p>At the moment these can be scheduled to arrive at a fixed time every day - in a future release I&rsquo;m hoping to add a monthly reminder to check your wear stats, which brings me on to&hellip;</p>
+<h3 id="save-and-share-screenshots">Save and Share screenshots</h3>
+<p>I may have mentioned before, but being able to see charts of the watches I&rsquo;m wearing was my number one reason for building this app - even if nobody else ever used it, that&rsquo;s something that <em>I get value from!</em></p>
+<p>But based on some feedback, I&rsquo;ve made it really easy to save and share screenshots of the charts view - when viewing the &lsquo;Wear Stats&rsquo; page (whether as a pie or bar chart) you can now press a button to grab a screenshot, that you can then either save to your gallery, or send straight to any other app that will take it (such as using it directly as a Facebook post or in a WhatsApp message!).</p>
+<p><img alt="WristCheck Graph Image" src="/img/2022-10/shareImage.png">
+<!-- raw HTML omitted --><em>Here&rsquo;s one I made earlier!</em><!-- raw HTML omitted --></p>
+<p>This was pretty quick to implement, but I&rsquo;m really happy with how it turned out - please let me know if you like it!</p>
+<h3 id="so-whats-next">So what&rsquo;s next?</h3>
+<p>So, that&rsquo;s a wrap for v1.2, but there&rsquo;s plenty still to be done and I&rsquo;m starting to build a backlog for v1.3 - I think this will likely be a smaller update as I&rsquo;d like to make a few wee tweaks, such as refactoring the code relating to watch images (and adding the ability to add an image when you first add the watch record!) as well as enabling a second image for the caseback (a much requested feature!).</p>
+<p>Backup continues to cause issues on iOS though, with the user only being able to save the backup in the WristCheck app folder, rather than to iCloud or elsewhere (annoyingly, this all works <em>just fine</em> on a debug app build!) so keen to keep trying to get that working properly!</p>
+<p>Looking further ahead I&rsquo;ll be implementing a &lsquo;pro&rsquo; version of the app (likely via an in-app purchase) to allow users to disable the ads, as well as adding a calendar view and additional data points and charts - I reckon I&rsquo;ve got enough to keep churning out updates for at least 6 months, so watch this space!</p>
+<p>As always, if you&rsquo;ve read this far thank you - I really hope you&rsquo;re enjoying using my wee app!</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Wristcheck v1.1 Preview</title>
+            <link>/posts/wristcheck_1.1_preview/</link>
+            <pubDate>Fri, 16 Sep 2022 09:39:57 +0100</pubDate>
+            
+            <guid>/posts/wristcheck_1.1_preview/</guid>
+            <description>WristCheck v1.1 Preview If you are not embarrassed by the first version of your product, you’ve launched too late. - Reid Hoffman, LinkedIn founder
+I love the above quote, and when I hit release on WristCheck v1.0 I was acutely aware that this app was not finished!
+I&amp;rsquo;ve got a whole bunch of additional features I&amp;rsquo;m planning to add, but initially I&amp;rsquo;ve set my sights on a small number that will make up v1.</description>
+            <content type="html"><![CDATA[<h2 id="wristcheck-v11-preview">WristCheck v1.1 Preview</h2>
+<hr>
+<blockquote>
+<p><em>If you are not embarrassed by the first version of your product, you’ve launched too late. - Reid Hoffman, LinkedIn founder</em></p>
+</blockquote>
+<p>I love the above quote, and when I hit <em>release</em> on WristCheck v1.0 I was acutely aware that <em>this app was not finished!</em></p>
+<p>I&rsquo;ve got a whole bunch of additional features I&rsquo;m planning to add, but initially I&rsquo;ve set my sights on a small number that will make up v1.1 of the app.</p>
+<p>Since releasing v1 this is what I&rsquo;ve been focussed on so thought I&rsquo;d write up a quick preview of what&rsquo;s to come in v1.1&hellip;</p>
+<h3 id="whats-new">What&rsquo;s New</h3>
+<p>Ok, let&rsquo;s start off with what might seem like a silly wee thing, but the first thing I&rsquo;ve implemented is a version history and an information notification when the version has changed, so if you open the app and it&rsquo;s updated in the background <em>(you have auto-update on for your apps right?)</em>, then you&rsquo;ll get a wee note of what&rsquo;s changed to highlight new features available without having to check the app store.</p>
+<p>It may not seem like much, but implementing this did also allow me to set up some additional underlying code that will be useful down the line for future updates too!</p>
+<h3 id="backup-the-database">Backup the database</h3>
+<p>This is something I honestly consider core functionality, and is proving to be a bit of a headache to get working well across both Android and iOS, but I&rsquo;m working on the ability to backup and then restore the apps database - for a mobile app this is critical, as it will allow the user to restore their digital watch collection if they change phones, or even if they just want to be able to access it across devices.</p>
+<p>Whilst it won&rsquo;t (initially) perform automatic backups or sync between devices, it should allow the watch box to be backed up to iCloud, Dropbox or Google drive if they&rsquo;re installed on the device.</p>
+<h3 id="additional-data-fields">Additional Data Fields</h3>
+<p>I&rsquo;m fully intending to build out the watch model further to allow additional points of data to be captured, but in v1.1 I&rsquo;m kicking off with one that was asked for specifically by a few of the beta testers of the app - a reference number field.</p>
+<p>Initially in the launch version a user could record their watch manufacturer, model and individual serial number, but there was an ask to include the reference number to allow different variations of models to be captured.</p>
+<p>Not a big change, but hopefully a welcome one!</p>
+<h3 id="ad-support">Ad support</h3>
+<p>Okay, now onto the controversial one - in v1.1 I&rsquo;ll be adding ads into the app <em>(don&rsquo;t worry, an option to remove will follow soon after!)</em>. Why? Well, unlike <a href="/posts/addings_ads/">this site</a>, where popping in some advertising was just a nice to have and a wee experiment, for WristCheck I do actually have costs involved which I need to offset if I want to keep maintaining it (not least of which is my Apple Developer subscription, which needs to be renewed annually).</p>
+<p>In addition, it might be surprising to hear that I&rsquo;ve spent <em>hundreds</em> of hours working on WristCheck so far, and as mentioned I&rsquo;ve probably got enough updates planned to add <em>hundreds more</em> to that total, so seeing a tiny drip of income would certainly motivate me to keep improving it! (I&rsquo;m under no illusions, this isn&rsquo;t a <em>million dollar idea</em>, but being able to even partly offset the cost of my dev fees would be great, and getting enough in-pocket to buy an old phone or two would really help - right now all my testing is done on a Pixel 4 and an iOS simulator!)</p>
+<p>I&rsquo;m looking to implement these carefully throughout the app to be fairly unobtrusive - as the &lsquo;stat&rsquo; screens have been built to make them easy to screenshot I&rsquo;d like to avoid them entirely, but there are other screens where slotting an ad in can hopefully be done in a way that doesn&rsquo;t just make everyone <em>hate the app</em> (and don&rsquo;t worry, I&rsquo;m aiming to use only small in-line banners, not big page hogging monstrocities!) - once these are in, please provide feedback!</p>
+<h3 id="notifications">Notifications</h3>
+<p>Another feature that&rsquo;s been requested a few times, and <em>might</em> make it into v1.1 <em>(if not, it&rsquo;ll follow soon after!)</em> is notification reminders to track the watch you&rsquo;re wearing. These would be strictly opt-in, and sent on a user defined schedule, but will hopefully help people to get more data into the app - and if you&rsquo;re like me, you want data in there so that you can draw the graphs of what you&rsquo;re wearing (and that data is yours alone, it never leaves the app and lives on your own device!)</p>
+<h3 id="bug-fixes-etc">Bug Fixes etc</h3>
+<p>&hellip;and finally, the classic <em>bug fixes and improvements</em> - yes, sadly v1.0.0 wasn&rsquo;t totally bug free, so I&rsquo;ve already added a couple of small fixes and tweaks.</p>
+<h3 id="when">When?</h3>
+<p>So, there you go - that&rsquo;s the plan for WristCheck v1.1, and as mentioned I&rsquo;ve already made some decent progress towards it, so when can you expect it?
+Well v1.0.0 was released at the start of September <em>(actually a little later by the time it had been through app review by Apple and Google)</em>, so I&rsquo;m working towards a delivery at the start of October 2022 for v1.1.</p>
+<p><em>&hellip;and then it&rsquo;ll be onto thinking about v1.2 (which I&rsquo;ve already got some thoughts on what that&rsquo;ll include, but that&rsquo;s for another post!)</em></p>
+<p>No idea what all this is about? Take a look at my <a href="/posts/wristcheck-app/">original post</a> announcing WristCheck!</p>
+<p>Until next time!</p>
+<p><em>Cover image credit: <a href="https://www.freepik.com/free-vector/red-movie-theater-seats-with-curtains-background_26689100.htm?query=theater%20curtain">Image by starline on Freepik</a></em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Addings Ads</title>
+            <link>/posts/addings_ads/</link>
+            <pubDate>Wed, 14 Sep 2022 11:06:50 +0100</pubDate>
+            
+            <guid>/posts/addings_ads/</guid>
+            <description>Adding Ads&amp;hellip; and stuff&amp;hellip; Yep, I&amp;rsquo;ve done it&amp;hellip;sorry.
+I&amp;rsquo;ve gone ahead and added some hideous advertising all across the site&amp;hellip;but why?
+Good question, and I&amp;rsquo;m not sure I have a good answer&amp;hellip; It&amp;rsquo;s not really to make money, as the volume of readers of this site are tiny. It&amp;rsquo;s a site I&amp;rsquo;ve built far more for myself than for anyone else, but hey, if you&amp;rsquo;ve found you&amp;rsquo;re way here thanks for visiting (and if you&amp;rsquo;ve enjoyed your time here, even better!</description>
+            <content type="html"><![CDATA[<h2 id="adding-ads-and-stuff">Adding Ads&hellip; and stuff&hellip;</h2>
+<hr>
+<p>Yep, I&rsquo;ve done it&hellip;sorry.</p>
+<p>I&rsquo;ve gone ahead and added some hideous advertising all across the site&hellip;but <em>why?</em></p>
+<p>Good question, and I&rsquo;m not sure I have a good answer&hellip; It&rsquo;s not really to <em>make money</em>, as the volume of readers of this site are <em>tiny</em>. It&rsquo;s a site I&rsquo;ve built far more for myself than for anyone else, but hey, if you&rsquo;ve found you&rsquo;re way here thanks for visiting (and if you&rsquo;ve enjoyed your time here, even better!)</p>
+<p>The site does <em>cost me money</em> though. Not a lot, as I host it for free via <a href="pages.github.com">github pages</a>, but that lovely vanity domain up in the address bar does cost a bit (and I&rsquo;ve been paying for it for a decade&hellip;), so maybe I can offset a little of that cost. Hell, to be honest, covering that whole cost for a year would be <em>more success than I&rsquo;ve ever dreamed of</em> for the site!</p>
+<p>Anyway, maybe the more interesting question is&hellip; <em>how have I done it?</em></p>
+<h3 id="implementing-ads">Implementing Ads</h3>
+<p>In all honesty, implementing ads on the site turned out to be significantly easier than I&rsquo;d expected.</p>
+<p>I&rsquo;ve mentioned in previous posts that I&rsquo;ve put this site together using <a href="www.gohugo.io">Hugo</a> a static site generator - at a basic level all that means is that I can create quite posts written in <a href="https://www.markdownguide.org/basic-syntax/">Markdown</a>, write a wee command in Terminal, and then have a website generated that I can quickly post (and by linking it up with github pages, all I need to do is commit any changes to my remote code repository and it automagically publishes&hellip;it really is nice!)</p>
+<p>It&rsquo;s hopefully clear then that the benefits of a static site generator are the simplicity of getting new posts published, and unlike a system like WordPress the sites are usually super fast because all the processing happens when you compile the site - after that, it&rsquo;s all just flat pages.</p>
+<p>The <em>downside</em> to this though, is that it can be more awkward to do make changes to a site, such as implementing change that requires additional lines of code added within the pages etc.</p>
+<h3 id="google-analytics">Google Analytics</h3>
+<p>One of the benefits of Hugo is it&rsquo;s integration of Google Analytics - thanks to this integration, adding analytics support to the site was as simple as updating a configuration file with an analytics ID - I did this about 3 years ago when I remade the site, and have been surprised that there have literally been <em>tens of people</em> reading my nonsense!</p>
+<h3 id="cookie-banner">Cookie Banner</h3>
+<p>I then realised that if I wanted to implement ads, I&rsquo;d need to ensure I had a cookie pop-up (necessary since I&rsquo;m in the EU, although I&rsquo;m in the <em>this is a terrible solution</em> camp when it comes to cookie pop-ups!).
+Now, on reflection it turns out this might have been <em>wasted effort</em> (see the section on Adsense for more!)</p>
+<p>To do this, I followed <a href="https://dev.to/basman/add-a-cookie-warning-notice-to-a-hugo-powered-site-4d34">this guide</a></p>
+<p>You&rsquo;ll see that this required me to add lines of code into the header and footer code of the site, i.e. pop some code inside the html <!-- raw HTML omitted --> section, and just before the end of the <!-- raw HTML omitted --> section. The guide doesn&rsquo;t mention how the author specifically did this, but thankfully a bit of digging around the documentation for the <a href="https://github.com/panr/hugo-theme-hello-friend">hello friend theme</a> that I use for the site, highlighted that the creator had already thought about this and included specific files that would be pulled into these locations.</p>
+<p>Specifically a <em>&lsquo;prepended_head.html&rsquo;</em> file and an <em>&rsquo;extended_footer.html&rsquo;</em> file - so all I needed to do to add code in these places was to create these files within my <em>/layouts/partials/</em> folder&hellip; and just like magic when I recompiled the site, they just worked!</p>
+<p>The pop-up as created creates links to a <a href="/privacy/website_privacy_policy/">privacy policy</a> and <a href="/privacy/website-cookie-policy/">cookie policy</a>&hellip;so I then had to create these too!</p>
+<p>Rather nicely, when I thought about this I realised that I could easily create a /privacy/ sub-folder to the site, that still generated all sub-pages as expected, but didn&rsquo;t show them in the main blog view (like anything in my /posts/ folder would) - this let me also &lsquo;hide&rsquo; my other privacy policies for the apps I&rsquo;ve built. I&rsquo;d still like to keep these published and accessible, but it means they don&rsquo;t take up space in the wider blog view.</p>
+<h3 id="adsense">Adsense</h3>
+<p>Lastly, I had to implement the ads themselves. To do this, I enrolled for <a href="www.google.com/adsense">Google&rsquo;s Adsense</a> and&hellip; hell, that&rsquo;s actually pretty much it!</p>
+<p>Google have an option to let them place ads for you, so initially I&rsquo;ve just said <em>&ldquo;here&rsquo;s my website, place ads on it&rdquo;</em>, and toggled a couple of settings (for example I&rsquo;ve turned off things like full page ads between page loads&hellip;because that sounds <em>awful</em>, as well as turning off persistant bottom of page ads).
+So adding ads across the whole site was as simple as adding another couple of lines of code in the page header (which will then populate to every page on the site).</p>
+<p>As part of this they can also auto-generate a GDPR compliant banner for the site (so as above, I could have saved myself all the effort of generating my own pop-up banner!)</p>
+<p>I&rsquo;ll be keeping a wee eye on things to see how these look going forward - there is an option to turn this off and manually implement ad units on the pages myself, if it all looks too messy I&rsquo;ll take a look at that.</p>
+<p>Anyway, what do you think? Does implementing ads make the whole site suddenly <em>awful</em>. Is it acceptable as a necessary evil to help me keep this site going (and hell, if they actually start making double digit $$$&rsquo;s then maybe I&rsquo;ll actually be motivated to write more&hellip;sorry&hellip;)</p>
+<p><em>Cover image credit timessquarenyc.org</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Wristcheck App</title>
+            <link>/posts/wristcheck-app/</link>
+            <pubDate>Thu, 08 Sep 2022 00:31:55 +0100</pubDate>
+            
+            <guid>/posts/wristcheck-app/</guid>
+            <description>WristCheck App Version 1.0.0 is live! I&amp;rsquo;m pleased to announce that I&amp;rsquo;ve just released my first fully released app on both Android and iOS! (If you&amp;rsquo;re browsing around you may see I have previously posted about the ReboundMTB app, however this was never fully released!).
+What is WristCheck? WristCheck is a digital watch box, so if you&amp;rsquo;re both a) a watch collector, and b) a nerd, then this post might interest you!</description>
+            <content type="html"><![CDATA[<h2 id="wristcheck-app">WristCheck App</h2>
+<hr>
+<h3 id="version-100-is-live">Version 1.0.0 is live!</h3>
+<p>I&rsquo;m pleased to announce that I&rsquo;ve just released my first fully released app on both Android and iOS! (If you&rsquo;re browsing around you may see I have previously posted about the <a href="/posts/rebound-mtb-app/">ReboundMTB app</a>, however this was never fully released!).</p>
+<h3 id="what-is-wristcheck">What is WristCheck?</h3>
+<p>WristCheck is a digital watch box, so if you&rsquo;re both a) a watch collector, and b) a nerd, then this post might interest you!</p>
+<p>WristCheck allows you to track details of watches in your collection, and when you&rsquo;re wearing them.</p>
+<p>Got a big collection and not sure what to wear today? WristCheck can help with that too, by suggesting a random watch to wear!</p>
+<p>Always on the lookout for your next watch? Why not build a wish list, to keep the details in one place!</p>
+<p>By far my favourite feature of WristCheck though&hellip;</p>
+<h3 id="the-graphs">The Graphs</h3>
+<p><img alt="App Bar Graph screenshot" src="/img/2022-09/WristCheckBarGraph.png?width=20pc" title="watch stats for nerds!"><img alt="App Bar PieChart screenshot" src="/img/2022-09/WristCheckPieChart_Light.png" title="watch stats for nerds!">
+<!-- raw HTML omitted --> <em>I told you this was an app for nerds</em> <!-- raw HTML omitted --></p>
+<p>This is why I built WristCheck - I&rsquo;ve been wearing a range of watches and want to know what I&rsquo;m wearing most. I want to quickly be able to see if any of my collection are being neglected, perhaps identify pieces that would be better moved on to a more loving home <em>(to make way for the next purchase&hellip;)</em></p>
+<h3 id="service-schedule">Service Schedule</h3>
+<p>One last feature that&rsquo;s included in the first release, is the ability to generate a service schedule for your collection.</p>
+<p><img alt="App Bar Service Schedule screenshot" src="/img/2022-09/service_schedule.png" title="Time to get these booked...">
+<!-- raw HTML omitted --> <em>Time to get these booked&hellip;</em> <!-- raw HTML omitted --></p>
+<p>Mechanical watches need to be serviced every few years to keep them running at their best, and some manufacturers will extend warranties if serviced in line with their guidelines, so why not have a simple place to track them!</p>
+<h3 id="but-my-collection-is-_huge_">But my collection is <em>huge</em></h3>
+<p>I decided to build this app myself as I couldn&rsquo;t find something available on Android that would do it for me, and whilst working on it I asked for feedback from the helpful folks on the Christopher Ward Forum <em>(a fantastic group of watch nerds!)</em>, and a complaint I heard was that people had stopped using other apps of this type because once a collection got large they became awkward to use, with lots of scrolling through long lists.</p>
+<p>To hopefully mitigate that issue I&rsquo;ve added a couple of additional options into the app.
+Firstly, if you&rsquo;ve got a smaller group of watches that you wear most often, you can quickly mark them as a <strong>favourite</strong>, and filter the list to only show these watches.</p>
+<p>Secondly, if you just really want to find watch 300 in your collection quickly&hellip; then just search for it!</p>
+<p><img alt="App Search screenshot" src="/img/2022-09/search.png" title="real time search!">
+<!-- raw HTML omitted --> <em>Filter your collection quickly with real-time search!</em> <!-- raw HTML omitted --></p>
+<p>With real-time search you can very quickly filter your collection down to the watch you want, no matter how large your collection!</p>
+<h3 id="what-next">What next?</h3>
+<p>I&rsquo;m really proud of what I&rsquo;ve managed to put together for WristCheck v1.0.0, but I&rsquo;m not done yet - I&rsquo;ve got additional enhancements already on the way and intent to continue to build on these foundations for some time to come - I&rsquo;ll expand on this in future posts!</p>
+<p>So what do you think? If you&rsquo;ve found this page and want to download WristCheck on your phone you can find it at the below app store links.</p>
+<p>Already using WristCheck? Let me know what you think in the comments or by leaving a review on your app store of choice!</p>
+<!-- raw HTML omitted -->
+<p><a href="https://apps.apple.com/us/app/wristcheck/id1642718252"><img alt="App Store Link" src="/img/2022-09/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg"></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.stifdev.wristcheck&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Play Store Link" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"></a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Rebound MTB App</title>
+            <link>/posts/rebound-mtb-app/</link>
+            <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
+            
+            <guid>/posts/rebound-mtb-app/</guid>
+            <description>The Rebound MTB App Part 1: The beta release For the past forever I&amp;rsquo;ve been studying with the Open University, working towards a Bachelor&amp;rsquo;s degree in Software Engineering and after all that time the end is in sight!.
+To complete the degree I have to undertake a significant project, so I&amp;rsquo;ve teamed up with the guys at Rebound to build a mobile application to support them.
+Rebound is a registered charity, which aims to &amp;ldquo;develop the local community through sport&amp;rdquo; - with a primary focus on mountain biking.</description>
+            <content type="html"><![CDATA[<h2 id="the-rebound-mtb-app">The Rebound MTB App</h2>
+<hr>
+<h3 id="part-1-the-beta-release">Part 1: The beta release</h3>
+<p>For the past <em>forever</em> I&rsquo;ve been studying with the <a href="http://www.open.ac.uk/">Open University</a>, working towards a Bachelor&rsquo;s degree in Software Engineering and after all that time <em>the end is in sight!</em>.</p>
+<p>To complete the degree I have to undertake a significant project, so I&rsquo;ve teamed up with the guys at <a href="www.lennoxmtb.com">Rebound</a> to build a mobile application to support them.</p>
+<p>Rebound is a registered charity, which aims to <em>&ldquo;develop the local community through sport&rdquo;</em> - with a primary focus on mountain biking. They&rsquo;ve grown over the years and now run a series of events in and around Lennoxtown (including cycle maintenance classes,  skills coaching and regular guided rides in the local forest) and are in the process of agreeing lease terms to build, manage and maintain a designated bike park in <a href="http://www.lennoxmtb.com/falkland.html">Falkland</a>, a short drive away in Fife.</p>
+<p><img alt="Falkland Bike Park logo" src="/img/2020-07/FalklandBikePark.jpg" title="This place will be awesome!">
+<!-- raw HTML omitted --> <em>Extreme to the max!</em> <!-- raw HTML omitted --></p>
+<p>To support them we have discussed some key features for the app to provide, as well as engaging the wide group of users who are current members of the <a href="https://www.facebook.com/groups/hillsidehooligans/?multi_permalinks=4164629353607551">Falkland Bike Park Facebook group</a> and now that some of the basic features are in place it&rsquo;s reached the point where we&rsquo;re keen to release the app in beta form to start getting some feedback whilst I build some of the more complex features.</p>
+<p>As part of the Apple release process they ask for a <em>marketing link</em>, so it felt like a good time to write a little about the app, what it currently does, and what the future plans are (as I expand on this, I&rsquo;ll update this post with links to additional posts in the future).</p>
+<hr>
+<h3 id="what-does-the-app-do">What does the app do?</h3>
+<p>In the initial beta release the application provides two features: A weather forecast for the club riding locations (both Lennox Forest and Falkland Bike Park), and a support feature to help bikers report their location in the event of an accident.</p>
+<h4 id="whats-the-weather-like">What&rsquo;s the weather like?</h4>
+<p>The first feature is nice and simple: A weather forecast so that users can tell if they should wear shorts or pack a waterproof to ride <em>(Note: Please don&rsquo;t use this as an excuse to not get out and ride!)</em></p>
+<p><img alt="App Weather Forecast screenshot" src="/img/2020-07/WeatherScreenshot.jpg" title="Ride in all conditions!">
+<!-- raw HTML omitted --> <em>Should you pack that waterproof?</em> <!-- raw HTML omitted --></p>
+<p>The forecast provides: Current conditions, a 7 day forecast summary and a detailed 48 hour forecast.</p>
+<h4 id="my-friends-had-a-crash-what-do-i-do">My friend&rsquo;s had a crash, what do I do!</h4>
+<p>Next up, a feature that we hope nobody ever needs, but that they might be glad to have if they ever do!</p>
+<p><img alt="Accident reporting screenshot" src="/img/2020-07/AccidentReportingScreenshot.jpg" title="Ouch!">
+<!-- raw HTML omitted --> <em>Hopefully nobody will ever need to use this!</em> <!-- raw HTML omitted --></p>
+<p>The app can be used to help identify the users location, using <a href="https://what3words.com/">What3Words</a>, a system that maps the whole planet as 3m x 3m squares, and provides a simple 3 word identifier for each.</p>
+<p>Additionally it can be used to dial local emergency services and provides a link to the <a href="https://www.redcross.org.uk/">British Red Cross first aid app</a>. <em>(this is a great application that I recommend, however it is no substitute for proper first aid training)</em></p>
+<hr>
+<h3 id="whats-next">What&rsquo;s next?</h3>
+<p>Moving forward we have a few exciting features in the pipeline - the next out of the gate will be an in-app news feed that Rebound can use to share news and updates, as well as an event calendar to allow users to find out what&rsquo;s going on.</p>
+<hr>
+<h3 id="sounds-amazing---how-can-i-get-my-hands-on-it">Sounds amazing - how can I get my hands on it?</h3>
+<p>The beta release is available via invitation - you can find information on the <a href="https://www.facebook.com/groups/hillsidehooligans/?multi_permalinks=4164629353607551">Falkland Bike Park Facebook group</a>.</p>
+<p>Once the application goes fully live it will be available both via Google Play and the App Store via the below links:</p>
+<!-- raw HTML omitted -->
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<p><em>(Please note: The application release will be limited to users based in the United Kingdom only)</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Muc-Off Tubeless Valves Review</title>
+            <link>/posts/muc-off-tubless-valves-review/</link>
+            <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
+            
+            <guid>/posts/muc-off-tubless-valves-review/</guid>
+            <description>MTB Lockdown upgrades part 2: Muc-Off Tubeless Valves Review My lockdown quest to add more shiny, orange bits to my main mountain bike continues! This time, I&amp;rsquo;m adding a little more bling, but with arguably a bit more functional value thrown in compared to the Wolf Tooth Blink Kit that I reviewed in my first #LockdownUpgrades post.
+Ladies and gentlemen, I present to you, Muc-Off Tubeless Valves:
+Valves: Muc-Off; Fingers: Models own What do they do?</description>
+            <content type="html"><![CDATA[<h2 id="mtb-lockdown-upgrades-part-2-_muc-off-tubeless-valves-review_">MTB Lockdown upgrades part 2: <em>Muc-Off Tubeless Valves Review</em></h2>
+<hr>
+<p>My lockdown quest to add more <em>shiny, orange bits</em> to my main mountain bike continues!
+This time, I&rsquo;m adding a little more <em>bling</em>, but with arguably a bit more functional value thrown in compared to the <a href="/posts/wolf-tooth-bling-kit/">Wolf Tooth Blink Kit</a> that I reviewed in my first #LockdownUpgrades post.</p>
+<p>Ladies and gentlemen, I present to you, <em>Muc-Off Tubeless Valves:</em></p>
+<p><img alt="Muc-Off tubeless valves image" src="/img/2020-07/muc-off-pack.jpg" title="More shinies!">
+<!-- raw HTML omitted --> <em>Valves: Muc-Off; Fingers: Models own</em> <!-- raw HTML omitted --></p>
+<h3 id="what-do-they-do">What do they do?</h3>
+<p>Put simply, they&rsquo;re a set of valves that slot into your wheel rims and let you add air to your tyres!
+In the <em>good old days</em> the valve would have been attached to an inner tube, but in the modern age (or <em>the Future</em> as us oldies call it) you should absolutely be running your wheels tubeless if you ride off road.
+These valves allow you to do that (along with some rim tape and compatible rims and tyres!) and they allow you to do it <em>in style!</em></p>
+<h3 id="what-do-they-cost">What do they cost?</h3>
+<p>Ok, let&rsquo;s get the price question out of the way. The RRP for these bad-boys is £24.99 (that&rsquo;s about $30 or €28 at current exchange rates), however I purchased these direct from Muc-Off on sale for <em>(I think)</em> £17.50, which was a far more palatable price.</p>
+<p>Is that good value? Well, a <em>standard</em> set of <em>Stan&rsquo;s</em> Tubeless Valves costs about £10 to £12 - I&rsquo;m specifically referencing these ones as <em>Stan&rsquo;s</em> stuff is almost universally recommended as the <em>&lsquo;buy this if you want to set your bike up tubeless&rsquo;</em> standard.</p>
+<p>Of course a lot of new bikes and/or new wheels come with tubeless valves in the box <em>for free</em>, so chances are you either already have some or have a friend with spares (I have <em>at least</em> 6 unused valves lying around now&hellip;)</p>
+<p>Do these provide enough value to double the cost of the Stans and make you throw away the <em>perfectly good</em> free ones you might already have? Actually, <strong>I think they do</strong>, (but your milage may vary!) so let me explain why&hellip;</p>
+<h3 id="whats-so-great-about-them">What&rsquo;s so great about them?</h3>
+<p>To begin with, unlike most tubeless valve&rsquo;s this set comes with different fittings to make sure they help to create a tight seal on <em>any</em> rim, preventing air from escaping until you want it to <em>(that&rsquo;s their whole purpose!).</em> In addition, they also have a couple of really useful extra features:
+Firstly, they have a small Allen-key hole on the bottom, and their lockring fits a small (11mm?) spanner - whilst the valves only need to <em>go on</em> hand tight, these could prove really useful if you ever need to remove them.
+Second, and honestly <em>most useful</em> they come with a spare valve head that doubles as a valve core remover. <em>Why is this cool?</em>, well part of setting a bike up tubeless is seating the tyres on the rim - to do this you want to get a <em>lot of air</em> into them in a <em>very short space of time</em>, until you hear a lovely <em>&lsquo;pop!&rsquo;</em> as the tyre seats.
+To do this, removing the core of the valve so that you can blast air in is super useful.
+Previously, I&rsquo;ve purchased a valve core removal tool to help with this (from <em>Stan&rsquo;s</em> obviously!) and that cost in the region of £8&hellip; see where the value is coming from now?</p>
+<p>Finally though, these valves are both super well engineered - the whole valve is machined aluminium (that&rsquo;s <em>aluminum</em> if you live on the wrong side of the Atlantic!) and they feel super premium.</p>
+<p>..and of course, let&rsquo;s not forget their true purpose - they just <em>look great</em> and come in a whole rainbow of colours:</p>
+<p><img alt="Muc-Off tubeless valves &lsquo;all the colours&rsquo; image" src="/img/2020-07/Valves-All-Colours.jpg" title="Taste the rainbow!">
+<!-- raw HTML omitted --> <em>Taste the rainbow!</em> <!-- raw HTML omitted --></p>
+<h3 id="anything-they-dont-do-well">Anything they don&rsquo;t do well?</h3>
+<p>Honestly, these fulfil such a simple purpose that it&rsquo;s hard to nit-pick here, however there is <em>one</em> area where they fall down (which isn&rsquo;t really their fault) - I run a Nukeproof ARD RIM insert in my back wheel, and as that&rsquo;s a big foam noodle, it comes with special valves which push the foam away from the valve hole a little to allow an air channel to allow enough air flow to seat tyres:</p>
+<p>Like this:
+<img alt="Nukeproof ARD valves image" src="/img/2020-07/Nukeproof-valve.jpg" title="Nukeproof ARD valve">
+<!-- raw HTML omitted --> <em>The top (bottom?) of a Nukeproof ARD valve yesterday</em> <!-- raw HTML omitted --></p>
+<p>The bottom of the Muc-Off valves is completely flat, which means it doesn&rsquo;t have this air channel.</p>
+<p>Now, there are a few options around this - firstly, you could just not run inserts (I expect most people don&rsquo;t!) - I like having one in the back to protect my rim in the event of a <em>bad</em> puncture - I also run a lighter tyre casing at the rear at the moment, so hopefully it&rsquo;ll stop me tearing it! Or you could use one of the other tyre inserts available <em>(Huck Norris, Rimpact or the super premium Cushcore&rsquo;s wouldn&rsquo;t have this issue).</em></p>
+<p>The next option would be to buy Nukeproof&rsquo;s competing valve! They also now do a <em>really cool looking</em> anodised aluminium valve:</p>
+<p><img alt="Nukeproof aluminium valves image" src="/img/2020-07/nukeproof-new-valves.jpg" title="These look familiar...">
+<!-- raw HTML omitted --> <em>Look familiar? - Image &ldquo;borrowed&rdquo; from singletrackworld.com - subscribe to their mag, it&rsquo;s great!</em> <!-- raw HTML omitted --></p>
+<p>The Nukeproof&rsquo;s are a little cheaper I think, and have a valve core tool on <em>each</em> cap, rather than just on the &lsquo;spare&rsquo; cap - but I went for the Muc-Off&rsquo;s for two reasons. First, I didn&rsquo;t know the Nukeproof ones existed when I got them <em>(seriously&hellip;)</em>, but second, and <em>by far</em> most importantly: <em>They don&rsquo;t come in orange!</em>.
+Come on Nukeproof, sort it out!</p>
+<p>The final option, and the one I went for, is to just make your own ghetto McGuyver <em>(hi fellow 80&rsquo;s kids!)</em> solution:</p>
+<p><img alt="Ghetto fix image" src="/img/2020-07/ghetto-fix.jpg" title="Seriously, what&#39;s with all the thumb shots!">
+<!-- raw HTML omitted --> <em>Believe it or not, this worked just fine!</em> <!-- raw HTML omitted --></p>
+<p>Yep - I stuffed a manky bit of cardboard and some tape around one of my valves&hellip;and it worked <em>just fine!</em></p>
+<h3 id="anything-else-to-say">Anything else to say?</h3>
+<p>So, by now you&rsquo;ll know that I really like these valves - I reckon they&rsquo;re decent enough value, function <em>really well</em> and they <em>look super sweet!</em>.</p>
+<p>The only other point I think I should note is that they come in three lengths - 44mm, 60mm or 80mm. Now, I assumed this was <em>&lsquo;short&rsquo;, &rsquo;normal&rsquo; and &rsquo;long&rsquo;</em>&hellip;so just went ahead and ordered the 60mm ones without measuring my current valves.</p>
+<p>Turns out 60mm is <em>really long</em>&hellip;honestly, I can&rsquo;t imagine why anyone would want or need 80mm ones on a mountain bike (that&rsquo;s like <em>a mile</em> long, right?).</p>
+<p>Despite this though, I&rsquo;m really happy with how these look on the bike - just a wee subtle bit of colour on the wheels. <em>Lovely</em>. The fact they also function super well is a bonus!</p>
+<p><img alt="The final result image" src="/img/2020-07/The-end-result.jpg" title="Super sexy!">
+<!-- raw HTML omitted --> <em>Is that a Muc-Off Tubeless valve on your rims, or are you just pleased to see me?</em> <!-- raw HTML omitted --></p>
+<p>One last note - whilst writing this I found out that Muc-Off,  in an <em>excellent</em> demonstration of entrepreneurship/money-grabbing <em>(delete as appropriate)</em> also now sell &lsquo;accessory kits&rsquo;, consisting of just the lockrings and caps, which would allow you to have these different colours to the main valve - I can&rsquo;t help but wonder how blue ones would look with the orange on my bike&hellip;</p>
+<p><em>(Honestly hope that last bit didn&rsquo;t sound too arsey! I think Muc-Off are an awesome company, I&rsquo;ve been buying their stuff for almost 25 years!)</em></p>
+<hr>
+<table>
+<thead>
+<tr>
+<th>The Ratings</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Utility</td>
+<td>9/10 - OK, they&rsquo;re doing a simple job, but they work <em>well</em>. Bonus points for the built in valve core tool!</td>
+</tr>
+<tr>
+<td>Aesthetics</td>
+<td>9/10 - These look great, but they&rsquo;re a <em>really small</em> part of a bike!</td>
+</tr>
+<tr>
+<td>Value</td>
+<td>8/10 -  Glad I got these on sale, I&rsquo;d have cried paying full price!</td>
+</tr>
+<tr>
+<td>Overall</td>
+<td>9/10 - I&rsquo;d score these a perfect ten if they were just a <em>wee bit</em> cheaper and were easier to fit with the ARD inserts.</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="_closing-comments_"><em>Closing Comments</em></h3>
+<p><em>These look fantastic (especially against some all-black rims), work really well and have a few wee extras - such as the valve core tool and Allen key/spanner tightening - that really add to their value. A little expensive at full price, but are definitely worth a small premium over basic tubeless valves. <strong>Recommended!</strong></em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Wolf Tooth Bling Kit Review</title>
+            <link>/posts/wolf-tooth-bling-kit/</link>
+            <pubDate>Sun, 28 Jun 2020 01:30:23 +0100</pubDate>
+            
+            <guid>/posts/wolf-tooth-bling-kit/</guid>
+            <description>MTB Lockdown upgrades part 1: The Wolf Tooth Bling Kit Like many parts of the world, the global Covid-19 pandemic has lead to a period of lockdown in Scotland, which has resulted in me transitioning to working from home, whilst also home-schooling my kids and unable to get out properly on my mountain bike (I say &amp;lsquo;properly&amp;rsquo; as I have no decent trails near me - I am however getting out whenever I can just to spin the wheels with my boys, but I&amp;rsquo;ve been entirely unable to send it).</description>
+            <content type="html"><![CDATA[<h2 id="mtb-lockdown-upgrades-part-1-_the-wolf-tooth-bling-kit_">MTB Lockdown upgrades part 1: <em>The Wolf Tooth Bling Kit</em></h2>
+<hr>
+<p>Like many parts of the world, the global Covid-19 pandemic has lead to a period of <em>lockdown</em> in Scotland, which has resulted in me transitioning to working from home, whilst also home-schooling my kids and unable to get out <em>properly</em> on my mountain bike (I say &lsquo;properly&rsquo; as I have no decent trails near me - I am however getting out whenever I can just to <em>spin the wheels</em> with my boys, but I&rsquo;ve been entirely unable to <em>send it</em>).</p>
+<p>With all this isolation and lack of mountain biking, combined with saving a not insignificant amount of money by not having to pay to park my car every weekday or pay for city-centre lunch (man can&rsquo;t live on Boots meal deals alone!), I&rsquo;ve been forced to do what any self respecting mountain biker would do in the circumstances.</p>
+<p><em>I&rsquo;ve wasted all that saved cash on shiny trinkets for my bikes</em>.</p>
+<hr>
+<h3 id="first-up-the-wolf-tooth-bling-kit">First up: <strong>The Wolf Tooth Bling Kit</strong></h3>
+<p><img alt="Wolf Tooth Bling Kit image" src="/img/2020-06/WT_Bling_Kit_official.jpg" title="Doesn&#39;t it look shiny!">
+<!-- raw HTML omitted --> <em>Golem would jizz his pants if he saw these rings!</em> <!-- raw HTML omitted --></p>
+<p>So, what is it? Well, those engineering geniuses at Wolf Tooth Components have toiled away for hours and created&hellip;</p>
+<p><em>some shiny headset spacers!</em></p>
+<p>But wait, that&rsquo;s not all! No, they&rsquo;ve also bundled in not two, but four anodised bolts to add a bit of <em>shiny</em> to your bottle cage bosses.</p>
+<p>Honestly, it&rsquo;d be hard to get any of these <em>wrong</em>, and the guys at Wolf Tooth have some pretty awesome components in their line up, so it&rsquo;d be a bit daft to spend too much time talking about functionality - this is just <em>bike jewellery</em>, hell they don&rsquo;t try to hide that, it&rsquo;s called the <em>bling kit</em> after all!</p>
+<p>The only thing that does stand out is the top cap, which rather than sitting flush with the top of your steerer now incorporates a 5mm spacer into it, so it kinda sits <em>over</em> the top of your steerer, but honestly, this is the one bit of the kit I could take or leave. There&rsquo;s nothing wrong with it - unless of course you want to run your stem right at the top of your steerer - it&rsquo;s just <em>different</em>.</p>
+<p>So why would you put these on your bike? To save a <em>shit-ton of weight?</em></p>
+<p><img alt="Wolf Tooth Bling Kit weight image" src="/img/2020-06/WTBK_Weight_Weenie.jpg" title="I can see those Strava PR&#39;s now...">
+<!-- raw HTML omitted --> <em>Strava KOM here I come!</em> <!-- raw HTML omitted --></p>
+<p>Yes. Yes, I did weight them - and compared to the spacers, top cap and bolt I was replacing I saved a <em>whopping</em> six grams!
+So yeah, no, you don&rsquo;t buy them to save weight - you buy them to <em>look cool</em>, and look cool they do&hellip; can you really put a price on that?</p>
+<p>Of course you can! And that price (here in the UK) is around £30. Yeah, you read that right, the kit costs <em><strong>thirty damn quid</strong></em> and not only that, but <em>I actually paid that</em>.</p>
+<p><em>&ldquo;But Grant&hellip;why?!?&rdquo;</em> I hear you ask! Well, there are a couple of reasons - firstly, as I&rsquo;ve already alluded to, Wolf Tooth make some fine kit, so you can have a bit of faith that these are decent <em>tiny, shiny, things</em>.</p>
+<p>Second - neither of my mountain bikes have long steerers or run many spacers at the moment, and both only have one set of bottle mounts, so this kit will really do two bikes (for me, your milage may vary!), rather than just one.</p>
+<p>Third - hey, they <em>look cool</em> - the top cap has a <em>laser etched wolf FFS!</em>:</p>
+<p><img alt="Wolf Tooth Bling Kit installed" src="/img/2020-06/WTBK_Close_up.jpg" title="Hear me roar!">
+<!-- raw HTML omitted --> <em>Is that a fire hydrant in your pants, or are you just pleased to see me?</em> <!-- raw HTML omitted --></p>
+<p>I really don&rsquo;t have much else to add. The kit is lovely, it&rsquo;s eye-wateringly expensive (for what you get - you could buy anodised bolts and spacers elsewhere for literally half the price) and I couldn&rsquo;t be happier with it <em>(hashtag lockdown hysteria&hellip;)</em>, even if you can&rsquo;t see the bottle mount bolts when you&rsquo;ve got a cage and bottle on the bike&hellip;</p>
+<p><img alt="Wolf Tooth Bling Kit bottle mounts" src="/img/2020-06/WTBK_Bolts.jpg" title="Still sexy though!">
+<!-- raw HTML omitted --> <em>It&rsquo;d be rude to cover these up&hellip; where&rsquo;s my camelbak?</em> <!-- raw HTML omitted --></p>
+<hr>
+<table>
+<thead>
+<tr>
+<th>The Ratings</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Utility</td>
+<td>6/10 - Does what it says on the tin, but you don&rsquo;t <em>need</em> them</td>
+</tr>
+<tr>
+<td>Aesthetics</td>
+<td>8/10 - Bling, bling baby!</td>
+</tr>
+<tr>
+<td>Value</td>
+<td>5/10 -  Yes, you did read that price right!</td>
+</tr>
+<tr>
+<td>Overall</td>
+<td><em>Tingly nippled excitement / 10</em></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="_closing-comments_"><em>Closing Comments</em></h3>
+<p><em>Sexy, Shiny, Cheap - pick two&hellip;</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>7 Things to Do While Your Electric Car Charges</title>
+            <link>/posts/5-things-to-do-while-your-electric-car-charges/</link>
+            <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
+            
+            <guid>/posts/5-things-to-do-while-your-electric-car-charges/</guid>
+            <description>7 Things to do while your electric car charges So after writing a bit about how long an electric car takes to charge, I thought I&amp;rsquo;d write a short post about things to do to whilst your car charges - believe it or not this is something I Googled while I was first investigating EV ownership!
+1. Write a blog post There&amp;rsquo;s something quite therapeutic about writing, even when you&amp;rsquo;re not very good at it&amp;hellip;</description>
+            <content type="html"><![CDATA[<h2 id="7-things-to-do-while-your-electric-car-charges">7 Things to do while your electric car charges</h2>
+<hr>
+<p>So after writing a bit about how long an electric car takes to charge, I thought I&rsquo;d write a short post about things to do to whilst your car charges - believe it or not this is something I Googled while I was first investigating EV ownership!</p>
+<hr>
+<h3 id="_1-write-a-blog-post_"><em>1. Write a blog post</em></h3>
+<p>There&rsquo;s something quite therapeutic about writing, <em>even when you&rsquo;re not very good at it&hellip;</em><br>
+Even without a laptop with you it&rsquo;s surprising how much you can write on a phone or tablet, and then using Dropbox or similar these can pretty much be ready to go next time you log onto your computer.</p>
+<p><!-- raw HTML omitted -->I&rsquo;ve currently got <a href="https://ia.net/writer" title="iA Writer website">iA Writer</a> installed on my phone and tablet, set to sync to Dropbox, and use Atom on my laptop for writing - at least a few of the words in this post probably came from my phone&hellip;<!-- raw HTML omitted --></p>
+<hr>
+<h3 id="_2-play-some-video-games_"><em>2. Play some video games</em></h3>
+<p>Nintendo <em>(MAY THEY REIGN FOREVER!)</em> have been making fantastic handheld games since I was a kid, and with the Switch and new Switch Lite it doesn&rsquo;t look like that&rsquo;s changing anytime soon! With home console level gaming now totally portable, I&rsquo;ve even made excuses to go and charge the car once or twice just to get some free time to play mine!</p>
+<p>Modern phones also do a good job at <em>pretending</em> that they can play proper games too (and <em>Mario Run</em> is <em>legit</em>), but if you&rsquo;re gonna do something, do it right :D</p>
+<hr>
+<h3 id="_3-watch-a-tv-show_"><em>3. Watch a tv show</em></h3>
+<p>I like to tell my sons that when I was their age I was lucky if I got to watch an hour of TV that I <em>actually wanted to watch</em> in any given day - until I was 14, we only had 4 TV channels!
+Now, Netflix is <strong>the</strong> reason to have an unlimited data plan.
+Even without data most of the streaming providers also now give the option to download shows to watch later and device storage is getting bigger all the time (<em>unless you buy a Google Pixel&hellip;</em>) Is there really any excuse to <em>not</em> have a few TV show episodes stashed away on your phone for a later date?</p>
+<hr>
+<h3 id="_4-have-a-conversation_"><em>4. Have a conversation</em></h3>
+<p>If you&rsquo;re not in the car alone, you could try talking to your companion(s)!</p>
+<p><!-- raw HTML omitted -->&hellip;or just go ahead and ignore each other by staring at a screen - see points 1, 2 and/or 3 above&hellip;<!-- raw HTML omitted --></p>
+<h3 id="_5-grab-something-to-eat-or-drink_"><em>5. Grab something to eat (or drink)</em></h3>
+<p>On a longer road trip where I need to stop to top up my battery mid journey, this is probably the most common way for me to pass the time, potentially swiftly followed by one of the other options above.
+It&rsquo;s surprising how long it can take to queue, purchase something to eat, consume it and then return to your car - on more than one occasion I&rsquo;ve plugged in and found that my battery is already at my target charge by the time I&rsquo;m back with a coffee!</p>
+<hr>
+<h3 id="_6-go-to-work_"><em>6. Go to work</em></h3>
+<p>This one is actually the one I do most, and it&rsquo;s the real beauty of driving an EV - when I go to work, I park in a car park that has 10 or so charging stations, so once or twice a week I plug into one of these and my battery is full when I&rsquo;ve finished in the office for the day.
+This is <em>so much better</em> than having to detour via a smelly petrol station once a week, no matter how quickly you can fill a petrol tank!</p>
+<hr>
+<h3 id="_7-sleep_"><em>7. Sleep</em></h3>
+<p>&hellip;And finally, the absolute best option for most people - plug your car in at home and then get to bed. Imagine waking up with a full petrol tank in your car every morning! This can also be the cheapest way to keep your car fueled, as it&rsquo;s often possible to get cheaper electricity overnight when demand is lower (in fact, some smart tarrifs will actually pay you to use electricity overnight during heavy wind, when the turbines are running full pelt!)</p>
+<p>As a wee aside, here are a few interesting numbers. I&rsquo;ve been driving my EV for 2 years now, and being <em>a total nerd</em> I&rsquo;ve kept a spreadsheet tracking how much I&rsquo;ve spent running it - let&rsquo;s ignore what I&rsquo;ve <em>actually spent</em> (that&rsquo;s a post for another day, but I&rsquo;m lucky that I can get most of my charging for free&hellip;) and look at a comparison between what it <em>could have cost</em> for the EV vs a standard petrol car.</p>
+<p>So, over 2 years I&rsquo;ve covered 14,000 miles - in my old Ford Focus this would have cost in the region of <strong>£2000</strong> <em>at the tracked average economy of the car, with the petrol price when I sold it</em> (keep that in mind&hellip;petrol prices have risen and remained more than 10% higher since then!).</p>
+<p>In that time, to drive those 14,000 miles my car has consumed in the region of 5,000 kWh of electricity (wow!), which on my electricity tariff would have cost me approx <strong>£650</strong> if I&rsquo;d done <em>all</em> of my charging at home (in reality if I wasn&rsquo;t charging at work I&rsquo;d be doing between 90 and 95% of my charging at home, but stick with me).</p>
+<p>Now, on the <em>current best</em> electricity tariff for EV drivers, which tracks at a significantly lower rate overnight, this could be <em>over 50% lower!</em></p>
+<p>In other words, fuelling an EV can be incredibly cheap, and you get to do it while you sleep&hellip;<em>amazing!</em></p>
+<p><!-- raw HTML omitted -->&hellip;and I&rsquo;ve not even mentioned that you can usually fix your electricity costs for a year&hellip;imagine being able to do that with fossil fuels!<!-- raw HTML omitted --></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>How Long Does an EV Take to Charge</title>
+            <link>/posts/how-long-does-an-ev-take-to-charge/</link>
+            <pubDate>Sat, 28 Sep 2019 01:39:02 +0100</pubDate>
+            
+            <guid>/posts/how-long-does-an-ev-take-to-charge/</guid>
+            <description>How long does an electric car take to charge? After &amp;ldquo;How far does it go?&amp;rdquo;, the next most common question I&amp;rsquo;ve heard since buying an electric car is &amp;ldquo;How long does it take to charge?&amp;rdquo;.
+I think a lot of people find the answer surprising, I certainly did when I started investigating purchasing a hybrid and quickly found myself drawn towards the mysterious world of EV ownership.
+The answer though is &amp;ldquo;it depends&amp;hellip;&amp;rdquo;, quickly followed by &amp;ldquo;and that&amp;rsquo;s not really the right question anyway&amp;hellip;&amp;rdquo;</description>
+            <content type="html"><![CDATA[<h2 id="how-long-does-an-electric-car-take-to-charge">How long does an electric car take to charge?</h2>
+<hr>
+<p>After <em>&ldquo;How far does it go?&rdquo;</em>, the next most common question I&rsquo;ve heard since buying an electric car is <em>&ldquo;How long does it take to charge?&rdquo;</em>.</p>
+<p>I think a lot of people find the answer surprising, I certainly did when I started investigating purchasing a hybrid and quickly found myself drawn towards the mysterious world of EV ownership.</p>
+<p>The answer though is <em>&ldquo;it depends&hellip;&rdquo;</em>, quickly followed by <em>&ldquo;and that&rsquo;s not really the right question anyway&hellip;&rdquo;</em></p>
+<hr>
+<h3 id="_it-depends_"><em>It depends&hellip;</em></h3>
+<p>So, the reason <em>it depends</em> is that there are different charging speeds available to an EV (additionally, different cars have different battery capacities, but lets skip that for now&hellip;)</p>
+<ul>
+<li><strong>Trickle charging</strong> - Using a <em>granny cable</em> to plug into a standard home plug socket <em>(here in the UK, that&rsquo;s 240V at 10A - approximately a 3kW/h charge rate)</em></li>
+<li><strong>Fast charging</strong> - This uses a proprietary plug socket to charge at a faster rate: At home I have a <em>240V, 32A</em> connection available, which equates to roughly a <em>7kW/h charge rate</em> <em>(however some cars can use public fast chargers that go triple this rate)</em></li>
+<li><strong>Rapid charging</strong> - The chargers you&rsquo;ll usually find at motorway services, these have speeds <em>starting</em> at 50kW/h (although as batteries approach full things slow down so as not to damage the battery). Half an hour on one of these suckers and I&rsquo;m <em>pretty much</em> full.</li>
+</ul>
+<p>So, that&rsquo;s the three types of charging, and you might have noticed that <em>(aside from a hint at the end&hellip;)</em> I didn&rsquo;t actually answer the question at all, instead focusing on <em>speed</em> rather than <em>time.</em></p>
+<hr>
+<h3 id="_thats-not-really-the-right-question-anyway_"><em>That&rsquo;s not really the right question anyway</em></h3>
+<p>Let&rsquo;s return to my other point - asking how long a car takes to charge isn&rsquo;t really valid - rather <em>the rate you gain range is</em>. In other words the more useful value is how much range you can add to the car in a given period.</p>
+<p>The reason for this is simple - when you drive an EV, your home is your refueling station 99% of the time, so you can wake up every morning with a <em>&lsquo;full tank&rsquo;</em>. I expect for the majority of users the range you get from a full tank is more than adequate for their average day, so the only time the recharge time is a consideration is when you&rsquo;re going to go beyond that range.</p>
+<p>Hence the <em>correct</em> question - if you know you&rsquo;re going to exceed your range, how long do you need to plug the car in for to make <em>the rest of your journey.</em></p>
+<hr>
+<p><strong>So how about I <em>finally</em> answer the question&hellip;</strong></p>
+<p>My car is a previous generation 2017 Nissan Leaf, with the 30kWh battery pack - this gives me an effective range of around 100 miles on a full battery <em>which means I&rsquo;m comfortable going about 80 between charges</em>. I also paid a little extra to upgrade the onboard charger to 6.6kWh <em>(ignore the confusing numbers - all this means is that the rate of charge I can get from a Type 2, or &lsquo;Fast&rsquo;, charger is twice the standard rate for the Leaf)</em>.
+With the general efficiency of my car I know that on the 3 types of charger mentioned above I can add:</p>
+<ul>
+<li>Trickle charge - <em>+10 miles of range per hour plugged in</em></li>
+<li>Fast charge - <em>+25 miles of range per hour plugged in</em></li>
+<li>Rapid charge - <em>+100 miles of range per hour plugged in</em></li>
+</ul>
+<p>So, to put this in perspective, 99% of my journeys see me going less than 50 miles from home. On journeys on the boundary of that, if I can plug my car into a public Fast charger for just an hour, I&rsquo;m comfortable. Likewise if I&rsquo;m just having a day with <em>a lot</em> of local driving, just plugging in for an hour at home, or whilst shopping, is usually more than enough to give me the extra <em>juice</em> I need.</p>
+<p>On long journeys I&rsquo;ll take a bit of time to plan ahead, planning routes that stop at Rapid chargers (with back-ups in the plan incase the primary one isn&rsquo;t available) such that I&rsquo;m stopping at a charger around the time I&rsquo;d want to be eating anyway - you&rsquo;d be surprised how quickly half an hour can vanish! <em>(I&rsquo;ve been in the situation where I&rsquo;ve plugged the car in, and by the time I&rsquo;ve walked to a coffee shop and been served my car is close to full)</em>.</p>
+<p>Doing this I&rsquo;ve taken my car from Glasgow to Manchester <em>(about 220 miles)</em> without much fuss.</p>
+<hr>
+<p>I suppose I wanted to write this post as this knowledge really opened my eyes when I was researching purchasing my car and is what ultimately convinced me that a full EV was for me, rather than a hybrid.</p>
+<p>The beautiful thing is that over the past year or two EV&rsquo;s have become even more capable, with larger batteries and faster rapid charging available (the basic new Nissan Leaf has 30% more range than mine for example, and one with twice the range is now available).</p>
+<p>If you&rsquo;ve stumbled across this post then I hope you&rsquo;ve found it useful!</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Blog Workflow</title>
+            <link>/posts/blog-workflow/</link>
+            <pubDate>Tue, 24 Sep 2019 16:31:56 +0100</pubDate>
+            
+            <guid>/posts/blog-workflow/</guid>
+            <description>My blog workflow So, I&amp;rsquo;m writing this post as much for my own benefit as anyone else&amp;rsquo;s. The last time I tried to build a blog I left it alone for a while and when I came back to it I&amp;rsquo;d forgotten the steps to build it&amp;hellip; If this is of benefit to anyone else though, great!
+I&amp;rsquo;ve put this blog together using Hugo, a static site generator. What does that mean?</description>
+            <content type="html"><![CDATA[<h2 id="my-blog-workflow">My blog workflow</h2>
+<hr>
+<p>So, I&rsquo;m writing this post as much for my own benefit as anyone else&rsquo;s. The last time I tried to build a blog I left it alone for a while and when I came back to it I&rsquo;d forgotten the steps to build it&hellip; If this is of benefit to anyone else though, great!</p>
+<p>I&rsquo;ve put this blog together using <a href="https://gohugo.io" title="gohugo.io">Hugo</a>, a static site generator. What does that mean? Simply, I can write pages in simple markdown, then run Hugo and it takes all the pages and assets and outputs a fully formed website which can then be uploaded to the web.</p>
+<p>I then use git to version control it and push changes to a remote <a href="https://github.com" title="github.com">github</a> repository (<a href="https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line">like this</a>), and make use of <a href="https://pages.github.com/" title="github pages"><em>github pages</em></a> to host the site (with my domain pointed to github per <a href="https://help.github.com/en/articles/using-a-custom-domain-with-github-pages" title="Using a custom domain with github pages">these instructions</a> ).</p>
+<p>So, that&rsquo;s the background, but how do I go about generating and uploading a post.
+Well, I do 90% of that via Terminal <em>because it&rsquo;s cool</em>.</p>
+<p><!-- raw HTML omitted --><em>I assume this would be virtually identical on a Windows machine via Command Prompt, I&rsquo;ll give it a go at some point.</em> <!-- raw HTML omitted --></p>
+<hr>
+<h4 id="creating-the-post">Creating the post</h4>
+<ul>
+<li>
+<p>Open Terminal</p>
+</li>
+<li>
+<p>Create a new post<br>
+<code>Hugo new posts/post_name.md</code></p>
+</li>
+<li>
+<p>Open the generated file in Atom (the program I use to write and edit markdown, amongst other things)<br>
+<code>open -a &quot;Atom&quot; stifblog_mk2/content/posts/post_name.md</code></p>
+<p><!-- raw HTML omitted --> <em>Note: The &ldquo;a &ldquo;Atom&rdquo;&rdquo; part of this is only required as my Macbook seems determined to only let me edit markdown posts in Xcode, despite Atom being set as the default&hellip;</em> <!-- raw HTML omitted --></p>
+</li>
+<li>
+<p>Edit the front matter of the post to add any categories or tags that I want to associate with the post (<em>I often actually do this last</em>).</p>
+</li>
+<li>
+<p>Write the post (<em>the hardest part for someone as un-creative as me!</em>)</p>
+</li>
+<li>
+<p>Preview the post by running a local server<br>
+<code>Hugo server -D</code></p>
+</li>
+</ul>
+<p>This command runs a local server that hosts the site at <em>localhost:1313</em><br>
+The <em>&rsquo;-D&rsquo;</em> suffix tells Hugo that I want to see posts that are still marked as drafts (until the draft flag is set to false Hugo won&rsquo;t include them in the site build).</p>
+<ul>
+<li>Finally, once the post is ready (<em>and saved! CMD + S</em> ), set the draft flag to false and generate the <em>&lsquo;Prod ready&rsquo;</em> site<br>
+<code>Hugo</code></li>
+</ul>
+<h4 id="getting-it-live">Getting it live</h4>
+<p>The last thing to do is to create a git commit and then push the changes to the remote repository, from there github works it&rsquo;s magic.</p>
+<ul>
+<li>
+<p>First, I like to check that the only deviations from what&rsquo;s on github are those I just made<br>
+<code>git status</code><br>
+<!-- raw HTML omitted --><em>I do this at the start if I am, or have been,  working on a different machine.</em> <!-- raw HTML omitted --></p>
+</li>
+<li>
+<p>Stage <strong>all</strong> of the changed files<br>
+<code>git add .</code></p>
+</li>
+<li>
+<p>Now turn the staged changes into a <em>commit (including a suitable message)</em><br>
+<code>git commit -m&quot;Description of the change&quot;</code></p>
+</li>
+<li>
+<p>Finally, push the changes to the remote master branch<br>
+<code>git push</code></p>
+</li>
+</ul>
+<p>Since writing a post is simple text (and the odd image), rather than any structure or code changes, I&rsquo;m comfortable commiting straight to the <em>master</em> branch - if I was making any code changes (which I might try to do later&hellip;) then I&rsquo;d create a develop or specific feature branch to do this on first.</p>
+<p>So there we go - how long will it be before I need to pull this post up to remind me how it all works?</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Cart Before Horse</title>
+            <link>/posts/cart-before-the-horse/</link>
+            <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
+            
+            <guid>/posts/cart-before-the-horse/</guid>
+            <description>Putting the Cart before the Horse So, this isn&amp;rsquo;t the first website I&amp;rsquo;ve ever thrown together. Nor the first blog. Not even the first blog built using a static site generator&amp;hellip;
+A few years ago (I&amp;rsquo;d love to say a couple, but I&amp;rsquo;m scared it&amp;rsquo;s now far more&amp;hellip;), I registered the domain granthutchison.com, not only because vanity domains are cool, but because I wanted to carve out a little corner of the internet to write and play.</description>
+            <content type="html"><![CDATA[<!-- raw HTML omitted -->
+<h2 id="putting-the-cart-before-the-horse">Putting the Cart before the Horse</h2>
+<hr>
+<p>So, this isn&rsquo;t the first website I&rsquo;ve ever thrown together. Nor the first blog. Not even the first blog built using a static site generator&hellip;</p>
+<p>A few years ago (I&rsquo;d love to say a couple, but I&rsquo;m scared it&rsquo;s now <em>far more&hellip;</em>), I registered the domain <a href="http://www.granthutchison.com" title="granthutchison.com">granthutchison.com</a>, not only because <em>vanity domains are cool</em>, but because I wanted to carve out a little corner of the internet to write and play.</p>
+<p>
+    <img src="/img/2019-09/oldsite.png"  alt="old website landing page"  class="center"  style="border-radius: 8px;"  />
+
+
+<!-- raw HTML omitted --><em>What, so I like Orange&hellip;</em><!-- raw HTML omitted --></p>
+<p>That might have been my first mistake.</p>
+<p>I built the site using <a href="https://jekyllrb.com/" title="Jekyll Website">Jekyll</a>, then spent ages getting the site to look and function just as I wanted it. I had <em>great fun doing this</em> and ended up with a nice responsive site that looked pretty good (at least I thought so!).</p>
+<p>The problem was, I didn&rsquo;t have <em>anything to write</em>. So after uploading the site, I updated it maybe twice, before leaving it sitting for <em>years</em>.</p>
+<p>Now, maybe I should clarify for those who don&rsquo;t know me - I&rsquo;m a terrible introvert. That might actually be more of a surprise to those that <em>do know me</em> actually, but the thought of people reading anything I&rsquo;ve written fills me with anxiety.</p>
+<p>The thing is, I <em>did</em> have a few ideas about the <em>&lsquo;play&rsquo;</em> side of things - I wanted to try to make a few small javascript based apps, to play with different frameworks and put together a wee portfolio&hellip; I just never got round to doing much more than getting any of these past 50% done&hellip;</p>
+<h3 id="_why-the-hell-are-you-doing-this-again-then_"><em>&ldquo;why the hell are you doing this again then?&rdquo;</em></h3>
+<p>Yeah, that&rsquo;s the real question isn&rsquo;t it?</p>
+<p>I&rsquo;ve again gone and built a site without a real plan for what to <em>actually do with it</em> (this time using <a href="https://www.gohugo.io" title="Hugo Website">Hugo</a> ).
+But I do have some thoughts.</p>
+<p>So - I think I <em>should</em> write some stuff - I think it&rsquo;s good for me to turn my mind off a little from work, family, <em>the ache in every part of my body as I slowly work my way towards my place in eternity</em> (wow&hellip; got a little dark there&hellip;). Despite the awful anxiety, I do enjoy putting my thoughts together on a page.
+There are also some things I&rsquo;d quite like to write about - I&rsquo;ve gone back to mountain biking again after over a decade away from it (and I&rsquo;m loving every minute so far!). I drive an electric car (<em>like some kind of tree hugging hippy</em>) and would love to share my experiences of that with <em>The World</em>.</p>
+<p>I&rsquo;m also getting close to finally finishing my Open University degree - I really should keep a bit of a learning journal as I progress my final project and doing it online might be of some benefit to others at some point.</p>
+<p><em>&hellip;and I even have some thoughts for more little projects that I&rsquo;ll probably never finish&hellip;</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Sentinels of the Multiverse Review</title>
+            <link>/posts/sentinels-of-the-multiverse-review/</link>
+            <pubDate>Thu, 17 Sep 2015 16:36:30 +0100</pubDate>
+            
+            <guid>/posts/sentinels-of-the-multiverse-review/</guid>
+            <description>Sentinels of the Multiverse Review (This review was originally posted on Boardgaming.com and subsequently posted on the old version of this blog, hence the 2015 post date!)
+Sentinels, ASSEMBLE Baron Blade and his minions are attempting to destroy Megalopolis using their mobile attack platform! It’s time to join forces with Legacy and the other heroes of the Multiverse to take him down!
+Sentinels of the Multiverse is a co-operative card game for 2-5 players, which can be played in 30-45 minutes (although you might just find you want to start another game straight after…)</description>
+            <content type="html"><![CDATA[<h2 id="sentinels-of-the-multiverse-review">Sentinels of the Multiverse Review</h2>
+<hr>
+<p><em>(This review was originally posted on <a href="https://boardgaming.com/">Boardgaming.com</a> and subsequently posted on the old version of this blog, hence the 2015 post date!)</em></p>
+<h2 id="sentinels-assemble"><em>Sentinels, ASSEMBLE</em></h2>
+<p>Baron Blade and his minions are attempting to destroy Megalopolis using their mobile attack platform! It’s time to join forces with Legacy and the other heroes of the Multiverse to take him down!</p>
+<p>Sentinels of the Multiverse is a co-operative card game for 2-5 players, which can be played in 30-45 minutes (although you might just find you want to start another game straight after…)</p>
+<p><strong>Gameplay</strong></p>
+<p>Each player begins by selecting the character they will play, the villain they’ll be facing and the environment where the battle will take place.</p>
+<p>Each hero, villain and environment has their own pre-built deck of cards, all of which are unique to that character/environment, and each hero begins the game with a hand of 4 cards, drawn after they have shuffled their decks.</p>
+<p>Game turns work in three stages: the <strong>Villain Turn</strong>, the <strong>Heroes Turn</strong> and the <strong>Environment Turn.</strong></p>
+<p>On the villain turn, any ‘start of turn’ effects shown on all active villain cards are resolved, then a card is played from the top of the deck (this can usually be either a one-off action, a piece of weaponry/equipment or a minion coming into play), then finally any ‘end of turn’ effects are resolved.</p>
+<p>The inclusion of effects which take place at either the start or the end of a turn is nice, meaning that some cards start to impact you straight away, and others give you a full turn before you feel their effects – this really keeps you on your toes, as for example a devastating weapon may come into play that you know will decimate you if not destroyed before the start of the villains next turn.</p>
+<p>Next, the heroes each take turns to play (in clockwise order). Each hero turn breaks down to: Play a card, use a power, draw a card (although card effects may increase these actions).</p>
+<p>Played hero cards usually take one of two forms: a one time action or a card which gives some kind of continuing effect.</p>
+<p>When it comes to using a power, each character has their own innate power to use, or they may be able to gain more options through the cards that they can play.</p>
+<p>Finally, it’s the turn of the Environment, and again like the villain turn there are usually start and/or end of turn effects to resolve, with a new card drawn and played in between. The environment can help or hinder both the heroes and villains, and adds a great element to the gameplay, often forcing players to choose whether to deal with issues in the environment (Help! A train’s about to crash into a crowd of people!) or to keep focusing on the villain and leave the environment to wreak it’s own havoc.</p>
+<p>The game continues until either the villain or all of the heroes been reduced to zero hit-points and are therefore defeated. Interestingly, as this is a co-op game even if a hero ‘dies’ they can continue to play along, just taking one of a selection of simple actions (often giving extra moves or support to another hero), on the rationale that the other hero’s are fighting harder to avenge their fallen companion.</p>
+<p>Another nice touch is that there’s no ‘decking’ in the game – if you run out of cards you simply re-shuffle your discard pile into a fresh deck.</p>
+<p><img alt="Sentinels cards images" src="/img/2022-10/sentinels-cards.jpeg" title="Sentinels, ASSEMBLE!...">
+<!-- raw HTML omitted --> <em>A selection of heroes!</em> <!-- raw HTML omitted --></p>
+<p><strong>Components</strong></p>
+<p>The cards are a nice quality, and feel like you’ll get a bit of use out of them, and you certainly get a lot of them for your hard earned cash! The core game comes with almost 600 cards, which includes decks for 4 different villains to face, 4 different environments to face-off in and a whopping 10 different heroes to play as!</p>
+<p>The ‘Enhanced Edition’ (which is really the only version of the base game that you should consider purchasing*) goes one step further though, including around 160 tokens for keeping track of character health and status modifiers (and trust me, you’ll really appreciate having all of these as you play the game – there can be a lot to keep track of!)</p>
+<p>*<em>(Since first publishing this GtG have released a definitive edition that might now be the one to go for!)</em></p>
+<p>One of my favourite inclusions with the enhanced edition though is the good sized box and divider cards – there’s plenty of space to keep all of the base set cards, along with the expansions (and the amazing guys at <a href="https://www.greaterthangames.com"><em>Greater Than Games</em></a> also include divider cards for all the cards from both the Rook City and Infernal Relics expansions!) – if you like to keep your cards well organised you’ll be in heaven with this package.</p>
+<p>At this point I should also mention the card art, which to be honest I wasn’t too keen on to begin with, however I’ve found has really grown on me. The art style is very <em>comic-book-ish,</em> and goes with the theme well, but – in my mind at least- it looks a little <em>‘amateurish’.</em> Having said that, it is great that the GtG guys have created all of these characters themselves and put together such a great package in-house.</p>
+<p><strong>Play time</strong></p>
+<p>A game of SotM usually takes a little over half an hour to play, although this will vary depending on how well your team works together, the villain that you’re facing and the environment where you’re doing battle. It’s not uncommon to want to play again straight away though!</p>
+<p><strong>Summary</strong></p>
+<p>Sentinels of the Multiverse is a fantastic co-operative game, with great replay value. It is steeped in theme, and half of the fun of playing is getting really submerged in the world of the Multiverse (right down to the in-character smack-talk that is surely mandatory when playing this type of game!).
+Unfortunately a few small grumbles prevent me from giving the game a higher score, mainly because of the sheer amount of stat-tracking involved (I honestly don’t know how anyone who bought the original base-set managed to cope without the tracking tokens!)</p>
+<p>These frustrations mainly present when playing the more complex characters, and may slowly dissolve as our gaming group gets more used to the game. The game creators do at least provide a handy difficulty rating for each character (moving from easy to difficult although annoyingly in the base set there is no medium rated difficulty villain included.)</p>
+<p>Despite these small annoyances though, it’s hard to not have fun with the game, and it’s certainly possible to play several games using the easier characters. As is often the case with theme-heavy games the life you’ll get out of the game is directly proportional to how well you can submerge yourself in the theme, and to be honest, if you’re a comic book fan you’d be crazy not to pop <em>Sentinels</em> on your shopping list.</p>
+<p>Verdict: 8/10</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Settlers of Catan Review</title>
+            <link>/posts/settlers-of-catan-review/</link>
+            <pubDate>Thu, 17 Sep 2015 16:13:14 +0100</pubDate>
+            
+            <guid>/posts/settlers-of-catan-review/</guid>
+            <description>Welcome to Catan! (Like some of my other tabletop reviews this was originally posted on Boardgaming.com almost a decade ago! I&amp;rsquo;m reposting here as I liked writing these and might well add a few more if there&amp;rsquo;s interest)
+As one of a handful of new settlers on this newly colonised island, your goal is to build and expand, using your resources to become the dominant individual on the island.
+Like many others who have written reviews of this great game, Catan was what I consider to be my first ‘real’ introduction to the wonderful world of board gaming, so it felt right that it should also be one of the first reviews I posted on the site!</description>
+            <content type="html"><![CDATA[<h2 id="welcome-to-catan">Welcome to Catan!</h2>
+<hr>
+<p><em>(Like some of my other <a href="/categories/tabletop/">tabletop reviews</a> this was originally posted on <a href="https://boardgaming.com">Boardgaming.com</a> almost a decade ago! I&rsquo;m reposting here as I liked writing these and might well add a few more if there&rsquo;s interest)</em></p>
+<hr>
+<p>As one of a handful of new settlers on this newly colonised island, your goal is to build and expand, using your resources to become the dominant individual on the island.</p>
+<p>Like many others who have written reviews of this great game, Catan was what I consider to be my first ‘real’ introduction to the wonderful world of board gaming, so it felt right that it should also be one of the first reviews I posted on the site!*</p>
+<p><!-- raw HTML omitted -->*<em>Fun fact, this was actually the second review I wrote on boardgaming.com after my <a href="/posts/battlestar_galactica_the_board_game_review/">Battlestar Galactica review</a></em><!-- raw HTML omitted --></p>
+<p>Let’s take a quick run through how the game works…</p>
+<p><strong>Gameplay</strong></p>
+<p>The game kicks off with the players randomly creating the board (although quick start options are provided for first time plays, and a cheaper cut-down version of the game also exists which doesn’t include the modular board). This results in a random placement of different resource-generating hexes, each with different numbers on them.</p>
+<p>Each player then takes turn placing a first town and road, before then building a second town and road <em>(the placement of these first settlements can be crucial for the players strategy as the game goes on…)</em></p>
+<p>After collecting starting resources, the game then starts…</p>
+<p>Each turn two dice are rolled, with whatever number comes up generating resources on each of the tiles with the rolled number on them – if a player has a building (town or city) attached to that tile, they gain resource of that type (Brick, Granite, Wool, Grain and Wood).
+On their turn, a player can use any resources they hold to build (for example a road can be built using 1x brick and 1 x wood resource) if they are short on a particular resource they can <em>barter</em> with other players to gain what they need.</p>
+<p>Players build roads out of their villages to allow them to expand and build more villages, which can eventually be upgraded to cities. Players score victory points for villages and cities built, as well as being able to gain additional points for having the longest road or largest army.</p>
+<p>Gameplay continues until one player reaches 10 victory points.</p>
+<p>Whilst this is incredibly simple, it makes for a very enjoyable game, the bartering element is particularly good, and adds an element of tactics to the game as some players gain dominance over particular resources.</p>
+<p><strong>Components</strong>
+As mentioned, there appear to be different versions of Catan out there, but the components in the ‘full’ version are excellent.
+The board pieces are very well made and go together nicely – without much worry of it slipping apart as you play – the cards are all of a good quality, and the little wooden pieces that make up the roads, towns and cities are <em>just lovely.</em></p>
+<p><strong>Play time</strong>
+A typical game of Catan takes about 30-60 minutes, although it’s worth bearing in mind that you’ll probably want to play it again straight after&hellip; <em>It&rsquo;s a classic for a reason!</em></p>
+<p><strong>Summary</strong>
+Catan is a classic <em>‘Eurogame’</em> – it’s simple enough that almost anyone can pick the game up in a few minutes, but has a wonderful play mechanic that makes it possible to play with a wide range of strategies whilst also being just random enough to keep things interesting.</p>
+<p>The modular nature of the board also makes the game infinitely re-playable – the board is different every time you play so no two games are the same.</p>
+<p>This game is surely the definition of a <em>‘gateway game’</em> – that much should be clear from the number of users who, like myself, were dragged into the world of board games after playing this! For this reason alone a copy of Catan should sit on every gamers shelf, even if only to be brought out to play when non-gamer friends visit (although I’d be amazed if that was the only time it came down from the shelf!)</p>
+<hr>
+<table>
+<thead>
+<tr>
+<th>The Ratings</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Components</td>
+<td>8/10 - Ok, so there are no miniatures, but everything that is in the box is lovely!</td>
+</tr>
+<tr>
+<td>Value</td>
+<td>9/10 - The game is averagely priced but you&rsquo;ll play it <em>so much</em></td>
+</tr>
+<tr>
+<td>Gameplay</td>
+<td>10/10 - Super accessible, but with so much depth and no two games are the same.</td>
+</tr>
+<tr>
+<td>Overall</td>
+<td><em>10/ 10 - Gaming perfection?</em></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="_closing-comments_"><em>Closing Comments</em></h3>
+<p><em>The quintessential gateway game - everyone should have a copy of The Settler&rsquo;s of Catan in their collection&hellip;</em></p>
+<p><!-- raw HTML omitted --><em>Cover image credit: Shamelessly borrowed from the official <a href="https://www.catan.com/">Catan website</a> - you should pay them a visit, it&rsquo;s great!</em><!-- raw HTML omitted --></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Battlestar Galactica: The Board Game Review</title>
+            <link>/posts/battlestar_galactica_the_board_game_review/</link>
+            <pubDate>Fri, 11 Sep 2015 14:10:09 +0100</pubDate>
+            
+            <guid>/posts/battlestar_galactica_the_board_game_review/</guid>
+            <description>BattleStar Galactica: The Board Game - Review (This review was originally posted on Boardgaming.com and subsequently posted on the old version of this blog)
+Humanity has lost The second Cylon war is over. Humanity has lost, and now it’s only hope for survival is a small fleet of ships carrying all that remains of the human population, lead by the aging Battlestar Galactica.
+Battlestar Galactica: The Board Game is based on the first season of the 2004 re-imagining of the classic 70’s TV show, where the surviving human fleet desperately tries to escape their Cylon pursuers on their way to the planet Kobol – the legendary planet where humanity began (and a waypoint on their longer journey to find the fabled 13th colony, Earth).</description>
+            <content type="html"><![CDATA[<h2 id="battlestar-galactica-the-board-game---review">BattleStar Galactica: The Board Game - Review</h2>
+<hr>
+<p><em>(This review was originally posted on <a href="https://boardgaming.com/">Boardgaming.com</a> and subsequently posted on the old version of this blog)</em></p>
+<h2 id="humanity-has-lost"><em>Humanity has lost</em></h2>
+<p>The second Cylon war is over. Humanity has lost, and now it’s only hope for survival is a small fleet of ships carrying all that remains of the human population, lead by the aging <em>Battlestar Galactica.</em></p>
+<p>Battlestar Galactica: The Board Game is based on the first season of the 2004 re-imagining of the classic 70’s TV show, where the surviving human fleet desperately tries to escape their Cylon pursuers on their way to the planet Kobol – the legendary planet where humanity began (and a waypoint on their longer journey to find the fabled 13th colony, Earth).</p>
+<p>Players each play a character from the show, each with their own special abilities, and must work together to survive Cylon attacks and the perils of deep space…but there’s a twist! The Cylon’s have evolved and can now take human form – making them almost indistinguishable from any normal person.</p>
+<p>Good use is made of this premise to add an excellent bluffing and strategy element to the game, as at any time up to 3 Cylon’s (depending on the number of players and stage of the game) may be working against the human players, with their only aim being to destroy Galactica and end human life forever!</p>
+<p><strong>Gameplay</strong></p>
+<p>The game starts with each player choosing a character, performing their set-up (positioning their player marker on the board, drawing cards etc) and drawing their loyalty card – which determines whether they truly are human, or a cylon in disguise! (At this point its usually wise to invoke a house rule for viewing your loyalty card for 60 seconds, as the Cylon ones often have special powers on them, so staring at them can give the game away!)</p>
+<p><img alt="Loyalty cards image" src="/img/2022-10/determining-cylon.jpeg" title="You never can be sure...">
+<!-- raw HTML omitted --> <em>Frakin&rsquo; toasters!</em> <!-- raw HTML omitted --></p>
+<p>Cylon’s can either attempt to sabotage skill checks, or can reveal themselves to gain additional powers.</p>
+<p>Each players turn (whilst they are either human, or <em>unrevealed</em> as a cylon) takes place over 6 stages:</p>
+<ol>
+<li>Draw skill cards (as defined by their character)</li>
+<li>Move (to different board locations)</li>
+<li>Action – this can be either activating a character action, using a board location, piloting a ship, using special cards (in the case of the president character) or revealing themselves as a Cylon if they hold a <em>‘You are a Cylon’</em> loyalty card.</li>
+<li>Draw and resolve a Crisis card (all players partake in most crisis resolutions).</li>
+<li>Resolve Cylon fleet activity if marked on the Crisis card (i.e. launching ships from Cylon basestars and moving cylon raiders to either attack ships in space or to land boarding parties aboard Galactica.</li>
+<li>Resolve the FTL jump track if marked on the Crisis card – jumping the human fleet a certain distance is the human’s win condition, so increasing the FTL drives preparation track is essential!</li>
+</ol>
+<p>The Crisis resolution is the core of the game, and in most cases this is where all players interact in ‘skill checks’. If a skill check crisis occurs then each character can play as many cards face down into a pile as they like to attempt to match the win condition – for example, a skill check might ask for a total score of 10, and be coloured yellow and purple (different skill types have different colours such as Tactics being purple, Politics being yellow etc). Only colours which match those requested on the skill check count as positive, all other colours are negative to the score.</p>
+<p>In addition to all the players being able to play cards, two random cards are played into each skill check from the <em>‘destiny deck’</em> – this allows any potential Cylon sabotage activity to be masked… or at least be less obvious!</p>
+<p>At the beginning of the game it’s possible that there are no Cylon’s in play, however at the half way point a second draw of loyalty cards occurs meaning that in the latter half of the game there are definitely forces working against the humans! In larger games there is also a ‘sleeper agent’, who becomes a Cylon in the second half if the human’s resources are all above a certain level – this provides an interesting meta-game, where it can actually be sensible for the human players to purposefully lose some resources to make the later game easier… although it isn’t always easy to convince other players of this without receiving accusations of being a “frakkin’ toaster!”</p>
+<p>This really just scratches the surface of this great game, and doesn’t really touch on the space combat or roles of special characters like the president and admiral…</p>
+<p><strong>Components</strong></p>
+<p>As usual the quality of the components provided by Fantasy Flight is top-notch: the board is solid and the cards are all excellent (although the skill cards are a little on the small side).</p>
+<p><img alt="Battlestar Galactica components image" src="/img/2022-10/bsg-game-layout.png" title="Lots of quality cardboard!">
+<!-- raw HTML omitted --> <em>Let&rsquo;s play!</em> <!-- raw HTML omitted --></p>
+<p>The game also comes with several ship miniatures, which whilst not on par with dedicated miniatures games are still nicer than using wee tokens for the space combat element of the game (other ships, such as the rest of the colonial fleet are represented by tokens which have values printed on their underside.)</p>
+<p>It’s a shame the Cylon basestars don’t have their own models, instead represented by large ‘tokens’, however I believe two are contained within the Pegasus expansion (which expands the game into the events depicted in the second TV series…)</p>
+<p><strong>Play time</strong></p>
+<p>BSG is a big complex game, so be prepared to lose an afternoon or evening to it, especially on the first few plays as it’s likely you’ll be double checking the rules as you go along. My first play (with a full group of 6) took us about 5-6 hours, although subsequent plays tend to be closer to 3 hours long now that we’re accustomed to the rules.</p>
+<p>Whilst the long playtime may put some people off, the game does always keep all players engaged, and the time flies by as alliances are made to attempt to root out and beat the hidden Cylons!</p>
+<p><strong>Summary</strong></p>
+<p>Battlestar Galactica is a favourite with my regular gaming friends. It can be tough going, but the co-operative nature of the game along with the constant threat of a hidden Cylon sabotaging your actions makes for a tense and exciting game.</p>
+<p>So far, every game we’ve had has also been a very close call, with the humans either just managing to eek a win, or the Cylon’s managing to destroy the humans moments from their final FTL jump. The tension throughout the game is excellent, which has left us craving more every time we’ve played it – there is a lot of replayability in this, and there are lots of strategy options to employ for both human and cyclon players (whichever you end up being!)</p>
+<p>I first picked it up as a fan of the show, however knowledge of the show isn’t a pre-requisite. Gamers who enjoy a bit of strategy, working together and (of course) stabbing others in the back will all enjoy it. Even some of my harder to please gaming friends often ask to pull this out for a game.</p>
+<p>It’s not for everyone though – those that get upset easily might want to give it a miss, as it’s not uncommon to be accused of being a Cylon then locked in a cell <em>(only for your accuser to turn out to be the real toaster!)</em>, and it certainly does need a good investment of time to play through – especially for the first few games.</p>
+<p>It also certainly shouldn’t be played without first having a good read of the rules (and I’d suggest watching a quick gameplay video or two in advance as well, as it can be quite complex to begin with).</p>
+<p>Overall though, since buying the game 3-4 years ago* this remains one of my favourite board games.</p>
+<p><!-- raw HTML omitted --><em>*Now 10+ years ago&hellip;</em><!-- raw HTML omitted --></p>
+<p>Verdict: 9/10</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

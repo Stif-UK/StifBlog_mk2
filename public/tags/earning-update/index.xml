@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earning Update on granthutchison</title>
+    <link>/tags/earning-update/</link>
+    <description>Recent content in Earning Update on granthutchison</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 17:16:39 +0100</lastBuildDate>
+    <atom:link href="/tags/earning-update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breaking Even</title>
+      <link>/posts/breaking_even/</link>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
+      <guid>/posts/breaking_even/</guid>
+      <description>Breaking Even&amp;hellip; Right, while I&amp;rsquo;m in the blogging mood, here&amp;rsquo;s another post that really is long overdue! Back in March (wow!) I wrote a quick update on how much income I&amp;rsquo;d made via advertising on WristCheck and via ads on the website and promised further updates.&#xA;Since then a few major things have happened - firstly, I released two additional apps (technically I released MP Checklist just before that post&amp;hellip;) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off forever (and again, I definitely need to write a little about how and why I implemented that!</description>
+    </item>
+    <item>
+      <title>The Millionaire Life</title>
+      <link>/posts/the_millionaire_life/</link>
+      <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
+      <guid>/posts/the_millionaire_life/</guid>
+      <description>Users and Earnings So, back in September I both implemented ads on the site and released my first proper app (although I didn&amp;rsquo;t put Ads into WristCheck until v1.2 about a month later).&#xA;This was all a fun experiment to see if I could make this wee hobby break even&amp;hellip; want to hear how it&amp;rsquo;s going?&#xA;A summary of costs Let&amp;rsquo;s start off with what it costs to put things together.</description>
+    </item>
+  </channel>
+</rss>
