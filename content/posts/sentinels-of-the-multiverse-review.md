@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ['TableTop']
 Tags: ['Review', 'TableTop', 'Board Games']
-cover: "/img/2022-10/sentinels-header.png"
+featuredImage: "/img/2022-10/sentinels-header.png"
 ---
 
 ## Sentinels of the Multiverse Review

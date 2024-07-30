@@ -1,123 +1,116 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on granthutchison.com</title>
-    <link>granthutchison.com/categories/</link>
-    <description>Recent content in Categories on granthutchison.com</description>
+    <title>Categories on granthutchison</title>
+    <link>http://granthutchison.com/categories/</link>
+    <description>Recent content in Categories on granthutchison</description>
     <generator>Hugo</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Thu, 12 Oct 2023 13:11:09 +0100</lastBuildDate>
-    <atom:link href="granthutchison.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>granthutchison.com/categories/development/</link>
-      <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
-      <guid>granthutchison.com/categories/development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Watches</title>
-      <link>granthutchison.com/categories/watches/</link>
-      <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
-      <guid>granthutchison.com/categories/watches/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>WristCheck App</title>
-      <link>granthutchison.com/categories/wristcheck-app/</link>
-      <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
-      <guid>granthutchison.com/categories/wristcheck-app/</guid>
-      <description></description>
-    </item>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Sep 2023 17:16:39 +0100</lastBuildDate>
+    <atom:link href="http://granthutchison.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>granthutchison.com/categories/blog/</link>
+      <link>http://granthutchison.com/categories/blog/</link>
       <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
-      <guid>granthutchison.com/categories/blog/</guid>
+      <guid>http://granthutchison.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://granthutchison.com/categories/development/</link>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
+      <guid>http://granthutchison.com/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Air Fryr App</title>
-      <link>granthutchison.com/categories/air-fryr-app/</link>
+      <link>http://granthutchison.com/categories/air-fryr-app/</link>
       <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
-      <guid>granthutchison.com/categories/air-fryr-app/</guid>
+      <guid>http://granthutchison.com/categories/air-fryr-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WristTrack App</title>
+      <link>http://granthutchison.com/categories/wristtrack-app/</link>
+      <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
+      <guid>http://granthutchison.com/categories/wristtrack-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Watches</title>
+      <link>http://granthutchison.com/categories/watches/</link>
+      <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
+      <guid>http://granthutchison.com/categories/watches/</guid>
       <description></description>
     </item>
     <item>
       <title>Cooking</title>
-      <link>granthutchison.com/categories/cooking/</link>
-      <pubDate>Mon, 17 Apr 2023 11:30:10 +0000</pubDate>
-      <guid>granthutchison.com/categories/cooking/</guid>
+      <link>http://granthutchison.com/categories/cooking/</link>
+      <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
+      <guid>http://granthutchison.com/categories/cooking/</guid>
       <description></description>
     </item>
     <item>
       <title>MP Checklist App</title>
-      <link>granthutchison.com/categories/mp-checklist-app/</link>
+      <link>http://granthutchison.com/categories/mp-checklist-app/</link>
       <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
-      <guid>granthutchison.com/categories/mp-checklist-app/</guid>
+      <guid>http://granthutchison.com/categories/mp-checklist-app/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Games</title>
-      <link>granthutchison.com/categories/video-games/</link>
+      <link>http://granthutchison.com/categories/video-games/</link>
       <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
-      <guid>granthutchison.com/categories/video-games/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metroid App</title>
-      <link>granthutchison.com/categories/metroid-app/</link>
-      <pubDate>Sat, 18 Feb 2023 19:25:53 +0000</pubDate>
-      <guid>granthutchison.com/categories/metroid-app/</guid>
+      <guid>http://granthutchison.com/categories/video-games/</guid>
       <description></description>
     </item>
     <item>
       <title>TableTop</title>
-      <link>granthutchison.com/categories/tabletop/</link>
+      <link>http://granthutchison.com/categories/tabletop/</link>
       <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
-      <guid>granthutchison.com/categories/tabletop/</guid>
+      <guid>http://granthutchison.com/categories/tabletop/</guid>
       <description></description>
     </item>
     <item>
-      <title>WristCheck Guides &amp; FAQs</title>
-      <link>granthutchison.com/categories/wristcheck-guides--faqs/</link>
+      <title>WristTrack Guides &amp; FAQs</title>
+      <link>http://granthutchison.com/categories/wristtrack-guides--faqs/</link>
       <pubDate>Sat, 08 Oct 2022 18:57:09 +0100</pubDate>
-      <guid>granthutchison.com/categories/wristcheck-guides--faqs/</guid>
+      <guid>http://granthutchison.com/categories/wristtrack-guides--faqs/</guid>
       <description></description>
     </item>
     <item>
       <title>Mountain Biking</title>
-      <link>granthutchison.com/categories/mountain-biking/</link>
+      <link>http://granthutchison.com/categories/mountain-biking/</link>
       <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
-      <guid>granthutchison.com/categories/mountain-biking/</guid>
+      <guid>http://granthutchison.com/categories/mountain-biking/</guid>
       <description></description>
     </item>
     <item>
       <title>Rebound MTB App</title>
-      <link>granthutchison.com/categories/rebound-mtb-app/</link>
+      <link>http://granthutchison.com/categories/rebound-mtb-app/</link>
       <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
-      <guid>granthutchison.com/categories/rebound-mtb-app/</guid>
+      <guid>http://granthutchison.com/categories/rebound-mtb-app/</guid>
       <description></description>
     </item>
     <item>
       <title>Product Reviews</title>
-      <link>granthutchison.com/categories/product-reviews/</link>
+      <link>http://granthutchison.com/categories/product-reviews/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
-      <guid>granthutchison.com/categories/product-reviews/</guid>
+      <guid>http://granthutchison.com/categories/product-reviews/</guid>
       <description></description>
     </item>
     <item>
       <title>Electric Cars</title>
-      <link>granthutchison.com/categories/electric-cars/</link>
+      <link>http://granthutchison.com/categories/electric-cars/</link>
       <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
-      <guid>granthutchison.com/categories/electric-cars/</guid>
+      <guid>http://granthutchison.com/categories/electric-cars/</guid>
       <description></description>
     </item>
     <item>
       <title>Random Nonsense</title>
-      <link>granthutchison.com/categories/random-nonsense/</link>
+      <link>http://granthutchison.com/categories/random-nonsense/</link>
       <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
-      <guid>granthutchison.com/categories/random-nonsense/</guid>
+      <guid>http://granthutchison.com/categories/random-nonsense/</guid>
       <description></description>
     </item>
   </channel>

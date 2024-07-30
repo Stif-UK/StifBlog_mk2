@@ -3,9 +3,9 @@ title: "WristCheck v1.5 Release Notes"
 date: 2023-09-06T15:44:33+01:00
 draft: false
 socialshare: true
-Categories: ['Development', 'Watches', 'WristCheck App']
+Categories: ['Development', 'Watches', 'WristTrack App']
 Tags: ['App Development', 'Watches', 'Tech', 'Release Notes']
-cover: "/img/2023-09/Seiko_header.jpeg"
+featuredImage: "/img/2023-09/Seiko_header.jpeg"
 ---
 
 ## WristCheck v1.5 Release Notes

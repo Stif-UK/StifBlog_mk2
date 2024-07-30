@@ -3,7 +3,7 @@ title: "MP Checklist Privacy Policy"
 date: 2023-02-18T19:25:53Z
 draft: false
 socialshare: true
-Categories: ['Development', 'Metroid App']
+Categories: ['Development', 'MP Checklist App']
 Tags: ["Privacy", "App Development"]
 ---
 

@@ -3,9 +3,9 @@ title: "Wristcheck v1.1 Preview"
 date: 2022-09-16T09:39:57+01:00
 draft: false
 socialshare: true
-Categories: ['Development', 'Watches', 'WristCheck App']
+Categories: ['Development', 'Watches', 'WristTrack App']
 Tags: ['App Development', 'Watches', 'Tech']
-cover: "/img/2022-09/Curtains.jpg"
+featuredImage: "/img/2022-09/Curtains.jpg"
 ---
 
 ## WristCheck v1.1 Preview

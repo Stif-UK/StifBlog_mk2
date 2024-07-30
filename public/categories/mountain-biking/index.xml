@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mountain Biking on granthutchison.com</title>
-    <link>granthutchison.com/categories/mountain-biking/</link>
-    <description>Recent content in Mountain Biking on granthutchison.com</description>
+    <title>Mountain Biking on granthutchison</title>
+    <link>http://granthutchison.com/categories/mountain-biking/</link>
+    <description>Recent content in Mountain Biking on granthutchison</description>
     <generator>Hugo</generator>
-    <language>en-GB</language>
+    <language>en</language>
     <lastBuildDate>Sat, 18 Jul 2020 00:46:49 +0100</lastBuildDate>
-    <atom:link href="granthutchison.com/categories/mountain-biking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://granthutchison.com/categories/mountain-biking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rebound MTB App</title>
-      <link>granthutchison.com/posts/rebound-mtb-app/</link>
+      <link>http://granthutchison.com/posts/rebound-mtb-app/</link>
       <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
-      <guid>granthutchison.com/posts/rebound-mtb-app/</guid>
-      <description>The Rebound MTB App Part 1: The beta release For the past forever I&amp;rsquo;ve been studying with the Open University, working towards a Bachelor&amp;rsquo;s degree in Software Engineering and after all that time the end is in sight!.&#xA;To complete the degree I have to undertake a significant project, so I&amp;rsquo;ve teamed up with the guys at Rebound to build a mobile application to support them.&#xA;Rebound is a registered charity, which aims to &amp;ldquo;develop the local community through sport&amp;rdquo; - with a primary focus on mountain biking.</description>
+      <guid>http://granthutchison.com/posts/rebound-mtb-app/</guid>
+      <description>The Rebound MTB App Link to heading Part 1: The beta release Link to heading For the past forever I&amp;rsquo;ve been studying with the Open University, working towards a Bachelor&amp;rsquo;s degree in Software Engineering and after all that time the end is in sight!.&#xA;To complete the degree I have to undertake a significant project, so I&amp;rsquo;ve teamed up with the guys at Rebound to build a mobile application to support them.</description>
     </item>
     <item>
       <title>Muc-Off Tubeless Valves Review</title>
-      <link>granthutchison.com/posts/muc-off-tubless-valves-review/</link>
+      <link>http://granthutchison.com/posts/muc-off-tubless-valves-review/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
-      <guid>granthutchison.com/posts/muc-off-tubless-valves-review/</guid>
-      <description>MTB Lockdown upgrades part 2: Muc-Off Tubeless Valves Review My lockdown quest to add more shiny, orange bits to my main mountain bike continues! This time, I&amp;rsquo;m adding a little more bling, but with arguably a bit more functional value thrown in compared to the Wolf Tooth Blink Kit that I reviewed in my first #LockdownUpgrades post.&#xA;Ladies and gentlemen, I present to you, Muc-Off Tubeless Valves:&#xA;Valves: Muc-Off; Fingers: Models own What do they do?</description>
+      <guid>http://granthutchison.com/posts/muc-off-tubless-valves-review/</guid>
+      <description>MTB Lockdown upgrades part 2: Muc-Off Tubeless Valves Review Link to heading My lockdown quest to add more shiny, orange bits to my main mountain bike continues! This time, I&amp;rsquo;m adding a little more bling, but with arguably a bit more functional value thrown in compared to the Wolf Tooth Blink Kit that I reviewed in my first #LockdownUpgrades post.&#xA;Ladies and gentlemen, I present to you, Muc-Off Tubeless Valves:</description>
     </item>
     <item>
       <title>Wolf Tooth Bling Kit Review</title>
-      <link>granthutchison.com/posts/wolf-tooth-bling-kit/</link>
+      <link>http://granthutchison.com/posts/wolf-tooth-bling-kit/</link>
       <pubDate>Sun, 28 Jun 2020 01:30:23 +0100</pubDate>
-      <guid>granthutchison.com/posts/wolf-tooth-bling-kit/</guid>
-      <description>MTB Lockdown upgrades part 1: The Wolf Tooth Bling Kit Like many parts of the world, the global Covid-19 pandemic has lead to a period of lockdown in Scotland, which has resulted in me transitioning to working from home, whilst also home-schooling my kids and unable to get out properly on my mountain bike (I say &amp;lsquo;properly&amp;rsquo; as I have no decent trails near me - I am however getting out whenever I can just to spin the wheels with my boys, but I&amp;rsquo;ve been entirely unable to send it).</description>
+      <guid>http://granthutchison.com/posts/wolf-tooth-bling-kit/</guid>
+      <description>MTB Lockdown upgrades part 1: The Wolf Tooth Bling Kit Link to heading Like many parts of the world, the global Covid-19 pandemic has lead to a period of lockdown in Scotland, which has resulted in me transitioning to working from home, whilst also home-schooling my kids and unable to get out properly on my mountain bike (I say &amp;lsquo;properly&amp;rsquo; as I have no decent trails near me - I am however getting out whenever I can just to spin the wheels with my boys, but I&amp;rsquo;ve been entirely unable to send it).</description>
     </item>
   </channel>
 </rss>

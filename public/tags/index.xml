@@ -1,144 +1,137 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on granthutchison.com</title>
-    <link>granthutchison.com/tags/</link>
-    <description>Recent content in Tags on granthutchison.com</description>
+    <title>Tags on granthutchison</title>
+    <link>http://granthutchison.com/tags/</link>
+    <description>Recent content in Tags on granthutchison</description>
     <generator>Hugo</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Thu, 12 Oct 2023 13:11:09 +0100</lastBuildDate>
-    <atom:link href="granthutchison.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>App Development</title>
-      <link>granthutchison.com/tags/app-development/</link>
-      <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
-      <guid>granthutchison.com/tags/app-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>granthutchison.com/tags/privacy/</link>
-      <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
-      <guid>granthutchison.com/tags/privacy/</guid>
-      <description></description>
-    </item>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Sep 2023 17:16:39 +0100</lastBuildDate>
+    <atom:link href="http://granthutchison.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ads</title>
-      <link>granthutchison.com/tags/ads/</link>
+      <link>http://granthutchison.com/tags/ads/</link>
       <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
-      <guid>granthutchison.com/tags/ads/</guid>
+      <guid>http://granthutchison.com/tags/ads/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App Development</title>
+      <link>http://granthutchison.com/tags/app-development/</link>
+      <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
+      <guid>http://granthutchison.com/tags/app-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Earning Update</title>
-      <link>granthutchison.com/tags/earning-update/</link>
+      <link>http://granthutchison.com/tags/earning-update/</link>
       <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
-      <guid>granthutchison.com/tags/earning-update/</guid>
+      <guid>http://granthutchison.com/tags/earning-update/</guid>
       <description></description>
     </item>
     <item>
       <title>Monetisation</title>
-      <link>granthutchison.com/tags/monetisation/</link>
+      <link>http://granthutchison.com/tags/monetisation/</link>
       <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
-      <guid>granthutchison.com/tags/monetisation/</guid>
+      <guid>http://granthutchison.com/tags/monetisation/</guid>
       <description></description>
     </item>
     <item>
       <title>Release Notes</title>
-      <link>granthutchison.com/tags/release-notes/</link>
+      <link>http://granthutchison.com/tags/release-notes/</link>
       <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
-      <guid>granthutchison.com/tags/release-notes/</guid>
+      <guid>http://granthutchison.com/tags/release-notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>granthutchison.com/tags/tech/</link>
+      <link>http://granthutchison.com/tags/tech/</link>
       <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
-      <guid>granthutchison.com/tags/tech/</guid>
+      <guid>http://granthutchison.com/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Watches</title>
-      <link>granthutchison.com/tags/watches/</link>
+      <link>http://granthutchison.com/tags/watches/</link>
       <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
-      <guid>granthutchison.com/tags/watches/</guid>
+      <guid>http://granthutchison.com/tags/watches/</guid>
       <description></description>
     </item>
     <item>
       <title>Cooking</title>
-      <link>granthutchison.com/tags/cooking/</link>
+      <link>http://granthutchison.com/tags/cooking/</link>
       <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
-      <guid>granthutchison.com/tags/cooking/</guid>
+      <guid>http://granthutchison.com/tags/cooking/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Games</title>
-      <link>granthutchison.com/tags/video-games/</link>
+      <link>http://granthutchison.com/tags/video-games/</link>
       <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
-      <guid>granthutchison.com/tags/video-games/</guid>
+      <guid>http://granthutchison.com/tags/video-games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://granthutchison.com/tags/privacy/</link>
+      <pubDate>Sat, 18 Feb 2023 19:25:53 +0000</pubDate>
+      <guid>http://granthutchison.com/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Board Games</title>
-      <link>granthutchison.com/tags/board-games/</link>
+      <link>http://granthutchison.com/tags/board-games/</link>
       <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
-      <guid>granthutchison.com/tags/board-games/</guid>
+      <guid>http://granthutchison.com/tags/board-games/</guid>
       <description></description>
     </item>
     <item>
       <title>Review</title>
-      <link>granthutchison.com/tags/review/</link>
+      <link>http://granthutchison.com/tags/review/</link>
       <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
-      <guid>granthutchison.com/tags/review/</guid>
+      <guid>http://granthutchison.com/tags/review/</guid>
       <description></description>
     </item>
     <item>
       <title>TableTop</title>
-      <link>granthutchison.com/tags/tabletop/</link>
+      <link>http://granthutchison.com/tags/tabletop/</link>
       <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
-      <guid>granthutchison.com/tags/tabletop/</guid>
+      <guid>http://granthutchison.com/tags/tabletop/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>granthutchison.com/tags/blog/</link>
+      <link>http://granthutchison.com/tags/blog/</link>
       <pubDate>Wed, 14 Sep 2022 11:06:50 +0100</pubDate>
-      <guid>granthutchison.com/tags/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cookies</title>
-      <link>granthutchison.com/tags/cookies/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>granthutchison.com/tags/cookies/</guid>
+      <guid>http://granthutchison.com/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>MTB</title>
-      <link>granthutchison.com/tags/mtb/</link>
+      <link>http://granthutchison.com/tags/mtb/</link>
       <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
-      <guid>granthutchison.com/tags/mtb/</guid>
+      <guid>http://granthutchison.com/tags/mtb/</guid>
       <description></description>
     </item>
     <item>
       <title>Bike Bling</title>
-      <link>granthutchison.com/tags/bike-bling/</link>
+      <link>http://granthutchison.com/tags/bike-bling/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
-      <guid>granthutchison.com/tags/bike-bling/</guid>
+      <guid>http://granthutchison.com/tags/bike-bling/</guid>
       <description></description>
     </item>
     <item>
       <title>Lockdown Upgrades</title>
-      <link>granthutchison.com/tags/lockdown-upgrades/</link>
+      <link>http://granthutchison.com/tags/lockdown-upgrades/</link>
       <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
-      <guid>granthutchison.com/tags/lockdown-upgrades/</guid>
+      <guid>http://granthutchison.com/tags/lockdown-upgrades/</guid>
       <description></description>
     </item>
     <item>
       <title>Electric Cars</title>
-      <link>granthutchison.com/tags/electric-cars/</link>
+      <link>http://granthutchison.com/tags/electric-cars/</link>
       <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
-      <guid>granthutchison.com/tags/electric-cars/</guid>
+      <guid>http://granthutchison.com/tags/electric-cars/</guid>
       <description></description>
     </item>
   </channel>

@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ['Development', 'Blog']
 Tags: ['App Development','Ads', 'Earning Update', 'Monetisation']
-cover: "/img/2023-09/money_cover.jpg"
+featuredImage: "/img/2023-09/money_cover.jpg"
 ---
 
 ## Breaking Even...

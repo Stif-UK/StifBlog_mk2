@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on granthutchison</title>
+    <link>http://granthutchison.com/projects/</link>
+    <description>Recent content in Projects on granthutchison</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Apr 2023 09:41:53 +0100</lastBuildDate>
+    <atom:link href="http://granthutchison.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Air Fryr - Maximise your air frying experience</title>
+      <link>http://granthutchison.com/projects/air-fryr/</link>
+      <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
+      <guid>http://granthutchison.com/projects/air-fryr/</guid>
+      <description>A mobile application for your air fryer Link to heading In 2023 I joined the air fryer revolution and decided to build a small app to help me to get the most from it, which has become my most successful app release in terms of total downloads.&#xA;The app is built in Flutter, using a Hive database and GetX for state management. It provides a calculator to calculate air frying times based on standard oven cooking timings, a notebook to keep track of recipes and settings and a temperature reference to help to ensure food is properly cooked.</description>
+    </item>
+    <item>
+      <title>MP Checklist - A companion app for Metroid Prime</title>
+      <link>http://granthutchison.com/projects/mp-checklist/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://granthutchison.com/projects/mp-checklist/</guid>
+      <description>A companion app for Metroid Prime Link to heading MP Checklist started out as a fun little weekend hackathon. Nintendo had just released a remaster of Metroid Prime for the Nintendo Switch - one of my favourite games of all time - and I decided to quickly throw together an app to help me track my progress through the game (something lacking in the original game, that was partially addressed in later installments of the series&amp;hellip;).</description>
+    </item>
+    <item>
+      <title>WristTrack - An app for watch enthusiasts</title>
+      <link>http://granthutchison.com/projects/wristtrack/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://granthutchison.com/projects/wristtrack/</guid>
+      <description>A mobile application for watch enthusiasts Link to heading WristTrack (formerly WristCheck) is easily my most ambitious app, and is my real passion project.&#xA;I initially set out to build an app that would let me track which of my wristwatches were getting the most wrist time, however as time has passed my ambition has grown and I&amp;rsquo;d like to think I could now build the best mobile app for watch nerds!</description>
+    </item>
+  </channel>
+</rss>

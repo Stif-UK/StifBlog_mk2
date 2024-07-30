@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ['Development', 'Mountain Biking', 'Rebound MTB App']
 Tags: ['App Development', 'MTB', 'Tech']
-cover: "/img/2020-07/ReboundMTB.png"
+featuredImage: "/img/2020-07/ReboundMTB.png"
 ---
 
 ## The Rebound MTB App

@@ -3,9 +3,9 @@ title: "Self Promotion"
 date: 2023-09-06T17:11:37+01:00
 draft: false
 socialshare: true
-Categories: ['Development', 'WristCheck App', 'Air Fryr App']
+Categories: ['Development', 'WristTrack App', 'Air Fryr App']
 Tags: ['App Development']
-cover: "/img/2023-09/Instagram_Influencer.png"
+featuredImage: "/img/2023-09/Instagram_Influencer.png"
 ---
 
 ## Attempting to grow my user base

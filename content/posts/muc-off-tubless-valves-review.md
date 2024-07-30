@@ -5,7 +5,7 @@ draft: false
 Categories: ['Mountain Biking', 'Product Reviews']
 Tags: ['Bike Bling', 'Lockdown Upgrades', 'MTB', 'Review']
 socialshare: true
-cover: "/img/2020-07/muc-off-pack-cover.jpg"
+featuredImage: "/img/2020-07/muc-off-pack-cover.jpg"
 ---
 
 ## MTB Lockdown upgrades part 2: _Muc-Off Tubeless Valves Review_

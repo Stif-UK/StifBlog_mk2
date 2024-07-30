@@ -3,9 +3,9 @@ title: "Wristcheck 101: A guide for new users"
 date: 2022-10-08T18:57:09+01:00
 draft: false
 socialshare: true
-Categories: ['Development', 'Watches', 'WristCheck App', 'WristCheck Guides & FAQs']
+Categories: ['Development', 'Watches', 'WristTrack App', 'WristTrack Guides & FAQs']
 Tags: ['App Development', 'Watches', 'Tech']
-cover: "/img/2022-10/wristcheck_101/confused-bearded-guy-shrugging-can-t-understand-how-use-mobile-phone-app.jpg"
+featuredImage: "/img/2022-10/wristcheck_101/confused-bearded-guy-shrugging-can-t-understand-how-use-mobile-phone-app.jpg"
 ---
 
 

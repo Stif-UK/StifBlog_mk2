@@ -5,7 +5,7 @@ draft: false
 Categories: ["Product reviews","Mountain Biking"]
 Tags: ["Review", "Lockdown Upgrades", "Bike Bling", "MTB"]
 socialshare: true
-cover: "/img/2020-06/WT_Bling_Kit_official.jpg"
+featuredImage: "/img/2020-06/WT_Bling_Kit_official.jpg"
 ---
 
 ## MTB Lockdown upgrades part 1: _The Wolf Tooth Bling Kit_

@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ['Development', 'Video Games', 'MP Checklist App']
 Tags: ['App Development', 'Video Games', 'Tech', 'Release Notes']
-cover: "/img/2023-02/MPchecklist_header.png"
+featuredImage: "/img/2023-02/MPchecklist_header.png"
 ---
 
 ## A helper app for Metroid Prime...

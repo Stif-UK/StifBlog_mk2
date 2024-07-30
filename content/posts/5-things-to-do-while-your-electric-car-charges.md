@@ -5,7 +5,7 @@ draft: false
 Categories: ["Electric cars"]
 Tags: ["Electric Cars", "Tech"]
 socialshare: true
-cover: "/img/2019-11/coffee&games.jpg"
+featuredImage: "/img/2019-11/coffee&games.jpg"
 ---
 ## 7 Things to do while your electric car charges
 ---

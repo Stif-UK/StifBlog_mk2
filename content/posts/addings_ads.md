@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ["Blog"]
 Tags: ["Blog", "Ads"]
-cover: "/img/2022-09/DigitalScreens_TimesSquareSpectacular.jpeg"
+featuredImage: "/img/2022-09/DigitalScreens_TimesSquareSpectacular.jpeg"
 ---
 
 ## Adding Ads... and stuff...

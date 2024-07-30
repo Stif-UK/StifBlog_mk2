@@ -3,9 +3,9 @@ title: "WristCheck v1.3 Release Notes"
 date: 2022-10-25T15:44:33+01:00
 draft: false
 socialshare: true
-Categories: ['Development', 'Watches', 'WristCheck App']
+Categories: ['Development', 'Watches', 'WristTrack App']
 Tags: ['App Development', 'Watches', 'Tech', 'Release Notes']
-cover: "/img/2022-10/WristCheck_PickImg_code.png"
+featuredImage: "/img/2022-10/WristCheck_PickImg_code.png"
 ---
 
 ## WristCheck v1.3 Release Notes

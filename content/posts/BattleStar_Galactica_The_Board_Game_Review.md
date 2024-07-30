@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ['TableTop']
 Tags: ['Review', 'TableTop', 'Board Games']
-cover: "/img/2022-10/bsg01_feature.jpeg"
+featuredImage: "/img/2022-10/bsg01_feature.jpeg"
 ---
 
 ## BattleStar Galactica: The Board Game - Review
@@ -82,4 +82,3 @@ Overall though, since buying the game 3-4 years ago* this remains one of my favo
 <sub>_*Now 10+ years ago..._</sub>
 
 Verdict: 9/10
-

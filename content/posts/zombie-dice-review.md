@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ['TableTop']
 Tags: ['Review', 'TableTop', 'Board Games']
-Cover: '/img/2022-10/zombie-dice-header.png'
+featuredImage: '/img/2022-10/zombie-dice-header.png'
 ---
 
 ## Brains is good food...
@@ -52,6 +52,6 @@ Rating it is difficult – the score I’ve given it is based on it’s cost, si
 
 Games move fast and fly by, making this a great game to play either if you find yourself with 20 minutes to spare on a train ride, or whilst another game is being set up for play…and if someone pulls out a copy and you end up not enjoying it, well, it’ll be over in 10 minutes anyway!
 
-*2022 Edit: Posting this as a brief update to the original review, which is now almost a decade old! Since I first wrote about Zombie Dice I now have two young children who absolutely love this game - it's always their first choice when we've got a short amount of time to play - so if you have kids, add a +3 to the score below!* 
+*2022 Edit: Posting this as a brief update to the original review, which is now almost a decade old! Since I first wrote about Zombie Dice I now have two young children who absolutely love this game - it's always their first choice when we've got a short amount of time to play - so if you have kids, add a +3 to the score below!*
 
 Verdict: 7/10

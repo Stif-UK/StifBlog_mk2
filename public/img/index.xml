@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imgs on granthutchison</title>
+    <link>http://localhost:1313/img/</link>
+    <description>Recent content in Imgs on granthutchison</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/img/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WristTrack - An app for watch enthusiasts</title>
+      <link>http://localhost:1313/img/app-icons/wristtrack/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/img/app-icons/wristtrack/</guid>
+      <description> WristTrack Link to heading A mobile application for watch enthusiasts Link to heading </description>
+    </item>
+  </channel>
+</rss>

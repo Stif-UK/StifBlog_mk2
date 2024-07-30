@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Watches on granthutchison.com</title>
-    <link>granthutchison.com/categories/watches/</link>
-    <description>Recent content in Watches on granthutchison.com</description>
+    <title>Watches on granthutchison</title>
+    <link>http://granthutchison.com/categories/watches/</link>
+    <description>Recent content in Watches on granthutchison</description>
     <generator>Hugo</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Thu, 12 Oct 2023 13:11:09 +0100</lastBuildDate>
-    <atom:link href="granthutchison.com/categories/watches/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wristcheck Privacy Policy</title>
-      <link>granthutchison.com/privacy/wristcheck_privacy_policy/</link>
-      <pubDate>Thu, 12 Oct 2023 13:11:09 +0100</pubDate>
-      <guid>granthutchison.com/privacy/wristcheck_privacy_policy/</guid>
-      <description>WristCheck Privacy Policy v1.2.0 Privacy Policy&#xA;Grant Hutchison built the WristCheck app as an Ad Supported app. This SERVICE is provided by Grant Hutchison at no cost and is intended for use as is.&#xA;This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.&#xA;If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
-    </item>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Sep 2023 15:44:33 +0100</lastBuildDate>
+    <atom:link href="http://granthutchison.com/categories/watches/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WristCheck v1.5 Release Notes</title>
-      <link>granthutchison.com/posts/wristcheck_v1.5_release_notes/</link>
+      <link>http://granthutchison.com/posts/wristcheck_v1.5_release_notes/</link>
       <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
-      <guid>granthutchison.com/posts/wristcheck_v1.5_release_notes/</guid>
-      <description>WristCheck v1.5 Release Notes Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases&amp;hellip;) I&amp;rsquo;ll add a quick summary at the end!&#xA;But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&amp;rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&amp;rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.</description>
+      <guid>http://granthutchison.com/posts/wristcheck_v1.5_release_notes/</guid>
+      <description>WristCheck v1.5 Release Notes Link to heading Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases&amp;hellip;) I&amp;rsquo;ll add a quick summary at the end!&#xA;But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&amp;rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&amp;rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.</description>
     </item>
     <item>
       <title>WristCheck v1.3 Release Notes</title>
-      <link>granthutchison.com/posts/wristcheck_v1.3_release_notes/</link>
+      <link>http://granthutchison.com/posts/wristcheck_v1.3_release_notes/</link>
       <pubDate>Tue, 25 Oct 2022 15:44:33 +0100</pubDate>
-      <guid>granthutchison.com/posts/wristcheck_v1.3_release_notes/</guid>
-      <description>WristCheck v1.3 Release Notes Version 1.3 of WristCheck is now available to the app beta testers, so will be released over the next couple of days (as I write this I&amp;rsquo;ve already got confirmation that Apple have approved it, so it&amp;rsquo;s just a case of hitting the button!) As before I thought I&amp;rsquo;d share a post with a bit more information on what&amp;rsquo;s changed, expanding a bit on the bullet points you&amp;rsquo;ll see in the app or on the store listings.</description>
+      <guid>http://granthutchison.com/posts/wristcheck_v1.3_release_notes/</guid>
+      <description>WristCheck v1.3 Release Notes Link to heading Version 1.3 of WristCheck is now available to the app beta testers, so will be released over the next couple of days (as I write this I&amp;rsquo;ve already got confirmation that Apple have approved it, so it&amp;rsquo;s just a case of hitting the button!) As before I thought I&amp;rsquo;d share a post with a bit more information on what&amp;rsquo;s changed, expanding a bit on the bullet points you&amp;rsquo;ll see in the app or on the store listings.</description>
     </item>
     <item>
       <title>Wristcheck 101: A guide for new users</title>
-      <link>granthutchison.com/posts/wristcheck_101_a_guide_for_new_users/</link>
+      <link>http://granthutchison.com/posts/wristcheck_101_a_guide_for_new_users/</link>
       <pubDate>Sat, 08 Oct 2022 18:57:09 +0100</pubDate>
-      <guid>granthutchison.com/posts/wristcheck_101_a_guide_for_new_users/</guid>
-      <description>WristCheck 101: Getting started with WristCheck WristCheck has been out in the wild for a little over a month now, and as I&amp;rsquo;ve mentioned before I&amp;rsquo;ve got plans to continually add more functionality to the app and keep it supported for a good while (free time permitting of course!)&#xA;Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professional UX designer - I&amp;rsquo;ve just built an app to the best of my abilities that performs some functions that I want access to (and on the way added some things based on user feedback) - so the app has a few bugs and might not be as straight-forward to navigate as I think it is&amp;hellip;</description>
+      <guid>http://granthutchison.com/posts/wristcheck_101_a_guide_for_new_users/</guid>
+      <description>WristCheck 101: Getting started with WristCheck Link to heading WristCheck has been out in the wild for a little over a month now, and as I&amp;rsquo;ve mentioned before I&amp;rsquo;ve got plans to continually add more functionality to the app and keep it supported for a good while (free time permitting of course!)&#xA;Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professional UX designer - I&amp;rsquo;ve just built an app to the best of my abilities that performs some functions that I want access to (and on the way added some things based on user feedback) - so the app has a few bugs and might not be as straight-forward to navigate as I think it is&amp;hellip;</description>
     </item>
     <item>
       <title>Wristcheck v1.2</title>
-      <link>granthutchison.com/posts/wristcheck_v1.2/</link>
+      <link>http://granthutchison.com/posts/wristcheck_v1.2/</link>
       <pubDate>Fri, 07 Oct 2022 10:32:34 +0100</pubDate>
-      <guid>granthutchison.com/posts/wristcheck_v1.2/</guid>
-      <description>WristCheck v1.2 is live! So, fairly hot on the heels of my last post, there&amp;rsquo;s another update to WristCheck landing in the app stores imminently (as I write it&amp;rsquo;s already live on Android, and should hit iOS early next week).&#xA;So, what&amp;rsquo;s new this time?&#xA;Ads! Yep, I originally said these would be in v1.1, but I wanted to make sure backup/restore and notifications could be properly tested, so I pushed out v1.</description>
+      <guid>http://granthutchison.com/posts/wristcheck_v1.2/</guid>
+      <description>WristCheck v1.2 is live! Link to heading So, fairly hot on the heels of my last post, there&amp;rsquo;s another update to WristCheck landing in the app stores imminently (as I write it&amp;rsquo;s already live on Android, and should hit iOS early next week).&#xA;So, what&amp;rsquo;s new this time?&#xA;Ads! Link to heading Yep, I originally said these would be in v1.1, but I wanted to make sure backup/restore and notifications could be properly tested, so I pushed out v1.</description>
     </item>
     <item>
       <title>Wristcheck v1.1 Preview</title>
-      <link>granthutchison.com/posts/wristcheck_1.1_preview/</link>
+      <link>http://granthutchison.com/posts/wristcheck_1.1_preview/</link>
       <pubDate>Fri, 16 Sep 2022 09:39:57 +0100</pubDate>
-      <guid>granthutchison.com/posts/wristcheck_1.1_preview/</guid>
-      <description>WristCheck v1.1 Preview If you are not embarrassed by the first version of your product, you’ve launched too late. - Reid Hoffman, LinkedIn founder&#xA;I love the above quote, and when I hit release on WristCheck v1.0 I was acutely aware that this app was not finished!&#xA;I&amp;rsquo;ve got a whole bunch of additional features I&amp;rsquo;m planning to add, but initially I&amp;rsquo;ve set my sights on a small number that will make up v1.</description>
+      <guid>http://granthutchison.com/posts/wristcheck_1.1_preview/</guid>
+      <description>WristCheck v1.1 Preview Link to heading If you are not embarrassed by the first version of your product, you’ve launched too late. - Reid Hoffman, LinkedIn founder&#xA;I love the above quote, and when I hit release on WristCheck v1.0 I was acutely aware that this app was not finished!&#xA;I&amp;rsquo;ve got a whole bunch of additional features I&amp;rsquo;m planning to add, but initially I&amp;rsquo;ve set my sights on a small number that will make up v1.</description>
     </item>
     <item>
       <title>Wristcheck App</title>
-      <link>granthutchison.com/posts/wristcheck-app/</link>
+      <link>http://granthutchison.com/posts/wristcheck-app/</link>
       <pubDate>Thu, 08 Sep 2022 00:31:55 +0100</pubDate>
-      <guid>granthutchison.com/posts/wristcheck-app/</guid>
-      <description>WristCheck App Version 1.0.0 is live! I&amp;rsquo;m pleased to announce that I&amp;rsquo;ve just released my first fully released app on both Android and iOS! (If you&amp;rsquo;re browsing around you may see I have previously posted about the ReboundMTB app, however this was never fully released!).&#xA;What is WristCheck? WristCheck is a digital watch box, so if you&amp;rsquo;re both a) a watch collector, and b) a nerd, then this post might interest you!</description>
+      <guid>http://granthutchison.com/posts/wristcheck-app/</guid>
+      <description>WristCheck App Link to heading Version 1.0.0 is live! Link to heading I&amp;rsquo;m pleased to announce that I&amp;rsquo;ve just released my first fully released app on both Android and iOS! (If you&amp;rsquo;re browsing around you may see I have previously posted about the ReboundMTB app, however this was never fully released!).&#xA;What is WristCheck? Link to heading WristCheck is a digital watch box, so if you&amp;rsquo;re both a) a watch collector, and b) a nerd, then this post might interest you!</description>
     </item>
   </channel>
 </rss>

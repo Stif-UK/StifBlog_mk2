@@ -4,7 +4,7 @@ date: 2019-09-24T16:31:56+01:00
 draft: false
 Categories: ["Development"]
 Tags: ["Blog"]
-cover: "/img/2019-11/blogging.jpg"
+featuredImage: "/img/2019-11/blogging.jpg"
 ---
 
 ## My blog workflow

@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ['Development', 'Cooking', 'Air Fryr App']
 Tags: ['App Development', 'Cooking', 'Tech', 'Release Notes']
-cover: "/img/2023-04/AirFryrHeader.png"
+featuredImage: "/img/2023-04/AirFryrHeader.png"
 ---
 
 ## Air Fryr - An Air Fryer Companion app

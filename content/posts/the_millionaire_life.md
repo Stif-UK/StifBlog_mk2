@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ['Development', 'Blog']
 Tags: ['App Development','Ads', 'Earning Update']
-cover: "/img/2023-03/stock_market.jpg"
+featuredImage: "/img/2023-03/stock_market.jpg"
 ---
 
 ## Users and Earnings

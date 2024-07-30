@@ -3,9 +3,9 @@ title: "Wristcheck v1.2"
 date: 2022-10-07T10:32:34+01:00
 draft: false
 socialshare: true
-Categories: ['Development', 'Watches', 'WristCheck App']
+Categories: ['Development', 'Watches', 'WristTrack App']
 Tags: ['App Development', 'Watches', 'Tech', 'Release Notes']
-cover: "/img/2022-10/reminder.png"
+featuredImage: "/img/2022-10/reminder.png"
 ---
 
 ## WristCheck v1.2 is live!

@@ -5,7 +5,7 @@ draft: false
 socialshare: true
 Categories: ['TableTop']
 Tags: ['Review', 'TableTop', 'Board Games']
-Cover: '/img/2022-10/CATAN-BaseGame.jpeg'
+featuredImage: '/img/2022-10/CATAN-BaseGame.jpeg'
 ---
 
 ## Welcome to Catan!
@@ -69,4 +69,3 @@ ___
 _The quintessential gateway game - everyone should have a copy of The Settler's of Catan in their collection..._
 
 <sub>_Cover image credit: Shamelessly borrowed from the official [Catan website](https://www.catan.com/) - you should pay them a visit, it's great!_</sub>
-

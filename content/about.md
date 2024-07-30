@@ -4,7 +4,8 @@ date = "2022-09-13"
 author = "grant"
 +++
 
-{{< image src="/img/Stif_Five_Round.png" alt="High five br0!" position="left" style="border-radius: 8px;" >}}
+
+![High Five br0!](/img/Stif_Five_Round.png "High Five br0!")
 
 ### _Scrum Master // Developer // GeekDad_
 ___

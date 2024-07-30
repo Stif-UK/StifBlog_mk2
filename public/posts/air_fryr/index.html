@@ -1,419 +1,371 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="author" content="">
-<meta name="description" content="Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
-I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&amp;rsquo;re in the UK and don&amp;rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer." />
-<meta name="keywords" content="homepage, blog, App Development, Cooking, Tech, Release Notes" />
-<meta name="robots" content="noodp" />
-<meta name="theme-color" content="" />
-<link rel="canonical" href="granthutchison.com/posts/air_fryr/" />
-
-
-    <title>
-        
-            Air Fryr :: granthutchison.com  — words on the internet
-        
-    </title>
+<head>
+  <title>
+  Air Fryr · granthutchison
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
 
 
 
 
-
-<link rel="stylesheet" href="granthutchison.com/main.949191c1dcc9c4a887997048b240354e47152016d821198f89448496ba42e491.css" integrity="sha256-lJGRwdzJxKiHmXBIskA1TkcVIBbYIRmPiUSElrpC5JE=">
-
-
-
-    <link rel="apple-touch-icon" sizes="180x180" href="/granthutchison.com/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/granthutchison.com/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/granthutchison.com/favicon-16x16.png">
-    <link rel="manifest" href="/granthutchison.com/site.webmanifest">
-    <link rel="mask-icon" href="/granthutchison.com/safari-pinned-tab.svg" color="">
-    <link rel="shortcut icon" href="/granthutchison.com/favicon.ico">
-    <meta name="msapplication-TileColor" content="">
+<meta name="author" content="Grant Hutchison">
+<meta name="description" content="Air Fryr - An Air Fryer Companion app Link to heading With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
+I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&rsquo;re in the UK and don&rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.">
+<meta name="keywords" content="blog,developer,personal">
 
 
-
-  <meta itemprop="name" content="Air Fryr">
-  <meta itemprop="description" content="Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
-I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you’re in the UK and don’t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.">
-  <meta itemprop="datePublished" content="2023-04-04T09:41:53+01:00">
-  <meta itemprop="dateModified" content="2023-04-04T09:41:53+01:00">
-  <meta itemprop="wordCount" content="924">
-  <meta itemprop="image" content="granthutchison.com/">
-  <meta itemprop="keywords" content="App Development,Cooking,Tech,Release Notes">
-
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="granthutchison.com/">
+  <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Air Fryr">
-  <meta name="twitter:description" content="Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
+  <meta name="twitter:description" content="Air Fryr - An Air Fryer Companion app Link to heading With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
 I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you’re in the UK and don’t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.">
 
+<meta property="og:url" content="http://granthutchison.com/posts/air_fryr/">
+  <meta property="og:site_name" content="granthutchison">
+  <meta property="og:title" content="Air Fryr">
+  <meta property="og:description" content="Air Fryr - An Air Fryer Companion app Link to heading With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
+I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you’re in the UK and don’t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-04-04T09:41:53+01:00">
+    <meta property="article:modified_time" content="2023-04-04T09:41:53+01:00">
+    <meta property="article:tag" content="App Development">
+    <meta property="article:tag" content="Cooking">
+    <meta property="article:tag" content="Tech">
+    <meta property="article:tag" content="Release Notes">
 
 
 
 
-    <meta property="article:section" content="Development" />
-
-    <meta property="article:section" content="Cooking" />
-
-    <meta property="article:section" content="Air Fryr App" />
+<link rel="canonical" href="http://granthutchison.com/posts/air_fryr/">
 
 
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
 
-    <meta property="article:published_time" content="2023-04-04 09:41:53 &#43;0100 BST" />
 
-
-
-
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.38c4552ac40f9ae3408bad40358f654ebd8804412fe74ed56f2d6c8a7af82dd3.css" integrity="sha256-OMRVKsQPmuNAi61ANY9lTr2IBEEv507Vby1sinr4LdM=" crossorigin="anonymous" media="screen" />
 
 
 
 
 
 
-
-    </head>
-
+  
     
-        <body>
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://granthutchison.com/">
+      granthutchison
+    </a>
     
     
-        <div class="container">
-            <header class="header">
-    <span class="header__inner">
-        <a href="/" style="text-decoration: none;">
-    <div class="logo">
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
         
-            <span class="logo__mark">></span>
-            <span class="logo__text ">
-                granthutchison.com</span>
-            <span class="logo__cursor" style=
-                  "
-                   
-                   ">
-            </span>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/tags/">Tags</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/categories/">Categories</a>
+            </li>
+          
         
-    </div>
-</a>
-
-
-        <span class="header__right">
-            
-                <nav class="menu">
-    <ul class="menu__inner"><li><a href="/granthutchison.com/about">About</a></li><li><a href="/granthutchison.com/posts">Blog</a></li><li><a href="/granthutchison.com/tags">Tags</a></li>
-    </ul>
+        
+      </ul>
+    
+  </section>
 </nav>
 
-                <span class="menu-trigger">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                        <path d="M0 0h24v24H0z" fill="none"/>
-                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
-                    </svg>
-                </span>
-            
-                <span class="theme-toggle not-selectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-   <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
-   3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
-   13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
- </svg></span>
-        </span>
-    </span>
-</header>
 
-
-            <div class="content">
-                
-  <main class="post">
-
-    <div class="post-info">
-      <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clock">
-          <circle cx="12" cy="12" r="10"></circle>
-          <polyline points="12 6 12 12 16 14"></polyline>
-        </svg>
-        5 minutes
-
-        
-      </p>
-    </div>
-
+    <div class="content">
+      
+  <section class="container post">
     <article>
-      <h1 class="post-title">
-        <a href="granthutchison.com/posts/air_fryr/">Air Fryr</a>
-      </h1>
-
-      
-
-      
-        <figure class="post-cover">
-          <img src="/img/2023-04/AirFryrHeader.png" alt="Air Fryr" />
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://granthutchison.com/posts/air_fryr/">
+              Air Fryr
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2023-04-04T09:41:53&#43;01:00">
+                April 4, 2023
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              5-minute read
+            </span>
+          </div>
           
-          
-        </figure>
-      
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/development/">Development</a>
+      <span class="separator">•</span>
+    <a href="/categories/cooking/">Cooking</a>
+      <span class="separator">•</span>
+    <a href="/categories/air-fryr-app/">Air Fryr App</a></div>
 
-      
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/app-development/">App Development</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/cooking/">Cooking</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/tech/">Tech</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/release-notes/">Release Notes</a>
+    </span></div>
+
+        </div>
+      </header>
 
       <div class="post-content">
-        <h2 id="air-fryr---an-air-fryer-companion-app">Air Fryr - An Air Fryer Companion app</h2>
+        
+          <img src="/img/2023-04/AirFryrHeader.png" alt="Featured image"/>
+        
+        <h2 id="air-fryr---an-air-fryer-companion-app">
+  Air Fryr - An Air Fryer Companion app
+  <a class="heading-link" href="#air-fryr---an-air-fryer-companion-app">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
 <hr>
 <p>With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.</p>
-<p>I had an old one that was only ever used for making chips (aka <em>French fries</em> for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&rsquo;re in the UK and don&rsquo;t already use Quidco you should <a href="https://www.quidco.com/raf/43546/">give them a look</a>), so decided to treat myself to an absolute beast of an Air Fryer.</p>
-<p><img src="/img/2023-04/QuidcoCashback.png" alt="Quidco Summary">
+<p>I had an old one that was only ever used for making chips (aka <em>French fries</em> for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&rsquo;re in the UK and don&rsquo;t already use Quidco you should <a href="https://www.quidco.com/raf/43546/"  class="external-link" target="_blank" rel="noopener">give them a look</a>), so decided to treat myself to an absolute beast of an Air Fryer.</p>
+<p><img alt="Quidco Summary" src="/img/2023-04/QuidcoCashback.png">
 <!-- raw HTML omitted -->I&rsquo;ve been a Quidco member for over 10 years and averaged about £100 a year cashback, just doing normal shopping!<!-- raw HTML omitted --></p>
 <p>I&rsquo;d been squirrelling away my cashback for a while and was thinking of treating myself to a new watch, or possibly a Switch OLED, but neither of those things were things that I really <em>needed</em>&hellip;and then the Ninja Foodi Air Fryers caught my eye&hellip;</p>
 <p>Now I do like to cook for the family - pulling a meal together for everyone is a nice way to wind down at the end of a busy day, and being able to do this is one of my favourite things about working from home, however I do often find myself working fairly late, so being able to cook <em>quickly</em> is a bonus for me.</p>
 <p>With the crazy rise of air fryers over the last year or so though I also feel like I&rsquo;ve been bombarded with information on them and was pleasantly surprised at just how <em>capable</em> they are&hellip; I was mad only using the old one for the odd plate of chips, these things can cook <em>so much</em> and do it well!</p>
 <p>So I decided to take a chunk of my cashback out (boosted by 6% as I converted them to gift vouchers!) and treat myself and my family to a fancy all-singing, all-dancing Ninja AF451.</p>
-<p><img src="/img/2023-04/AirFryer.jpg" alt="Ninja Foodi Max AF451">
+<p><img alt="Ninja Foodi Max AF451" src="/img/2023-04/AirFryer.jpg">
 <!-- raw HTML omitted -->This bad boy is HUGE!<!-- raw HTML omitted --></p>
 <p>It&rsquo;s been a few weeks since it arrived now and I&rsquo;ve been cooking with it <em>loads</em> - I&rsquo;ve cooked steak, whole chickens, sides of salmon, roast beef, chicken wings&hellip; my wife has used it almost daily to do &lsquo;boiled&rsquo; eggs! It&rsquo;s so easy to use, so quick and so, so versatile!</p>
 <p>But anyway&hellip; that&rsquo;s not really the purpose of this post is it!</p>
 <p>Being the nerd that you know I am, I wanted to get the most out of it so decided to throw together a little app for myself!</p>
-<h3 id="enter-air-fryr">Enter Air Fryr</h3>
+<h3 id="enter-air-fryr">
+  Enter Air Fryr
+  <a class="heading-link" href="#enter-air-fryr">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
 <p>I had no idea what to call the app - I started off with the idea of <em>&lsquo;Air Fryer Calculator&rsquo;</em>, but as the app came together I realised that the calculator is really a <em>&rsquo;nice to have&rsquo;</em> feature - the headline feature is probably actually the notebook.</p>
 <p>So, rather jokingly, I did what loads of apps seem to have done and decided to just drop some vowels - well, if it&rsquo;s good enough for Flickr and Tumblr!</p>
 <p>&hellip;and there we have it: <strong>Air Fryr</strong></p>
-<h3 id="what-does-it-do">What does it do?</h3>
+<h3 id="what-does-it-do">
+  What does it do?
+  <a class="heading-link" href="#what-does-it-do">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
 <p>In v1.0 Air Fryr has two main features:</p>
-<h4 id="the-calculator">The Calculator</h4>
+<h4 id="the-calculator">
+  The Calculator
+  <a class="heading-link" href="#the-calculator">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
 <p>Firstly, it offers a quick calculator function - air fryers are significantly faster than a standard oven, but can also cook the same dishes at lower temperatures. When I was researching what to buy I came across a simple algorithm for converting oven cooking times to air fryer ones - essentially, know 20C/35F off the temperature, and 20% off the time.</p>
 <p>Something super easy to do in an app, and Flutter/Material Design makes this even easier with simple to use sliders (although maybe I&rsquo;ll write up a more tech focused note later as to why it&rsquo;s not really that easy when you start adding options like changing the units and making saved calculations editable!)</p>
-<p><img src="/img/2023-04/Home-Light.png" alt="The app calculator"></p>
-<h3 id="the-notebook">The notebook</h3>
+<p><img alt="The app calculator" src="/img/2023-04/Home-Light.png"></p>
+<h3 id="the-notebook">
+  The notebook
+  <a class="heading-link" href="#the-notebook">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
 <p>Secondly, the notebook&hellip; now I&rsquo;m a bit of a pragmatist, and I know that an algorithm like the above is really just a <em>general rule</em>, it&rsquo;ll be right some of the time, but every oven and every air fryer is different (and let&rsquo;s not get started on individual tastes when it comes to food!), so I thought, <em>&lsquo;why not allow calculations to be saved and edited later&rsquo;</em>, hence <em>The Notebook</em>:</p>
-<p><img src="/img/2023-04/AirFryerNotebook.jpg" alt="The Notebook"></p>
+<p><img alt="The Notebook" src="/img/2023-04/AirFryerNotebook.jpg"></p>
 <p>Now what&rsquo;s the point of a notebook if you can&rsquo;t keep notes in it, so as well as allowing you to save a title, the cooking temperature and time, you can also write detailed notes with each entry and categorise the note for future reference (at present the categories just show against the note with an icon, but in a future release I&rsquo;ll add in a category filter too!).</p>
 <p>The notes are fully editable, so if you realise your dish needed more time, to be hotter or just that you want to make a note of what to try the next time you cook it, you can quickly and easily update the entry.</p>
-<h3 id="notebook-search">Notebook Search</h3>
+<h3 id="notebook-search">
+  Notebook Search
+  <a class="heading-link" href="#notebook-search">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
 <p>I know I mentioned two things, but since starting to write this post I got sidetracked and released an updated v1.1 of the app (I&rsquo;m nice like that) which also includes a real-time search function, to quickly find things in an ever growing notebook</p>
-<p><img src="/img/2023-04/NotebookSearch.png" alt="Notebook Search"></p>
+<p><img alt="Notebook Search" src="/img/2023-04/NotebookSearch.png"></p>
 <p>&hellip;and that&rsquo;s a wrap! I had a lot of fun putting this together (you know how I <em>love</em> building silly wee apps!) and have a few ideas to still add to it, so keep an eye out for a v1.2 before too long!</p>
-<p>If you&rsquo;d like to give Air Fryr a try you can find it <a href="https://apps.apple.com/us/app/air-fryr/id6446950736">on the App Store</a> and <a href="https://play.google.com/store/apps/details?id=com.stifdev.airfryr">on Google Play</a></p>
+<p>If you&rsquo;d like to give Air Fryr a try you can find it <a href="https://apps.apple.com/us/app/air-fryr/id6446950736"  class="external-link" target="_blank" rel="noopener">on the App Store</a> and <a href="https://play.google.com/store/apps/details?id=com.stifdev.airfryr"  class="external-link" target="_blank" rel="noopener">on Google Play</a></p>
 
       </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+        
+      </footer>
     </article>
 
-    <hr />
-
-    <div class="post-info">
-      
-    <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
-
-        <span class="tag"><a href="granthutchison.com/tags/app-development/">App Development</a></span>
-        <span class="tag"><a href="granthutchison.com/tags/cooking/">Cooking</a></span>
-        <span class="tag"><a href="granthutchison.com/tags/tech/">Tech</a></span>
-        <span class="tag"><a href="granthutchison.com/tags/release-notes/">Release Notes</a></span>
-        
-    </p>
-
-      
-    <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder meta-icon"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
-
-        <span class="tag"><a href="granthutchison.com/categories/development/">Development</a></span>
-        <span class="tag"><a href="granthutchison.com/categories/cooking/">Cooking</a></span>
-        <span class="tag"><a href="granthutchison.com/categories/air-fryr-app/">Air Fryr App</a></span>
-        
-    </p>
-
-
-      <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text">
-          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-          <polyline points="14 2 14 8 20 8"></polyline>
-          <line x1="16" y1="13" x2="8" y2="13"></line>
-          <line x1="16" y1="17" x2="8" y2="17"></line>
-          <polyline points="10 9 9 9 8 9"></polyline>
-        </svg>
-        924 Words
-      </p>
-
-      <p>
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar">
-          <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
-          <line x1="16" y1="2" x2="16" y2="6"></line>
-          <line x1="8" y1="2" x2="8" y2="6"></line>
-          <line x1="3" y1="10" x2="21" y2="10"></line>
-        </svg>
-        
-          2023-04-04 09:41
-        
-
-         
-          
-        
-      </p>
-    </div>
-      <hr />
-      <div class="sharing-buttons">
-        
-<a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=granthutchison.com%2fposts%2fair_fryr%2f" target="_blank" rel="noopener" aria-label="" title="Share on facebook">
-  <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?url=granthutchison.com%2fposts%2fair_fryr%2f" target="_blank" rel="noopener" aria-label="" title="Share on twitter">
-  <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small">
-      <div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="https://www.tumblr.com/widgets/share/tool?posttype=link&amp;title=Air%20Fryr&amp;caption=Air%20Fryr&amp;canonicalUrl=granthutchison.com%2fposts%2fair_fryr%2f" target="_blank" rel="noopener" aria-label="" title="Share on tumblr">
-  <div class="resp-sharing-button resp-sharing-button--tumblr resp-sharing-button--small">
-    <div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.563 24c-5.093 0-7.031-3.756-7.031-6.411V9.747H5.116V6.648c3.63-1.313 4.512-4.596 4.71-6.469C9.84.051 9.941 0 9.999 0h3.517v6.114h4.801v3.633h-4.82v7.47c.016 1.001.375 2.371 2.207 2.371h.09c.631-.02 1.486-.205 1.936-.419l1.156 3.425c-.436.636-2.4 1.374-4.156 1.404h-.178l.011.002z"/></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="mailto:?subject=Air%20Fryr&amp;body=granthutchison.com%2fposts%2fair_fryr%2f" target="_self" rel="noopener" aria-label="" title="Share via email">
-  <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="https://pinterest.com/pin/create/button/?url=granthutchison.com%2fposts%2fair_fryr%2f&amp;media=granthutchison.com%2fposts%2fair_fryr%2f;description=Air%20Fryr" target="_blank" rel="noopener" aria-label="" title="Share on pinterest">
-  <div class="resp-sharing-button resp-sharing-button--pinterest resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.889 2.741.099.12.112.225.085.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.354-.629-2.758-1.379l-.749 2.848c-.269 1.045-1.004 2.352-1.498 3.146 1.123.345 2.306.535 3.55.535 6.607 0 11.985-5.365 11.985-11.987C23.97 5.39 18.592.026 11.985.026L12.017 0z"/></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=granthutchison.com%2fposts%2fair_fryr%2f&amp;title=Air%20Fryr&amp;summary=Air%20Fryr&amp;source=granthutchison.com%2fposts%2fair_fryr%2f" target="_blank" rel="noopener" aria-label="" title="Share on linkedin">
-  <div class="resp-sharing-button resp-sharing-button--linkedin resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="https://reddit.com/submit/?url=granthutchison.com%2fposts%2fair_fryr%2f&amp;resubmit=true&amp;title=Air%20Fryr" target="_blank" rel="noopener" aria-label="" title="Share on reddit">
-  <div class="resp-sharing-button resp-sharing-button--reddit resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="https://www.xing.com/app/user?op=share;url=granthutchison.com%2fposts%2fair_fryr%2f;title=Air%20Fryr" target="_blank" rel="noopener" aria-label="" title="Share on xing">
-  <div class="resp-sharing-button resp-sharing-button--xing resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M18.188 0c-.517 0-.741.325-.927.66 0 0-7.455 13.224-7.702 13.657.015.024 4.919 9.023 4.919 9.023.17.308.436.66.967.66h3.454c.211 0 .375-.078.463-.22.089-.151.089-.346-.009-.536l-4.879-8.916c-.004-.006-.004-.016 0-.022L22.139.756c.095-.191.097-.387.006-.535C22.056.078 21.894 0 21.686 0h-3.498zM3.648 4.74c-.211 0-.385.074-.473.216-.09.149-.078.339.02.531l2.34 4.05c.004.01.004.016 0 .021L1.86 16.051c-.099.188-.093.381 0 .529.085.142.239.234.45.234h3.461c.518 0 .766-.348.945-.667l3.734-6.609-2.378-4.155c-.172-.315-.434-.659-.962-.659H3.648v.016z"/></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="whatsapp://send?text=Air%20Fryr%20granthutchison.com%2fposts%2fair_fryr%2f" target="_blank" rel="noopener" aria-label="" title="Share on whatsapp">
-  <div class="resp-sharing-button resp-sharing-button--whatsapp resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="https://news.ycombinator.com/submitlink?u=granthutchison.com%2fposts%2fair_fryr%2f&amp;t=Air%20Fryr" target="_blank" rel="noopener" aria-label="" title="Share on hacker news">
-  <div class="resp-sharing-button resp-sharing-button--hackernews resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M0 24V0h24v24H0zM6.951 5.896l4.112 7.708v5.064h1.583v-4.972l4.148-7.799h-1.749l-2.457 4.875c-.372.745-.688 1.434-.688 1.434s-.297-.708-.651-1.434L8.831 5.896h-1.88z"/></svg>
-    </div>
-  </div>
-</a>
-
-
-<a class="resp-sharing-button__link" href="https://telegram.me/share/url?text=Air%20Fryr&amp;url=granthutchison.com%2fposts%2fair_fryr%2f" target="_blank" rel="noopener" aria-label="" title="Share on telegram">
-  <div class="resp-sharing-button resp-sharing-button--telegram resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
-    </div>
-  </div>
-</a>
-
-      </div>
-
     
-    <div class="pagination">
-        
+  </section>
 
-        <div class="pagination__buttons">
-            
-            <span class="button previous">
-                <a href="granthutchison.com/posts/wristcheck_v1.5_release_notes/">
-                    <span class="button__icon">←</span>
-                    <span class="button__text">WristCheck v1.5 Release Notes</span>
-                </a>
-            </span>
-            
-
-            
-            <span class="button next">
-                <a href="granthutchison.com/posts/the_millionaire_life/">
-                    <span class="button__text">The Millionaire Life</span>
-                    <span class="button__icon">→</span>
-                </a>
-            </span>
-            
-        </div>
     </div>
 
-
+    <footer class="footer">
+  <section class="container">
+    ©
     
-
+      2019 -
     
-
+    2024
+     Grant Hutchison 
+    ·
     
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
 
   </main>
 
-            </div>
+  
 
-            
-                <footer class="footer">
-    
-    <div class="footer__inner">
-        <div class="footer__content">
-            <span>&copy; 2024</span>
-            <span><a href="granthutchison.com/"></a></span>
-            <span></span>
-            <span><a href="granthutchison.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
-            
-        </div>
-    </div>
-    
-    
-    <div class="footer__inner">
-        <div class="footer__content">
-            <span>Powered by <a href="http://gohugo.io">Hugo</a>, theme by <a href="https://github.com/rhazdon">Djordje Atlialp</a></span><span>Made with &#10084; by <a href="https://github.com/Stif-UK/">Grant Hutchison</a></span>
-        </div>
-    </div>
-    
-</footer>
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
 
-            
-        </div>
+  
 
-        
+  
+
+
+  
+  
 
 
 
-<script type="text/javascript" src="granthutchison.com/bundle.min.85fad2de4f13fec3bcb3b3cb10430cdb44a7b4a9749b32938241a5c6e77718df7624f1002b880521fdc26e24ec1077fda214bf1cb36ee3045510760d09638cae.js" integrity="sha512-hfrS3k8T/sO8s7PLEEMM20SntKl0mzKTgkGlxud3GN92JPEAK4gFIf3CbiTsEHf9ohS/HLNu4wRVEHYNCWOMrg=="></script>
+  
 
+  
 
+  
 
+  
 
-    </body>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
 </html>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cooking on granthutchison.com</title>
-    <link>granthutchison.com/tags/cooking/</link>
-    <description>Recent content in Cooking on granthutchison.com</description>
+    <title>Cooking on granthutchison</title>
+    <link>http://granthutchison.com/tags/cooking/</link>
+    <description>Recent content in Cooking on granthutchison</description>
     <generator>Hugo</generator>
-    <language>en-GB</language>
+    <language>en</language>
     <lastBuildDate>Tue, 04 Apr 2023 09:41:53 +0100</lastBuildDate>
-    <atom:link href="granthutchison.com/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://granthutchison.com/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Air Fryr</title>
-      <link>granthutchison.com/posts/air_fryr/</link>
+      <link>http://granthutchison.com/posts/air_fryr/</link>
       <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
-      <guid>granthutchison.com/posts/air_fryr/</guid>
-      <description>Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.&#xA;I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&amp;rsquo;re in the UK and don&amp;rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.</description>
+      <guid>http://granthutchison.com/posts/air_fryr/</guid>
+      <description>Air Fryr - An Air Fryer Companion app Link to heading With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.&#xA;I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&amp;rsquo;re in the UK and don&amp;rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.</description>
     </item>
   </channel>
 </rss>
