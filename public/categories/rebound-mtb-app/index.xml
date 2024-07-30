@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rebound MTB App on granthutchison.com</title>
-    <link>/categories/rebound-mtb-app/</link>
+    <link>granthutchison.com/categories/rebound-mtb-app/</link>
     <description>Recent content in Rebound MTB App on granthutchison.com</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Sat, 18 Jul 2020 00:46:49 +0100</lastBuildDate>
-    <atom:link href="/categories/rebound-mtb-app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="granthutchison.com/categories/rebound-mtb-app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rebound MTB App</title>
-      <link>/posts/rebound-mtb-app/</link>
+      <link>granthutchison.com/posts/rebound-mtb-app/</link>
       <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
-      <guid>/posts/rebound-mtb-app/</guid>
+      <guid>granthutchison.com/posts/rebound-mtb-app/</guid>
       <description>The Rebound MTB App Part 1: The beta release For the past forever I&amp;rsquo;ve been studying with the Open University, working towards a Bachelor&amp;rsquo;s degree in Software Engineering and after all that time the end is in sight!.&#xA;To complete the degree I have to undertake a significant project, so I&amp;rsquo;ve teamed up with the guys at Rebound to build a mobile application to support them.&#xA;Rebound is a registered charity, which aims to &amp;ldquo;develop the local community through sport&amp;rdquo; - with a primary focus on mountain biking.</description>
     </item>
     <item>
       <title>Rebound App Privacy Policy</title>
-      <link>/privacy/app-privacy-policy/</link>
+      <link>granthutchison.com/privacy/app-privacy-policy/</link>
       <pubDate>Sun, 28 Jun 2020 00:27:21 +0100</pubDate>
-      <guid>/privacy/app-privacy-policy/</guid>
+      <guid>granthutchison.com/privacy/app-privacy-policy/</guid>
       <description>This post contains the Privacy Policy generated for the Rebound MTB app, developed in collaboration with Rebound SCIO&#xA;Privacy Policy&#xA;Rebound SCIO built the Rebound MTB app as an Open Source app. This SERVICE is provided by Rebound SCIO at no cost and is intended for use as is.&#xA;This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monetisation on granthutchison.com</title>
-    <link>/tags/monetisation/</link>
+    <link>granthutchison.com/tags/monetisation/</link>
     <description>Recent content in Monetisation on granthutchison.com</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Thu, 07 Sep 2023 17:16:39 +0100</lastBuildDate>
-    <atom:link href="/tags/monetisation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="granthutchison.com/tags/monetisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breaking Even</title>
-      <link>/posts/breaking_even/</link>
+      <link>granthutchison.com/posts/breaking_even/</link>
       <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
-      <guid>/posts/breaking_even/</guid>
+      <guid>granthutchison.com/posts/breaking_even/</guid>
       <description>Breaking Even&amp;hellip; Right, while I&amp;rsquo;m in the blogging mood, here&amp;rsquo;s another post that really is long overdue! Back in March (wow!) I wrote a quick update on how much income I&amp;rsquo;d made via advertising on WristCheck and via ads on the website and promised further updates.&#xA;Since then a few major things have happened - firstly, I released two additional apps (technically I released MP Checklist just before that post&amp;hellip;) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off forever (and again, I definitely need to write a little about how and why I implemented that!</description>
     </item>
   </channel>

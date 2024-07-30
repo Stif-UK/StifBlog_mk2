@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on granthutchison.com</title>
-    <link>/tags/tech/</link>
+    <link>granthutchison.com/tags/tech/</link>
     <description>Recent content in Tech on granthutchison.com</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Wed, 06 Sep 2023 15:44:33 +0100</lastBuildDate>
-    <atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="granthutchison.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WristCheck v1.5 Release Notes</title>
-      <link>/posts/wristcheck_v1.5_release_notes/</link>
+      <link>granthutchison.com/posts/wristcheck_v1.5_release_notes/</link>
       <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
-      <guid>/posts/wristcheck_v1.5_release_notes/</guid>
+      <guid>granthutchison.com/posts/wristcheck_v1.5_release_notes/</guid>
       <description>WristCheck v1.5 Release Notes Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases&amp;hellip;) I&amp;rsquo;ll add a quick summary at the end!&#xA;But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&amp;rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&amp;rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.</description>
     </item>
     <item>
       <title>Air Fryr</title>
-      <link>/posts/air_fryr/</link>
+      <link>granthutchison.com/posts/air_fryr/</link>
       <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
-      <guid>/posts/air_fryr/</guid>
+      <guid>granthutchison.com/posts/air_fryr/</guid>
       <description>Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.&#xA;I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&amp;rsquo;re in the UK and don&amp;rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.</description>
     </item>
     <item>
       <title>New App: MP Checklist</title>
-      <link>/posts/new_app_mp_checklist/</link>
+      <link>granthutchison.com/posts/new_app_mp_checklist/</link>
       <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
-      <guid>/posts/new_app_mp_checklist/</guid>
+      <guid>granthutchison.com/posts/new_app_mp_checklist/</guid>
       <description>A helper app for Metroid Prime&amp;hellip; Ok, so I realise this post quickly became an essay - if you want to read some background please read on, but if you just want to know about the app, please feel free to skip to the end.&#xA;Returning to Tallon VI From 2002 until early 2017 if anyone asked me what my favourite game of all time was (and I know that&amp;rsquo;s a school playground question&amp;hellip;) without hesitation I&amp;rsquo;d have answered Metroid Prime.</description>
     </item>
     <item>
       <title>WristCheck v1.3 Release Notes</title>
-      <link>/posts/wristcheck_v1.3_release_notes/</link>
+      <link>granthutchison.com/posts/wristcheck_v1.3_release_notes/</link>
       <pubDate>Tue, 25 Oct 2022 15:44:33 +0100</pubDate>
-      <guid>/posts/wristcheck_v1.3_release_notes/</guid>
+      <guid>granthutchison.com/posts/wristcheck_v1.3_release_notes/</guid>
       <description>WristCheck v1.3 Release Notes Version 1.3 of WristCheck is now available to the app beta testers, so will be released over the next couple of days (as I write this I&amp;rsquo;ve already got confirmation that Apple have approved it, so it&amp;rsquo;s just a case of hitting the button!) As before I thought I&amp;rsquo;d share a post with a bit more information on what&amp;rsquo;s changed, expanding a bit on the bullet points you&amp;rsquo;ll see in the app or on the store listings.</description>
     </item>
     <item>
       <title>Wristcheck 101: A guide for new users</title>
-      <link>/posts/wristcheck_101_a_guide_for_new_users/</link>
+      <link>granthutchison.com/posts/wristcheck_101_a_guide_for_new_users/</link>
       <pubDate>Sat, 08 Oct 2022 18:57:09 +0100</pubDate>
-      <guid>/posts/wristcheck_101_a_guide_for_new_users/</guid>
+      <guid>granthutchison.com/posts/wristcheck_101_a_guide_for_new_users/</guid>
       <description>WristCheck 101: Getting started with WristCheck WristCheck has been out in the wild for a little over a month now, and as I&amp;rsquo;ve mentioned before I&amp;rsquo;ve got plans to continually add more functionality to the app and keep it supported for a good while (free time permitting of course!)&#xA;Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professional UX designer - I&amp;rsquo;ve just built an app to the best of my abilities that performs some functions that I want access to (and on the way added some things based on user feedback) - so the app has a few bugs and might not be as straight-forward to navigate as I think it is&amp;hellip;</description>
     </item>
     <item>
       <title>Wristcheck v1.2</title>
-      <link>/posts/wristcheck_v1.2/</link>
+      <link>granthutchison.com/posts/wristcheck_v1.2/</link>
       <pubDate>Fri, 07 Oct 2022 10:32:34 +0100</pubDate>
-      <guid>/posts/wristcheck_v1.2/</guid>
+      <guid>granthutchison.com/posts/wristcheck_v1.2/</guid>
       <description>WristCheck v1.2 is live! So, fairly hot on the heels of my last post, there&amp;rsquo;s another update to WristCheck landing in the app stores imminently (as I write it&amp;rsquo;s already live on Android, and should hit iOS early next week).&#xA;So, what&amp;rsquo;s new this time?&#xA;Ads! Yep, I originally said these would be in v1.1, but I wanted to make sure backup/restore and notifications could be properly tested, so I pushed out v1.</description>
     </item>
     <item>
       <title>Wristcheck v1.1 Preview</title>
-      <link>/posts/wristcheck_1.1_preview/</link>
+      <link>granthutchison.com/posts/wristcheck_1.1_preview/</link>
       <pubDate>Fri, 16 Sep 2022 09:39:57 +0100</pubDate>
-      <guid>/posts/wristcheck_1.1_preview/</guid>
+      <guid>granthutchison.com/posts/wristcheck_1.1_preview/</guid>
       <description>WristCheck v1.1 Preview If you are not embarrassed by the first version of your product, you’ve launched too late. - Reid Hoffman, LinkedIn founder&#xA;I love the above quote, and when I hit release on WristCheck v1.0 I was acutely aware that this app was not finished!&#xA;I&amp;rsquo;ve got a whole bunch of additional features I&amp;rsquo;m planning to add, but initially I&amp;rsquo;ve set my sights on a small number that will make up v1.</description>
     </item>
     <item>
       <title>Wristcheck App</title>
-      <link>/posts/wristcheck-app/</link>
+      <link>granthutchison.com/posts/wristcheck-app/</link>
       <pubDate>Thu, 08 Sep 2022 00:31:55 +0100</pubDate>
-      <guid>/posts/wristcheck-app/</guid>
+      <guid>granthutchison.com/posts/wristcheck-app/</guid>
       <description>WristCheck App Version 1.0.0 is live! I&amp;rsquo;m pleased to announce that I&amp;rsquo;ve just released my first fully released app on both Android and iOS! (If you&amp;rsquo;re browsing around you may see I have previously posted about the ReboundMTB app, however this was never fully released!).&#xA;What is WristCheck? WristCheck is a digital watch box, so if you&amp;rsquo;re both a) a watch collector, and b) a nerd, then this post might interest you!</description>
     </item>
     <item>
       <title>Rebound MTB App</title>
-      <link>/posts/rebound-mtb-app/</link>
+      <link>granthutchison.com/posts/rebound-mtb-app/</link>
       <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
-      <guid>/posts/rebound-mtb-app/</guid>
+      <guid>granthutchison.com/posts/rebound-mtb-app/</guid>
       <description>The Rebound MTB App Part 1: The beta release For the past forever I&amp;rsquo;ve been studying with the Open University, working towards a Bachelor&amp;rsquo;s degree in Software Engineering and after all that time the end is in sight!.&#xA;To complete the degree I have to undertake a significant project, so I&amp;rsquo;ve teamed up with the guys at Rebound to build a mobile application to support them.&#xA;Rebound is a registered charity, which aims to &amp;ldquo;develop the local community through sport&amp;rdquo; - with a primary focus on mountain biking.</description>
     </item>
     <item>
       <title>7 Things to Do While Your Electric Car Charges</title>
-      <link>/posts/5-things-to-do-while-your-electric-car-charges/</link>
+      <link>granthutchison.com/posts/5-things-to-do-while-your-electric-car-charges/</link>
       <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
-      <guid>/posts/5-things-to-do-while-your-electric-car-charges/</guid>
+      <guid>granthutchison.com/posts/5-things-to-do-while-your-electric-car-charges/</guid>
       <description>7 Things to do while your electric car charges So after writing a bit about how long an electric car takes to charge, I thought I&amp;rsquo;d write a short post about things to do to whilst your car charges - believe it or not this is something I Googled while I was first investigating EV ownership!&#xA;1. Write a blog post There&amp;rsquo;s something quite therapeutic about writing, even when you&amp;rsquo;re not very good at it&amp;hellip;</description>
     </item>
     <item>
       <title>How Long Does an EV Take to Charge</title>
-      <link>/posts/how-long-does-an-ev-take-to-charge/</link>
+      <link>granthutchison.com/posts/how-long-does-an-ev-take-to-charge/</link>
       <pubDate>Sat, 28 Sep 2019 01:39:02 +0100</pubDate>
-      <guid>/posts/how-long-does-an-ev-take-to-charge/</guid>
+      <guid>granthutchison.com/posts/how-long-does-an-ev-take-to-charge/</guid>
       <description>How long does an electric car take to charge? After &amp;ldquo;How far does it go?&amp;rdquo;, the next most common question I&amp;rsquo;ve heard since buying an electric car is &amp;ldquo;How long does it take to charge?&amp;rdquo;.&#xA;I think a lot of people find the answer surprising, I certainly did when I started investigating purchasing a hybrid and quickly found myself drawn towards the mysterious world of EV ownership.&#xA;The answer though is &amp;ldquo;it depends&amp;hellip;&amp;rdquo;, quickly followed by &amp;ldquo;and that&amp;rsquo;s not really the right question anyway&amp;hellip;&amp;rdquo;</description>
     </item>
   </channel>

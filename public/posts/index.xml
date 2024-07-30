@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on granthutchison.com</title>
-        <link>/posts/</link>
+        <link>granthutchison.com/posts/</link>
         <description>Recent content in Posts on granthutchison.com</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-GB</language>
         <lastBuildDate>Thu, 07 Sep 2023 17:16:39 +0100</lastBuildDate>
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="granthutchison.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Breaking Even</title>
-            <link>/posts/breaking_even/</link>
+            <link>granthutchison.com/posts/breaking_even/</link>
             <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
             
-            <guid>/posts/breaking_even/</guid>
+            <guid>granthutchison.com/posts/breaking_even/</guid>
             <description>Breaking Even&amp;hellip; Right, while I&amp;rsquo;m in the blogging mood, here&amp;rsquo;s another post that really is long overdue! Back in March (wow!) I wrote a quick update on how much income I&amp;rsquo;d made via advertising on WristCheck and via ads on the website and promised further updates.
 Since then a few major things have happened - firstly, I released two additional apps (technically I released MP Checklist just before that post&amp;hellip;) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off forever (and again, I definitely need to write a little about how and why I implemented that!</description>
             <content type="html"><![CDATA[<h2 id="breaking-even">Breaking Even&hellip;</h2>
@@ -45,10 +45,10 @@ After the first time the user numbers did slowly roll back down, but I&rsquo;m j
         
         <item>
             <title>Self Promotion</title>
-            <link>/posts/self_promotion/</link>
+            <link>granthutchison.com/posts/self_promotion/</link>
             <pubDate>Wed, 06 Sep 2023 17:11:37 +0100</pubDate>
             
-            <guid>/posts/self_promotion/</guid>
+            <guid>granthutchison.com/posts/self_promotion/</guid>
             <description>Attempting to grow my user base Now that I&amp;rsquo;ve released three apps - two of which I&amp;rsquo;d like to think have the potential to be really useful to a decent number of people (sorry MP Checklist&amp;hellip; I think you might just be a bit too niche!) - I think it&amp;rsquo;s time that I make a bit more of an effort to get help more people to find the apps!
 So, as well as releasing updates to both WristCheck and Air Fryr recently, I&amp;rsquo;ve also undertaken a couple of tasks with the hope of getting the apps in front of more people.</description>
             <content type="html"><![CDATA[<h2 id="attempting-to-grow-my-user-base">Attempting to grow my user base</h2>
@@ -72,10 +72,10 @@ So, as well as releasing updates to both WristCheck and Air Fryr recently, I&amp
         
         <item>
             <title>WristCheck v1.5 Release Notes</title>
-            <link>/posts/wristcheck_v1.5_release_notes/</link>
+            <link>granthutchison.com/posts/wristcheck_v1.5_release_notes/</link>
             <pubDate>Wed, 06 Sep 2023 15:44:33 +0100</pubDate>
             
-            <guid>/posts/wristcheck_v1.5_release_notes/</guid>
+            <guid>granthutchison.com/posts/wristcheck_v1.5_release_notes/</guid>
             <description>WristCheck v1.5 Release Notes Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases&amp;hellip;) I&amp;rsquo;ll add a quick summary at the end!
 But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&amp;rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&amp;rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.</description>
             <content type="html"><![CDATA[<h2 id="wristcheck-v15-release-notes">WristCheck v1.5 Release Notes</h2>
@@ -118,10 +118,10 @@ But onto the details - WristCheck 1.5 is a fairly big update to the user interfa
         
         <item>
             <title>Air Fryr</title>
-            <link>/posts/air_fryr/</link>
+            <link>granthutchison.com/posts/air_fryr/</link>
             <pubDate>Tue, 04 Apr 2023 09:41:53 +0100</pubDate>
             
-            <guid>/posts/air_fryr/</guid>
+            <guid>granthutchison.com/posts/air_fryr/</guid>
             <description>Air Fryr - An Air Fryer Companion app With energy bills going through the roof, the world seems to have gone air fryer mad over the last year or so.
 I had an old one that was only ever used for making chips (aka French fries for any readers on the other side of the Atlantic!), but I recently had a bunch of cashback pending from Quidco (if you&amp;rsquo;re in the UK and don&amp;rsquo;t already use Quidco you should give them a look), so decided to treat myself to an absolute beast of an Air Fryer.</description>
             <content type="html"><![CDATA[<h2 id="air-fryr---an-air-fryer-companion-app">Air Fryr - An Air Fryer Companion app</h2>
@@ -164,10 +164,10 @@ I had an old one that was only ever used for making chips (aka French fries for 
         
         <item>
             <title>The Millionaire Life</title>
-            <link>/posts/the_millionaire_life/</link>
+            <link>granthutchison.com/posts/the_millionaire_life/</link>
             <pubDate>Wed, 01 Mar 2023 14:07:38 +0000</pubDate>
             
-            <guid>/posts/the_millionaire_life/</guid>
+            <guid>granthutchison.com/posts/the_millionaire_life/</guid>
             <description>Users and Earnings So, back in September I both implemented ads on the site and released my first proper app (although I didn&amp;rsquo;t put Ads into WristCheck until v1.2 about a month later).
 This was all a fun experiment to see if I could make this wee hobby break even&amp;hellip; want to hear how it&amp;rsquo;s going?
 A summary of costs Let&amp;rsquo;s start off with what it costs to put things together.</description>
@@ -207,10 +207,10 @@ This&rsquo;ll help me figure out the details of how to best implement in-app pur
         
         <item>
             <title>New App: MP Checklist</title>
-            <link>/posts/new_app_mp_checklist/</link>
+            <link>granthutchison.com/posts/new_app_mp_checklist/</link>
             <pubDate>Mon, 27 Feb 2023 13:48:44 +0000</pubDate>
             
-            <guid>/posts/new_app_mp_checklist/</guid>
+            <guid>granthutchison.com/posts/new_app_mp_checklist/</guid>
             <description>A helper app for Metroid Prime&amp;hellip; Ok, so I realise this post quickly became an essay - if you want to read some background please read on, but if you just want to know about the app, please feel free to skip to the end.
 Returning to Tallon VI From 2002 until early 2017 if anyone asked me what my favourite game of all time was (and I know that&amp;rsquo;s a school playground question&amp;hellip;) without hesitation I&amp;rsquo;d have answered Metroid Prime.</description>
             <content type="html"><![CDATA[<h2 id="a-helper-app-for-metroid-prime">A helper app for Metroid Prime&hellip;</h2>
@@ -258,10 +258,10 @@ In v1.2 of the app (the current version in the stores) I also implemented a sear
         
         <item>
             <title>Zombie Dice Review</title>
-            <link>/posts/zombie-dice-review/</link>
+            <link>granthutchison.com/posts/zombie-dice-review/</link>
             <pubDate>Thu, 27 Oct 2022 17:45:53 +0100</pubDate>
             
-            <guid>/posts/zombie-dice-review/</guid>
+            <guid>granthutchison.com/posts/zombie-dice-review/</guid>
             <description>Brains is good food&amp;hellip; (Like some of my other tabletop reviews this was originally posted on Boardgaming.com almost a decade ago! I&amp;rsquo;m reposting here as I liked writing these and might well add a few more if there&amp;rsquo;s interest) When there is no more room in hell, the dead shall walk the earth… and try to eat your brain, unless you can run away or blast them with a shotgun!</description>
             <content type="html"><![CDATA[<h2 id="brains-is-good-food">Brains is good food&hellip;</h2>
 <hr>
@@ -294,10 +294,10 @@ I’ve pulled it out for quick plays at game sessions, on train rides and even a
         
         <item>
             <title>WristCheck v1.3 Release Notes</title>
-            <link>/posts/wristcheck_v1.3_release_notes/</link>
+            <link>granthutchison.com/posts/wristcheck_v1.3_release_notes/</link>
             <pubDate>Tue, 25 Oct 2022 15:44:33 +0100</pubDate>
             
-            <guid>/posts/wristcheck_v1.3_release_notes/</guid>
+            <guid>granthutchison.com/posts/wristcheck_v1.3_release_notes/</guid>
             <description>WristCheck v1.3 Release Notes Version 1.3 of WristCheck is now available to the app beta testers, so will be released over the next couple of days (as I write this I&amp;rsquo;ve already got confirmation that Apple have approved it, so it&amp;rsquo;s just a case of hitting the button!) As before I thought I&amp;rsquo;d share a post with a bit more information on what&amp;rsquo;s changed, expanding a bit on the bullet points you&amp;rsquo;ll see in the app or on the store listings.</description>
             <content type="html"><![CDATA[<h2 id="wristcheck-v13-release-notes">WristCheck v1.3 Release Notes</h2>
 <hr>
@@ -341,10 +341,10 @@ If dismissed it will then potentially re-prompt after around 100 days - a good s
         
         <item>
             <title>Wristcheck 101: A guide for new users</title>
-            <link>/posts/wristcheck_101_a_guide_for_new_users/</link>
+            <link>granthutchison.com/posts/wristcheck_101_a_guide_for_new_users/</link>
             <pubDate>Sat, 08 Oct 2022 18:57:09 +0100</pubDate>
             
-            <guid>/posts/wristcheck_101_a_guide_for_new_users/</guid>
+            <guid>granthutchison.com/posts/wristcheck_101_a_guide_for_new_users/</guid>
             <description>WristCheck 101: Getting started with WristCheck WristCheck has been out in the wild for a little over a month now, and as I&amp;rsquo;ve mentioned before I&amp;rsquo;ve got plans to continually add more functionality to the app and keep it supported for a good while (free time permitting of course!)
 Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professional UX designer - I&amp;rsquo;ve just built an app to the best of my abilities that performs some functions that I want access to (and on the way added some things based on user feedback) - so the app has a few bugs and might not be as straight-forward to navigate as I think it is&amp;hellip;</description>
             <content type="html"><![CDATA[<h2 id="wristcheck-101-getting-started-with-wristcheck">WristCheck 101: Getting started with WristCheck</h2>
@@ -419,10 +419,10 @@ Now I&amp;rsquo;d not claim to be the worlds best developer, nor am I a professi
         
         <item>
             <title>Wristcheck v1.2</title>
-            <link>/posts/wristcheck_v1.2/</link>
+            <link>granthutchison.com/posts/wristcheck_v1.2/</link>
             <pubDate>Fri, 07 Oct 2022 10:32:34 +0100</pubDate>
             
-            <guid>/posts/wristcheck_v1.2/</guid>
+            <guid>granthutchison.com/posts/wristcheck_v1.2/</guid>
             <description>WristCheck v1.2 is live! So, fairly hot on the heels of my last post, there&amp;rsquo;s another update to WristCheck landing in the app stores imminently (as I write it&amp;rsquo;s already live on Android, and should hit iOS early next week).
 So, what&amp;rsquo;s new this time?
 Ads! Yep, I originally said these would be in v1.1, but I wanted to make sure backup/restore and notifications could be properly tested, so I pushed out v1.</description>
@@ -458,10 +458,10 @@ Ads! Yep, I originally said these would be in v1.1, but I wanted to make sure ba
         
         <item>
             <title>Wristcheck v1.1 Preview</title>
-            <link>/posts/wristcheck_1.1_preview/</link>
+            <link>granthutchison.com/posts/wristcheck_1.1_preview/</link>
             <pubDate>Fri, 16 Sep 2022 09:39:57 +0100</pubDate>
             
-            <guid>/posts/wristcheck_1.1_preview/</guid>
+            <guid>granthutchison.com/posts/wristcheck_1.1_preview/</guid>
             <description>WristCheck v1.1 Preview If you are not embarrassed by the first version of your product, you’ve launched too late. - Reid Hoffman, LinkedIn founder
 I love the above quote, and when I hit release on WristCheck v1.0 I was acutely aware that this app was not finished!
 I&amp;rsquo;ve got a whole bunch of additional features I&amp;rsquo;m planning to add, but initially I&amp;rsquo;ve set my sights on a small number that will make up v1.</description>
@@ -503,10 +503,10 @@ Well v1.0.0 was released at the start of September <em>(actually a little later 
         
         <item>
             <title>Addings Ads</title>
-            <link>/posts/addings_ads/</link>
+            <link>granthutchison.com/posts/addings_ads/</link>
             <pubDate>Wed, 14 Sep 2022 11:06:50 +0100</pubDate>
             
-            <guid>/posts/addings_ads/</guid>
+            <guid>granthutchison.com/posts/addings_ads/</guid>
             <description>Adding Ads&amp;hellip; and stuff&amp;hellip; Yep, I&amp;rsquo;ve done it&amp;hellip;sorry.
 I&amp;rsquo;ve gone ahead and added some hideous advertising all across the site&amp;hellip;but why?
 Good question, and I&amp;rsquo;m not sure I have a good answer&amp;hellip; It&amp;rsquo;s not really to make money, as the volume of readers of this site are tiny. It&amp;rsquo;s a site I&amp;rsquo;ve built far more for myself than for anyone else, but hey, if you&amp;rsquo;ve found you&amp;rsquo;re way here thanks for visiting (and if you&amp;rsquo;ve enjoyed your time here, even better!</description>
@@ -545,10 +545,10 @@ So adding ads across the whole site was as simple as adding another couple of li
         
         <item>
             <title>Wristcheck App</title>
-            <link>/posts/wristcheck-app/</link>
+            <link>granthutchison.com/posts/wristcheck-app/</link>
             <pubDate>Thu, 08 Sep 2022 00:31:55 +0100</pubDate>
             
-            <guid>/posts/wristcheck-app/</guid>
+            <guid>granthutchison.com/posts/wristcheck-app/</guid>
             <description>WristCheck App Version 1.0.0 is live! I&amp;rsquo;m pleased to announce that I&amp;rsquo;ve just released my first fully released app on both Android and iOS! (If you&amp;rsquo;re browsing around you may see I have previously posted about the ReboundMTB app, however this was never fully released!).
 What is WristCheck? WristCheck is a digital watch box, so if you&amp;rsquo;re both a) a watch collector, and b) a nerd, then this post might interest you!</description>
             <content type="html"><![CDATA[<h2 id="wristcheck-app">WristCheck App</h2>
@@ -590,10 +590,10 @@ Firstly, if you&rsquo;ve got a smaller group of watches that you wear most often
         
         <item>
             <title>Rebound MTB App</title>
-            <link>/posts/rebound-mtb-app/</link>
+            <link>granthutchison.com/posts/rebound-mtb-app/</link>
             <pubDate>Sat, 18 Jul 2020 00:46:49 +0100</pubDate>
             
-            <guid>/posts/rebound-mtb-app/</guid>
+            <guid>granthutchison.com/posts/rebound-mtb-app/</guid>
             <description>The Rebound MTB App Part 1: The beta release For the past forever I&amp;rsquo;ve been studying with the Open University, working towards a Bachelor&amp;rsquo;s degree in Software Engineering and after all that time the end is in sight!.
 To complete the degree I have to undertake a significant project, so I&amp;rsquo;ve teamed up with the guys at Rebound to build a mobile application to support them.
 Rebound is a registered charity, which aims to &amp;ldquo;develop the local community through sport&amp;rdquo; - with a primary focus on mountain biking.</description>
@@ -636,10 +636,10 @@ Rebound is a registered charity, which aims to &amp;ldquo;develop the local comm
         
         <item>
             <title>Muc-Off Tubeless Valves Review</title>
-            <link>/posts/muc-off-tubless-valves-review/</link>
+            <link>granthutchison.com/posts/muc-off-tubless-valves-review/</link>
             <pubDate>Sun, 05 Jul 2020 01:09:12 +0100</pubDate>
             
-            <guid>/posts/muc-off-tubless-valves-review/</guid>
+            <guid>granthutchison.com/posts/muc-off-tubless-valves-review/</guid>
             <description>MTB Lockdown upgrades part 2: Muc-Off Tubeless Valves Review My lockdown quest to add more shiny, orange bits to my main mountain bike continues! This time, I&amp;rsquo;m adding a little more bling, but with arguably a bit more functional value thrown in compared to the Wolf Tooth Blink Kit that I reviewed in my first #LockdownUpgrades post.
 Ladies and gentlemen, I present to you, Muc-Off Tubeless Valves:
 Valves: Muc-Off; Fingers: Models own What do they do?</description>
@@ -729,10 +729,10 @@ Come on Nukeproof, sort it out!</p>
         
         <item>
             <title>Wolf Tooth Bling Kit Review</title>
-            <link>/posts/wolf-tooth-bling-kit/</link>
+            <link>granthutchison.com/posts/wolf-tooth-bling-kit/</link>
             <pubDate>Sun, 28 Jun 2020 01:30:23 +0100</pubDate>
             
-            <guid>/posts/wolf-tooth-bling-kit/</guid>
+            <guid>granthutchison.com/posts/wolf-tooth-bling-kit/</guid>
             <description>MTB Lockdown upgrades part 1: The Wolf Tooth Bling Kit Like many parts of the world, the global Covid-19 pandemic has lead to a period of lockdown in Scotland, which has resulted in me transitioning to working from home, whilst also home-schooling my kids and unable to get out properly on my mountain bike (I say &amp;lsquo;properly&amp;rsquo; as I have no decent trails near me - I am however getting out whenever I can just to spin the wheels with my boys, but I&amp;rsquo;ve been entirely unable to send it).</description>
             <content type="html"><![CDATA[<h2 id="mtb-lockdown-upgrades-part-1-_the-wolf-tooth-bling-kit_">MTB Lockdown upgrades part 1: <em>The Wolf Tooth Bling Kit</em></h2>
 <hr>
@@ -797,10 +797,10 @@ So yeah, no, you don&rsquo;t buy them to save weight - you buy them to <em>look 
         
         <item>
             <title>7 Things to Do While Your Electric Car Charges</title>
-            <link>/posts/5-things-to-do-while-your-electric-car-charges/</link>
+            <link>granthutchison.com/posts/5-things-to-do-while-your-electric-car-charges/</link>
             <pubDate>Fri, 01 Nov 2019 16:51:38 +0100</pubDate>
             
-            <guid>/posts/5-things-to-do-while-your-electric-car-charges/</guid>
+            <guid>granthutchison.com/posts/5-things-to-do-while-your-electric-car-charges/</guid>
             <description>7 Things to do while your electric car charges So after writing a bit about how long an electric car takes to charge, I thought I&amp;rsquo;d write a short post about things to do to whilst your car charges - believe it or not this is something I Googled while I was first investigating EV ownership!
 1. Write a blog post There&amp;rsquo;s something quite therapeutic about writing, even when you&amp;rsquo;re not very good at it&amp;hellip;</description>
             <content type="html"><![CDATA[<h2 id="7-things-to-do-while-your-electric-car-charges">7 Things to do while your electric car charges</h2>
@@ -845,10 +845,10 @@ This is <em>so much better</em> than having to detour via a smelly petrol statio
         
         <item>
             <title>How Long Does an EV Take to Charge</title>
-            <link>/posts/how-long-does-an-ev-take-to-charge/</link>
+            <link>granthutchison.com/posts/how-long-does-an-ev-take-to-charge/</link>
             <pubDate>Sat, 28 Sep 2019 01:39:02 +0100</pubDate>
             
-            <guid>/posts/how-long-does-an-ev-take-to-charge/</guid>
+            <guid>granthutchison.com/posts/how-long-does-an-ev-take-to-charge/</guid>
             <description>How long does an electric car take to charge? After &amp;ldquo;How far does it go?&amp;rdquo;, the next most common question I&amp;rsquo;ve heard since buying an electric car is &amp;ldquo;How long does it take to charge?&amp;rdquo;.
 I think a lot of people find the answer surprising, I certainly did when I started investigating purchasing a hybrid and quickly found myself drawn towards the mysterious world of EV ownership.
 The answer though is &amp;ldquo;it depends&amp;hellip;&amp;rdquo;, quickly followed by &amp;ldquo;and that&amp;rsquo;s not really the right question anyway&amp;hellip;&amp;rdquo;</description>
@@ -892,10 +892,10 @@ With the general efficiency of my car I know that on the 3 types of charger ment
         
         <item>
             <title>Blog Workflow</title>
-            <link>/posts/blog-workflow/</link>
+            <link>granthutchison.com/posts/blog-workflow/</link>
             <pubDate>Tue, 24 Sep 2019 16:31:56 +0100</pubDate>
             
-            <guid>/posts/blog-workflow/</guid>
+            <guid>granthutchison.com/posts/blog-workflow/</guid>
             <description>My blog workflow So, I&amp;rsquo;m writing this post as much for my own benefit as anyone else&amp;rsquo;s. The last time I tried to build a blog I left it alone for a while and when I came back to it I&amp;rsquo;d forgotten the steps to build it&amp;hellip; If this is of benefit to anyone else though, great!
 I&amp;rsquo;ve put this blog together using Hugo, a static site generator. What does that mean?</description>
             <content type="html"><![CDATA[<h2 id="my-blog-workflow">My blog workflow</h2>
@@ -966,10 +966,10 @@ The <em>&rsquo;-D&rsquo;</em> suffix tells Hugo that I want to see posts that ar
         
         <item>
             <title>Cart Before Horse</title>
-            <link>/posts/cart-before-the-horse/</link>
+            <link>granthutchison.com/posts/cart-before-the-horse/</link>
             <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
             
-            <guid>/posts/cart-before-the-horse/</guid>
+            <guid>granthutchison.com/posts/cart-before-the-horse/</guid>
             <description>Putting the Cart before the Horse So, this isn&amp;rsquo;t the first website I&amp;rsquo;ve ever thrown together. Nor the first blog. Not even the first blog built using a static site generator&amp;hellip;
 A few years ago (I&amp;rsquo;d love to say a couple, but I&amp;rsquo;m scared it&amp;rsquo;s now far more&amp;hellip;), I registered the domain granthutchison.com, not only because vanity domains are cool, but because I wanted to carve out a little corner of the internet to write and play.</description>
             <content type="html"><![CDATA[<!-- raw HTML omitted -->
@@ -1000,10 +1000,10 @@ There are also some things I&rsquo;d quite like to write about - I&rsquo;ve gone
         
         <item>
             <title>Sentinels of the Multiverse Review</title>
-            <link>/posts/sentinels-of-the-multiverse-review/</link>
+            <link>granthutchison.com/posts/sentinels-of-the-multiverse-review/</link>
             <pubDate>Thu, 17 Sep 2015 16:36:30 +0100</pubDate>
             
-            <guid>/posts/sentinels-of-the-multiverse-review/</guid>
+            <guid>granthutchison.com/posts/sentinels-of-the-multiverse-review/</guid>
             <description>Sentinels of the Multiverse Review (This review was originally posted on Boardgaming.com and subsequently posted on the old version of this blog, hence the 2015 post date!)
 Sentinels, ASSEMBLE Baron Blade and his minions are attempting to destroy Megalopolis using their mobile attack platform! It’s time to join forces with Legacy and the other heroes of the Multiverse to take him down!
 Sentinels of the Multiverse is a co-operative card game for 2-5 players, which can be played in 30-45 minutes (although you might just find you want to start another game straight after…)</description>
@@ -1046,10 +1046,10 @@ Unfortunately a few small grumbles prevent me from giving the game a higher scor
         
         <item>
             <title>Settlers of Catan Review</title>
-            <link>/posts/settlers-of-catan-review/</link>
+            <link>granthutchison.com/posts/settlers-of-catan-review/</link>
             <pubDate>Thu, 17 Sep 2015 16:13:14 +0100</pubDate>
             
-            <guid>/posts/settlers-of-catan-review/</guid>
+            <guid>granthutchison.com/posts/settlers-of-catan-review/</guid>
             <description>Welcome to Catan! (Like some of my other tabletop reviews this was originally posted on Boardgaming.com almost a decade ago! I&amp;rsquo;m reposting here as I liked writing these and might well add a few more if there&amp;rsquo;s interest)
 As one of a handful of new settlers on this newly colonised island, your goal is to build and expand, using your resources to become the dominant individual on the island.
 Like many others who have written reviews of this great game, Catan was what I consider to be my first ‘real’ introduction to the wonderful world of board gaming, so it felt right that it should also be one of the first reviews I posted on the site!</description>
@@ -1115,10 +1115,10 @@ Catan is a classic <em>‘Eurogame’</em> – it’s simple enough that almost 
         
         <item>
             <title>Battlestar Galactica: The Board Game Review</title>
-            <link>/posts/battlestar_galactica_the_board_game_review/</link>
+            <link>granthutchison.com/posts/battlestar_galactica_the_board_game_review/</link>
             <pubDate>Fri, 11 Sep 2015 14:10:09 +0100</pubDate>
             
-            <guid>/posts/battlestar_galactica_the_board_game_review/</guid>
+            <guid>granthutchison.com/posts/battlestar_galactica_the_board_game_review/</guid>
             <description>BattleStar Galactica: The Board Game - Review (This review was originally posted on Boardgaming.com and subsequently posted on the old version of this blog)
 Humanity has lost The second Cylon war is over. Humanity has lost, and now it’s only hope for survival is a small fleet of ships carrying all that remains of the human population, lead by the aging Battlestar Galactica.
 Battlestar Galactica: The Board Game is based on the first season of the 2004 re-imagining of the classic 70’s TV show, where the surviving human fleet desperately tries to escape their Cylon pursuers on their way to the planet Kobol – the legendary planet where humanity began (and a waypoint on their longer journey to find the fabled 13th colony, Earth).</description>
