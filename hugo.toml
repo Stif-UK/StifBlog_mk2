@@ -19,7 +19,7 @@ author = "Grant Hutchison"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Grant Hutchison's personal website"
 keywords = "blog,developer,personal"
-info = ["Flutter Mobile Dev", "Scrum Master // Agilist"]
+info = ["Flutter Dev // Watch Nerd", "Scrum Master // Agile Coach"]
 avatarURL = "/img/Stif_Five_Round.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
