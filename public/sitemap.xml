@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://granthutchison.com/posts/a-new-start/</loc>
+    <loc>http://granthutchison.com/posts/2024/a-new-start/</loc>
     <lastmod>2024-07-30T12:48:13+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/tags/app-development/</loc>
@@ -29,10 +29,19 @@
     <loc>http://granthutchison.com/tags/</loc>
     <lastmod>2024-07-30T12:48:13+01:00</lastmod>
   </url><url>
+    <loc>http://granthutchison.com/categories/watches/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://granthutchison.com/posts/2024/whats-in-a-name/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://granthutchison.com/categories/wristtrack-app/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://granthutchison.com/tags/ads/</loc>
     <lastmod>2023-09-07T17:16:39+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/breaking_even/</loc>
+    <loc>http://granthutchison.com/posts/2023/breaking_even/</loc>
     <lastmod>2023-09-07T17:16:39+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/tags/earning-update/</loc>
@@ -44,10 +53,7 @@
     <loc>http://granthutchison.com/categories/air-fryr-app/</loc>
     <lastmod>2023-09-06T17:11:37+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/self_promotion/</loc>
-    <lastmod>2023-09-06T17:11:37+01:00</lastmod>
-  </url><url>
-    <loc>http://granthutchison.com/categories/wristtrack-app/</loc>
+    <loc>http://granthutchison.com/posts/2023/self_promotion/</loc>
     <lastmod>2023-09-06T17:11:37+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/tags/release-notes/</loc>
@@ -59,13 +65,10 @@
     <loc>http://granthutchison.com/tags/watches/</loc>
     <lastmod>2023-09-06T15:44:33+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/categories/watches/</loc>
+    <loc>http://granthutchison.com/posts/2023/wristcheck_v1.5_release_notes/</loc>
     <lastmod>2023-09-06T15:44:33+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/wristcheck_v1.5_release_notes/</loc>
-    <lastmod>2023-09-06T15:44:33+01:00</lastmod>
-  </url><url>
-    <loc>http://granthutchison.com/posts/air_fryr/</loc>
+    <loc>http://granthutchison.com/posts/2023/air_fryr/</loc>
     <lastmod>2023-04-04T09:41:53+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/projects/air-fryr/</loc>
@@ -80,7 +83,7 @@
     <loc>http://granthutchison.com/projects/</loc>
     <lastmod>2023-04-04T09:41:53+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/the_millionaire_life/</loc>
+    <loc>http://granthutchison.com/posts/2023/the_millionaire_life/</loc>
     <lastmod>2023-03-01T14:07:38+00:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/projects/mp-checklist/</loc>
@@ -89,7 +92,7 @@
     <loc>http://granthutchison.com/categories/mp-checklist-app/</loc>
     <lastmod>2023-02-27T13:48:44+00:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/new_app_mp_checklist/</loc>
+    <loc>http://granthutchison.com/posts/2023/new_app_mp_checklist/</loc>
     <lastmod>2023-02-27T13:48:44+00:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/tags/video-games/</loc>
@@ -119,25 +122,25 @@
     <loc>http://granthutchison.com/categories/tabletop/</loc>
     <lastmod>2022-10-27T17:45:53+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/zombie-dice-review/</loc>
+    <loc>http://granthutchison.com/posts/older/zombie-dice-review/</loc>
     <lastmod>2022-10-27T17:45:53+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/wristcheck_v1.3_release_notes/</loc>
+    <loc>http://granthutchison.com/posts/2022/wristcheck_v1.3_release_notes/</loc>
     <lastmod>2022-10-25T15:44:33+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/wristcheck_101_a_guide_for_new_users/</loc>
+    <loc>http://granthutchison.com/posts/2022/wristcheck_101_a_guide_for_new_users/</loc>
     <lastmod>2022-10-08T18:57:09+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/categories/wristtrack-guides--faqs/</loc>
     <lastmod>2022-10-08T18:57:09+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/wristcheck_v1.2/</loc>
+    <loc>http://granthutchison.com/posts/2022/wristcheck_v1.2/</loc>
     <lastmod>2022-10-07T10:32:34+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/wristcheck_1.1_preview/</loc>
+    <loc>http://granthutchison.com/posts/2022/wristcheck_1.1_preview/</loc>
     <lastmod>2022-09-16T09:39:57+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/addings_ads/</loc>
+    <loc>http://granthutchison.com/posts/2022/addings_ads/</loc>
     <lastmod>2022-09-14T11:06:50+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/about/</loc>
@@ -146,7 +149,7 @@
     <loc>http://granthutchison.com/projects/wristtrack/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/wristcheck-app/</loc>
+    <loc>http://granthutchison.com/posts/2022/wristcheck-app/</loc>
     <lastmod>2022-09-08T00:31:55+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/categories/mountain-biking/</loc>
@@ -158,7 +161,7 @@
     <loc>http://granthutchison.com/categories/rebound-mtb-app/</loc>
     <lastmod>2020-07-18T00:46:49+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/rebound-mtb-app/</loc>
+    <loc>http://granthutchison.com/posts/2022/rebound-mtb-app/</loc>
     <lastmod>2020-07-18T00:46:49+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/tags/bike-bling/</loc>
@@ -167,16 +170,16 @@
     <loc>http://granthutchison.com/tags/lockdown-upgrades/</loc>
     <lastmod>2020-07-05T01:09:12+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/muc-off-tubless-valves-review/</loc>
+    <loc>http://granthutchison.com/posts/2020/muc-off-tubless-valves-review/</loc>
     <lastmod>2020-07-05T01:09:12+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/categories/product-reviews/</loc>
     <lastmod>2020-07-05T01:09:12+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/wolf-tooth-bling-kit/</loc>
+    <loc>http://granthutchison.com/posts/2020/wolf-tooth-bling-kit/</loc>
     <lastmod>2020-06-28T01:30:23+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/5-things-to-do-while-your-electric-car-charges/</loc>
+    <loc>http://granthutchison.com/posts/2019/5-things-to-do-while-your-electric-car-charges/</loc>
     <lastmod>2019-11-01T16:51:38+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/tags/electric-cars/</loc>
@@ -185,25 +188,25 @@
     <loc>http://granthutchison.com/categories/electric-cars/</loc>
     <lastmod>2019-11-01T16:51:38+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/how-long-does-an-ev-take-to-charge/</loc>
+    <loc>http://granthutchison.com/posts/2019/how-long-does-an-ev-take-to-charge/</loc>
     <lastmod>2019-09-28T01:39:02+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/blog-workflow/</loc>
+    <loc>http://granthutchison.com/posts/2019/blog-workflow/</loc>
     <lastmod>2019-09-24T16:31:56+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/cart-before-the-horse/</loc>
+    <loc>http://granthutchison.com/posts/2019/cart-before-the-horse/</loc>
     <lastmod>2019-09-22T12:12:59+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/categories/random-nonsense/</loc>
     <lastmod>2019-09-22T12:12:59+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/sentinels-of-the-multiverse-review/</loc>
+    <loc>http://granthutchison.com/posts/older/sentinels-of-the-multiverse-review/</loc>
     <lastmod>2015-09-17T16:36:30+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/settlers-of-catan-review/</loc>
+    <loc>http://granthutchison.com/posts/older/settlers-of-catan-review/</loc>
     <lastmod>2015-09-17T16:13:14+01:00</lastmod>
   </url><url>
-    <loc>http://granthutchison.com/posts/battlestar_galactica_the_board_game_review/</loc>
+    <loc>http://granthutchison.com/posts/older/battlestar_galactica_the_board_game_review/</loc>
     <lastmod>2015-09-11T14:10:09+01:00</lastmod>
   </url><url>
     <loc>http://granthutchison.com/authors/</loc>

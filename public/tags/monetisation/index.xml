@@ -10,9 +10,9 @@
     <atom:link href="http://granthutchison.com/tags/monetisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breaking Even</title>
-      <link>http://granthutchison.com/posts/breaking_even/</link>
+      <link>http://granthutchison.com/posts/2023/breaking_even/</link>
       <pubDate>Thu, 07 Sep 2023 17:16:39 +0100</pubDate>
-      <guid>http://granthutchison.com/posts/breaking_even/</guid>
+      <guid>http://granthutchison.com/posts/2023/breaking_even/</guid>
       <description>Breaking Even&amp;hellip; Link to heading Right, while I&amp;rsquo;m in the blogging mood, here&amp;rsquo;s another post that really is long overdue! Back in March (wow!) I wrote a quick update on how much income I&amp;rsquo;d made via advertising on WristCheck and via ads on the website and promised further updates.&#xA;Since then a few major things have happened - firstly, I released two additional apps (technically I released MP Checklist just before that post&amp;hellip;) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off forever (and again, I definitely need to write a little about how and why I implemented that!</description>
     </item>
   </channel>

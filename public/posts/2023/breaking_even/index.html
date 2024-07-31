@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+  Breaking Even · granthutchison
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Grant Hutchison">
+<meta name="description" content="Breaking Even&hellip; Link to heading Right, while I&rsquo;m in the blogging mood, here&rsquo;s another post that really is long overdue! Back in March (wow!) I wrote a quick update on how much income I&rsquo;d made via advertising on WristCheck and via ads on the website and promised further updates.
+Since then a few major things have happened - firstly, I released two additional apps (technically I released MP Checklist just before that post&hellip;) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off forever (and again, I definitely need to write a little about how and why I implemented that!">
+<meta name="keywords" content="blog,developer,personal">
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Breaking Even">
+  <meta name="twitter:description" content="Breaking Even… Link to heading Right, while I’m in the blogging mood, here’s another post that really is long overdue! Back in March (wow!) I wrote a quick update on how much income I’d made via advertising on WristCheck and via ads on the website and promised further updates.
+Since then a few major things have happened - firstly, I released two additional apps (technically I released MP Checklist just before that post…) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off forever (and again, I definitely need to write a little about how and why I implemented that!">
+
+<meta property="og:url" content="http://granthutchison.com/posts/2023/breaking_even/">
+  <meta property="og:site_name" content="granthutchison">
+  <meta property="og:title" content="Breaking Even">
+  <meta property="og:description" content="Breaking Even… Link to heading Right, while I’m in the blogging mood, here’s another post that really is long overdue! Back in March (wow!) I wrote a quick update on how much income I’d made via advertising on WristCheck and via ads on the website and promised further updates.
+Since then a few major things have happened - firstly, I released two additional apps (technically I released MP Checklist just before that post…) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off forever (and again, I definitely need to write a little about how and why I implemented that!">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-09-07T17:16:39+01:00">
+    <meta property="article:modified_time" content="2023-09-07T17:16:39+01:00">
+    <meta property="article:tag" content="App Development">
+    <meta property="article:tag" content="Ads">
+    <meta property="article:tag" content="Earning Update">
+    <meta property="article:tag" content="Monetisation">
+
+
+
+
+<link rel="canonical" href="http://granthutchison.com/posts/2023/breaking_even/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.38c4552ac40f9ae3408bad40358f654ebd8804412fe74ed56f2d6c8a7af82dd3.css" integrity="sha256-OMRVKsQPmuNAi61ANY9lTr2IBEEv507Vby1sinr4LdM=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://granthutchison.com/">
+      granthutchison
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/tags/">Tags</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/categories/">Categories</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://granthutchison.com/posts/2023/breaking_even/">
+              Breaking Even
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2023-09-07T17:16:39&#43;01:00">
+                September 7, 2023
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              4-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/development/">Development</a>
+      <span class="separator">•</span>
+    <a href="/categories/blog/">Blog</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/app-development/">App Development</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/ads/">Ads</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/earning-update/">Earning Update</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/monetisation/">Monetisation</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+          <img src="/img/2023-09/money_cover.jpg" alt="Featured image"/>
+        
+        <h2 id="breaking-even">
+  Breaking Even&hellip;
+  <a class="heading-link" href="#breaking-even">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<hr>
+<p>Right, while I&rsquo;m in the blogging mood, here&rsquo;s another post that really is long overdue! Back in March (wow!) I wrote a <a href="/posts/the_millionaire_life/" >quick update</a> on how much income I&rsquo;d made via advertising on WristCheck and via ads on the website and promised further updates.</p>
+<p>Since then a few major things have happened - firstly, I released two additional apps (technically I released <a href="/posts/new_app_mp_checklist/" >MP Checklist</a> just before that post&hellip;) and secondly I finally got around to adding an in-app payment option to allow users to pay what they wanted to turn the ads off <em>forever</em> (and again, I definitely need to write a little about how and why I implemented that!).</p>
+<p>So, it&rsquo;s now six months later and I have additional income streams&hellip; <em>am I rich yet?</em></p>
+<h3 id="the-goals">
+  The Goals
+  <a class="heading-link" href="#the-goals">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Let&rsquo;s go through things again and break things down - I&rsquo;ll take data from a spreadsheet I keep and call out my earnings across ads and in app payments, then add it all up at the end!</p>
+<p>Firstly though, why am I monetising the apps? I won&rsquo;t do the full breakdown again, but as I mentioned in the first post on this subject developing mobile apps isn&rsquo;t free.
+Again I&rsquo;ll ignore the cost of my time <em>(it is a hobby after all!)</em> but in summary I&rsquo;m looking to make a little over <em>£100</em> a year to consider myself broken even - since the last post I&rsquo;ve registered some <a href="/posts/self_promotion/" >new domains</a> so let&rsquo;s set a target of <strong>£150</strong> for the purposes of this post.</p>
+<h2 id="ad-revenue">
+  Ad Revenue
+  <a class="heading-link" href="#ad-revenue">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>So, how much am I earning from ads? Well firstly, <em>nobody reads this website</em>, so from the web ads, virtually nothing! In total I&rsquo;ve earned <strong>£2.79</strong> from the website, and based on this I think I&rsquo;ll roll back the ads - I think they just get in the way. I also have zero intention of adding any to the app landing pages as those aren&rsquo;t there to be monetised, but to help people find the apps.</p>
+<p>Speaking of the apps, those are actually a rather different story! My total ad revenue between October 2022 and August 2023 is actually a quite healthy <strong>£91.18</strong>&hellip; yes, you read that right, I actually earned enough from ads to cover my annual Apple Developer fee of £79!</p>
+<p>This includes a couple of spikes in both May and then again in August where the <em>Air Fryr</em> app went a bit viral - amazingly people (when they learn about the app) seem keen to try it so a few mentions on Facebook Air Fryer groups (yep, that&rsquo;s where I hang out now!) has been enough to give me some big bumps in revenue.
+After the first time the user numbers did slowly roll back down, but I&rsquo;m just coming off one of those peaks and currently have around 1100 users across the apps! Which is honestly <em>amazing!</em></p>
+<h3 id="in-app-payments">
+  In App payments
+  <a class="heading-link" href="#in-app-payments">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Now lets move on to in app payments - I introduced these earlier in the year but they are paid by the platforms a month or two in arrears. Income isn&rsquo;t massive (I did get an initial jump on WristCheck from existing users who must have welcomed the ability to go ad free) but I do see the odd purchase one or two times a month.</p>
+<p>In total though I&rsquo;m tracking an total across the apps of <strong>£55.11</strong> - not massive, but I honestly think it&rsquo;s so awesome that people value what I&rsquo;ve built enough to consider paying for it at all!</p>
+<h3 id="totals">
+  Totals
+  <a class="heading-link" href="#totals">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>So, doing some creating rounding that adds up to rough expenditure of <strong>£150</strong> and rough income of <strong>£150</strong>&hellip;</p>
+<p>As the title of this post proclaims, I&rsquo;ve pretty much <em>broken even!</em></p>
+<h3 id="what-next">
+  What next?
+  <a class="heading-link" href="#what-next">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>This is partly why I&rsquo;ve turned a bit of attention to trying to increase awareness of the apps to drive installs a bit - I&rsquo;m putting all revenue into a separate bank account and would love to now aim to save enough to get a second hand iPhone to aid in testing whilst I&rsquo;m building the apps (I&rsquo;ve kept my old Google Pixel 4 to use specifically as a test device and it makes a bit difference on the Android side of things) - nothing fancy, just something old and second hand that&rsquo;ll get at least one or two more OS updates.</p>
+<p>Will I manage that? Who knows, but one step at a time eh? Maybe one day I&rsquo;ll earn enough to retire!</p>
+<p>Credits: Photo by <!-- raw HTML omitted -->Alexander Grey<!-- raw HTML omitted --> on <!-- raw HTML omitted -->Unsplash<!-- raw HTML omitted --></p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2019 -
+    
+    2024
+     Grant Hutchison 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

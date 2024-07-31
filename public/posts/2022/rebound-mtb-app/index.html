@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+  Rebound MTB App · granthutchison
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Grant Hutchison">
+<meta name="description" content="The Rebound MTB App Link to heading Part 1: The beta release Link to heading For the past forever I&rsquo;ve been studying with the Open University, working towards a Bachelor&rsquo;s degree in Software Engineering and after all that time the end is in sight!.
+To complete the degree I have to undertake a significant project, so I&rsquo;ve teamed up with the guys at Rebound to build a mobile application to support them.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Rebound MTB App">
+  <meta name="twitter:description" content="The Rebound MTB App Link to heading Part 1: The beta release Link to heading For the past forever I’ve been studying with the Open University, working towards a Bachelor’s degree in Software Engineering and after all that time the end is in sight!.
+To complete the degree I have to undertake a significant project, so I’ve teamed up with the guys at Rebound to build a mobile application to support them.">
+
+<meta property="og:url" content="http://granthutchison.com/posts/2022/rebound-mtb-app/">
+  <meta property="og:site_name" content="granthutchison">
+  <meta property="og:title" content="Rebound MTB App">
+  <meta property="og:description" content="The Rebound MTB App Link to heading Part 1: The beta release Link to heading For the past forever I’ve been studying with the Open University, working towards a Bachelor’s degree in Software Engineering and after all that time the end is in sight!.
+To complete the degree I have to undertake a significant project, so I’ve teamed up with the guys at Rebound to build a mobile application to support them.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2020-07-18T00:46:49+01:00">
+    <meta property="article:modified_time" content="2020-07-18T00:46:49+01:00">
+    <meta property="article:tag" content="App Development">
+    <meta property="article:tag" content="MTB">
+    <meta property="article:tag" content="Tech">
+
+
+
+
+<link rel="canonical" href="http://granthutchison.com/posts/2022/rebound-mtb-app/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.38c4552ac40f9ae3408bad40358f654ebd8804412fe74ed56f2d6c8a7af82dd3.css" integrity="sha256-OMRVKsQPmuNAi61ANY9lTr2IBEEv507Vby1sinr4LdM=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://granthutchison.com/">
+      granthutchison
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/tags/">Tags</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/categories/">Categories</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://granthutchison.com/posts/2022/rebound-mtb-app/">
+              Rebound MTB App
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2020-07-18T00:46:49&#43;01:00">
+                July 18, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              3-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/development/">Development</a>
+      <span class="separator">•</span>
+    <a href="/categories/mountain-biking/">Mountain Biking</a>
+      <span class="separator">•</span>
+    <a href="/categories/rebound-mtb-app/">Rebound MTB App</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/app-development/">App Development</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/mtb/">MTB</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/tech/">Tech</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+          <img src="/img/2020-07/ReboundMTB.png" alt="Featured image"/>
+        
+        <h2 id="the-rebound-mtb-app">
+  The Rebound MTB App
+  <a class="heading-link" href="#the-rebound-mtb-app">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<hr>
+<h3 id="part-1-the-beta-release">
+  Part 1: The beta release
+  <a class="heading-link" href="#part-1-the-beta-release">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>For the past <em>forever</em> I&rsquo;ve been studying with the <a href="http://www.open.ac.uk/"  class="external-link" target="_blank" rel="noopener">Open University</a>, working towards a Bachelor&rsquo;s degree in Software Engineering and after all that time <em>the end is in sight!</em>.</p>
+<p>To complete the degree I have to undertake a significant project, so I&rsquo;ve teamed up with the guys at <a href="www.lennoxmtb.com" >Rebound</a> to build a mobile application to support them.</p>
+<p>Rebound is a registered charity, which aims to <em>&ldquo;develop the local community through sport&rdquo;</em> - with a primary focus on mountain biking. They&rsquo;ve grown over the years and now run a series of events in and around Lennoxtown (including cycle maintenance classes,  skills coaching and regular guided rides in the local forest) and are in the process of agreeing lease terms to build, manage and maintain a designated bike park in <a href="http://www.lennoxmtb.com/falkland.html"  class="external-link" target="_blank" rel="noopener">Falkland</a>, a short drive away in Fife.</p>
+<p><img alt="Falkland Bike Park logo" src="/img/2020-07/FalklandBikePark.jpg" title="This place will be awesome!">
+<!-- raw HTML omitted --> <em>Extreme to the max!</em> <!-- raw HTML omitted --></p>
+<p>To support them we have discussed some key features for the app to provide, as well as engaging the wide group of users who are current members of the <a href="https://www.facebook.com/groups/hillsidehooligans/?multi_permalinks=4164629353607551"  class="external-link" target="_blank" rel="noopener">Falkland Bike Park Facebook group</a> and now that some of the basic features are in place it&rsquo;s reached the point where we&rsquo;re keen to release the app in beta form to start getting some feedback whilst I build some of the more complex features.</p>
+<p>As part of the Apple release process they ask for a <em>marketing link</em>, so it felt like a good time to write a little about the app, what it currently does, and what the future plans are (as I expand on this, I&rsquo;ll update this post with links to additional posts in the future).</p>
+<hr>
+<h3 id="what-does-the-app-do">
+  What does the app do?
+  <a class="heading-link" href="#what-does-the-app-do">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>In the initial beta release the application provides two features: A weather forecast for the club riding locations (both Lennox Forest and Falkland Bike Park), and a support feature to help bikers report their location in the event of an accident.</p>
+<h4 id="whats-the-weather-like">
+  What&rsquo;s the weather like?
+  <a class="heading-link" href="#whats-the-weather-like">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>The first feature is nice and simple: A weather forecast so that users can tell if they should wear shorts or pack a waterproof to ride <em>(Note: Please don&rsquo;t use this as an excuse to not get out and ride!)</em></p>
+<p><img alt="App Weather Forecast screenshot" src="/img/2020-07/WeatherScreenshot.jpg" title="Ride in all conditions!">
+<!-- raw HTML omitted --> <em>Should you pack that waterproof?</em> <!-- raw HTML omitted --></p>
+<p>The forecast provides: Current conditions, a 7 day forecast summary and a detailed 48 hour forecast.</p>
+<h4 id="my-friends-had-a-crash-what-do-i-do">
+  My friend&rsquo;s had a crash, what do I do!
+  <a class="heading-link" href="#my-friends-had-a-crash-what-do-i-do">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>Next up, a feature that we hope nobody ever needs, but that they might be glad to have if they ever do!</p>
+<p><img alt="Accident reporting screenshot" src="/img/2020-07/AccidentReportingScreenshot.jpg" title="Ouch!">
+<!-- raw HTML omitted --> <em>Hopefully nobody will ever need to use this!</em> <!-- raw HTML omitted --></p>
+<p>The app can be used to help identify the users location, using <a href="https://what3words.com/"  class="external-link" target="_blank" rel="noopener">What3Words</a>, a system that maps the whole planet as 3m x 3m squares, and provides a simple 3 word identifier for each.</p>
+<p>Additionally it can be used to dial local emergency services and provides a link to the <a href="https://www.redcross.org.uk/"  class="external-link" target="_blank" rel="noopener">British Red Cross first aid app</a>. <em>(this is a great application that I recommend, however it is no substitute for proper first aid training)</em></p>
+<hr>
+<h3 id="whats-next">
+  What&rsquo;s next?
+  <a class="heading-link" href="#whats-next">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Moving forward we have a few exciting features in the pipeline - the next out of the gate will be an in-app news feed that Rebound can use to share news and updates, as well as an event calendar to allow users to find out what&rsquo;s going on.</p>
+<hr>
+<h3 id="sounds-amazing---how-can-i-get-my-hands-on-it">
+  Sounds amazing - how can I get my hands on it?
+  <a class="heading-link" href="#sounds-amazing---how-can-i-get-my-hands-on-it">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>The beta release is available via invitation - you can find information on the <a href="https://www.facebook.com/groups/hillsidehooligans/?multi_permalinks=4164629353607551"  class="external-link" target="_blank" rel="noopener">Falkland Bike Park Facebook group</a>.</p>
+<p>Once the application goes fully live it will be available both via Google Play and the App Store via the below links:</p>
+<!-- raw HTML omitted -->
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<p><em>(Please note: The application release will be limited to users based in the United Kingdom only)</em></p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2019 -
+    
+    2024
+     Grant Hutchison 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

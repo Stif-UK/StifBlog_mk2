@@ -10,30 +10,37 @@
     <atom:link href="http://granthutchison.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A New Start</title>
-      <link>http://granthutchison.com/posts/a-new-start/</link>
+      <link>http://granthutchison.com/posts/2024/a-new-start/</link>
       <pubDate>Tue, 30 Jul 2024 12:48:13 +0100</pubDate>
-      <guid>http://granthutchison.com/posts/a-new-start/</guid>
+      <guid>http://granthutchison.com/posts/2024/a-new-start/</guid>
       <description>We&amp;rsquo;re over halfway through 2024, and as I type this I haven&amp;rsquo;t updated the site at all this year&amp;hellip; which is madness, as I&amp;rsquo;ve got lots to share!&#xA;I may go back and backdate some posts, with some updates on the apps and a long overdue earning update, but first&amp;hellip;&#xA;Rebuilding the site Link to heading I recently got a new Macbook, which has absolutely supercharged my development - seriously, the jump from an underpowered Intel based machine to the latest Apple Silicon is like stepping into the future!</description>
     </item>
     <item>
+      <title>What&#39;s in a name?</title>
+      <link>http://granthutchison.com/posts/2024/whats-in-a-name/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://granthutchison.com/posts/2024/whats-in-a-name/</guid>
+      <description>In early June I got a rather unexpected email from Apple&amp;rsquo;s legal team&amp;hellip;&#xA;My little watch app WristCheck had come to the attention of a much bigger WristCheck - the folks at wristcheck.com, who had reached out, via Apple, to let me know that they held a Trademark on the name&amp;hellip;&#xA;Now, before I go any further I want to be really clear that I don&amp;rsquo;t grudge the WristCheck team for wanting to protect their Trademark - they absolutely have a right to do that and I should have had the sense to check when I created the app!</description>
+    </item>
+    <item>
       <title>Addings Ads</title>
-      <link>http://granthutchison.com/posts/addings_ads/</link>
+      <link>http://granthutchison.com/posts/2022/addings_ads/</link>
       <pubDate>Wed, 14 Sep 2022 11:06:50 +0100</pubDate>
-      <guid>http://granthutchison.com/posts/addings_ads/</guid>
+      <guid>http://granthutchison.com/posts/2022/addings_ads/</guid>
       <description>Adding Ads&amp;hellip; and stuff&amp;hellip; Link to heading Yep, I&amp;rsquo;ve done it&amp;hellip;sorry.&#xA;I&amp;rsquo;ve gone ahead and added some hideous advertising all across the site&amp;hellip;but why?&#xA;Good question, and I&amp;rsquo;m not sure I have a good answer&amp;hellip; It&amp;rsquo;s not really to make money, as the volume of readers of this site are tiny. It&amp;rsquo;s a site I&amp;rsquo;ve built far more for myself than for anyone else, but hey, if you&amp;rsquo;ve found you&amp;rsquo;re way here thanks for visiting (and if you&amp;rsquo;ve enjoyed your time here, even better!</description>
     </item>
     <item>
       <title>Blog Workflow</title>
-      <link>http://granthutchison.com/posts/blog-workflow/</link>
+      <link>http://granthutchison.com/posts/2019/blog-workflow/</link>
       <pubDate>Tue, 24 Sep 2019 16:31:56 +0100</pubDate>
-      <guid>http://granthutchison.com/posts/blog-workflow/</guid>
+      <guid>http://granthutchison.com/posts/2019/blog-workflow/</guid>
       <description>My blog workflow Link to heading So, I&amp;rsquo;m writing this post as much for my own benefit as anyone else&amp;rsquo;s. The last time I tried to build a blog I left it alone for a while and when I came back to it I&amp;rsquo;d forgotten the steps to build it&amp;hellip; If this is of benefit to anyone else though, great!&#xA;I&amp;rsquo;ve put this blog together using Hugo, a static site generator.</description>
     </item>
     <item>
       <title>Cart Before Horse</title>
-      <link>http://granthutchison.com/posts/cart-before-the-horse/</link>
+      <link>http://granthutchison.com/posts/2019/cart-before-the-horse/</link>
       <pubDate>Sun, 22 Sep 2019 12:12:59 +0100</pubDate>
-      <guid>http://granthutchison.com/posts/cart-before-the-horse/</guid>
+      <guid>http://granthutchison.com/posts/2019/cart-before-the-horse/</guid>
       <description>Putting the Cart before the Horse Link to heading So, this isn&amp;rsquo;t the first website I&amp;rsquo;ve ever thrown together. Nor the first blog. Not even the first blog built using a static site generator&amp;hellip;&#xA;A few years ago (I&amp;rsquo;d love to say a couple, but I&amp;rsquo;m scared it&amp;rsquo;s now far more&amp;hellip;), I registered the domain granthutchison.com, not only because vanity domains are cool, but because I wanted to carve out a little corner of the internet to write and play.</description>
     </item>
   </channel>

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+  WristCheck v1.5 Release Notes · granthutchison
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Grant Hutchison">
+<meta name="description" content="WristCheck v1.5 Release Notes Link to heading Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases&hellip;) I&rsquo;ll add a quick summary at the end!
+But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.">
+<meta name="keywords" content="blog,developer,personal">
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="WristCheck v1.5 Release Notes">
+  <meta name="twitter:description" content="WristCheck v1.5 Release Notes Link to heading Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases…) I’ll add a quick summary at the end!
+But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I’ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you’re looking for visually) and made it easier to jump between the various watch box views (i.">
+
+<meta property="og:url" content="http://granthutchison.com/posts/2023/wristcheck_v1.5_release_notes/">
+  <meta property="og:site_name" content="granthutchison">
+  <meta property="og:title" content="WristCheck v1.5 Release Notes">
+  <meta property="og:description" content="WristCheck v1.5 Release Notes Link to heading Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! (and for the last couple of Air Fryr releases…) I’ll add a quick summary at the end!
+But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I’ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you’re looking for visually) and made it easier to jump between the various watch box views (i.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-09-06T15:44:33+01:00">
+    <meta property="article:modified_time" content="2023-09-06T15:44:33+01:00">
+    <meta property="article:tag" content="App Development">
+    <meta property="article:tag" content="Watches">
+    <meta property="article:tag" content="Tech">
+    <meta property="article:tag" content="Release Notes">
+
+
+
+
+<link rel="canonical" href="http://granthutchison.com/posts/2023/wristcheck_v1.5_release_notes/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.38c4552ac40f9ae3408bad40358f654ebd8804412fe74ed56f2d6c8a7af82dd3.css" integrity="sha256-OMRVKsQPmuNAi61ANY9lTr2IBEEv507Vby1sinr4LdM=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://granthutchison.com/">
+      granthutchison
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/tags/">Tags</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/categories/">Categories</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://granthutchison.com/posts/2023/wristcheck_v1.5_release_notes/">
+              WristCheck v1.5 Release Notes
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2023-09-06T15:44:33&#43;01:00">
+                September 6, 2023
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              5-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/development/">Development</a>
+      <span class="separator">•</span>
+    <a href="/categories/watches/">Watches</a>
+      <span class="separator">•</span>
+    <a href="/categories/wristtrack-app/">WristTrack App</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/app-development/">App Development</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/watches/">Watches</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/tech/">Tech</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/release-notes/">Release Notes</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+          <img src="/img/2023-09/Seiko_header.jpeg" alt="Featured image"/>
+        
+        <h2 id="wristcheck-v15-release-notes">
+  WristCheck v1.5 Release Notes
+  <a class="heading-link" href="#wristcheck-v15-release-notes">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<hr>
+<p>Opps - I seem to have skipped writing up notes when I released WristCheck v1.4! <em>(and for the last couple of Air Fryr releases&hellip;)</em>  I&rsquo;ll add a quick summary at the end!</p>
+<p>But onto the details - WristCheck 1.5 is a fairly big update to the user interface of the main watchbox view. I&rsquo;ve made search more prominent, given a use the ability to re-order the watch display, included images on the main page (so that you can find the watch you&rsquo;re looking for visually) and made it easier to jump between the various watch box views (i.e. the wish list and sold watches lists).</p>
+<p>Let&rsquo;s go through these to summarise the main changes&hellip;</p>
+<h3 id="redesign-of-the-watch-box-ui">
+  Redesign of the Watch Box UI
+  <a class="heading-link" href="#redesign-of-the-watch-box-ui">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>The original view presented in WristCheck was just a sterile text only list of watches, with an expanding accordion tile at the top that hid links to search and the secondary watch box views&hellip; I was never particularly happy with this view. When I was getting stuck into using Flutter I had issues with getting images onto the tiles without them messing up the various dimensions, and I just <em>could not</em> get the view to refresh as I wanted when the database filters were changed, hence creating separate individual pages for the sold watches and wishlist views.</p>
+<p>But a year or so into my adventures with Flutter I&rsquo;m now much more confident with it&rsquo;s capabilities and how the various widgets interact with each other&hellip; so it felt like a good time to rebuild the homepage!</p>
+<p><img alt="WristCheck new UI" src="/img/2023-09/dark_listview.jpg">
+<!-- raw HTML omitted --><em>The new user interface!</em><!-- raw HTML omitted --></p>
+<p>One major update is the addition of the drop-down picker at the top of the page - you can now move from your watch box, to wish list, to list of sold watches or directly to a random watch by selecting from the dropdown and the page will instantly refresh to display your selection! No more navigating to <em>different pages!</em></p>
+<h3 id="search-is-more-prominent">
+  Search is more prominent
+  <a class="heading-link" href="#search-is-more-prominent">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>From a quick look at the image above you&rsquo;ll see that the ability to search your collection is no longer hidden away - it&rsquo;s always right there in the top right of the home screen.</p>
+<p>From the start I wanted WristCheck to work well for users with large watch collections - a common complaint I heard about other apps was that they started to slow down or got to a point where it was just too hard to find the watch you wanted once you&rsquo;d added so many, so a quick and easy real-time search option was a must - I&rsquo;m super happy that this is now easy to find and right in front of the user!</p>
+<h3 id="quickly-re-order-your-collection">
+  Quickly re-order your collection
+  <a class="heading-link" href="#quickly-re-order-your-collection">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Previously the watches always appeared in the list in the order you added them to the database&hellip; which was <em>fine</em>, but not the best experience&hellip; whenever you got a new watch, it would always be the last one on the screen!</p>
+<p>Now I&rsquo;ve added the ability to re-order the collection on the fly, using one of several options (I restrained myself to avoid overdoing it, but if something is really missing shout out in an app review!)</p>
+<p><img alt="Display Order Picker" src="/img/2023-09/display_order.jpg">
+<!-- raw HTML omitted --><em>Quickly re-order your collection!</em><!-- raw HTML omitted --></p>
+<p>Since moving the release from my test device to my day to day phone I&rsquo;ve found this fantastic! I like to show my collection by last worn date, so my recently worn watches are always at the top (and when I wear something different from the previous day it&rsquo;s nice to see the page refresh itself!)</p>
+<h3 id="watch-images-in-the-main-view">
+  Watch images in the main view
+  <a class="heading-link" href="#watch-images-in-the-main-view">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Another long overdue, and often asked for feature! The watch list now shows a small thumbnail of the watches! Again this turns out to be really useful for quickly finding the watch you&rsquo;ve just put on when you go in to track what you&rsquo;re wearing, and has been something I&rsquo;ve been meaning to figure out for <em>ages&hellip;</em></p>
+<p>&hellip;but that&rsquo;s not all!</p>
+<h3 id="grid-or-list-view">
+  Grid or list view
+  <a class="heading-link" href="#grid-or-list-view">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>I mentioned at the start of this post that the original watch view was just a fairly sterile list of watches&hellip; and I&rsquo;ve just mentioned that that sterile list now includes an image of the watch&hellip; but what if you want <em>more</em>?</p>
+<p>Well, now you also have the option to change the default view to a grid view, with larger pictures!</p>
+<p><img alt="WristCheck Grid View" src="/img/2023-09/light_gridview.jpg">
+<!-- raw HTML omitted --><em>Display your collection in a grid view!</em><!-- raw HTML omitted --></p>
+<p>I should call out that this viewing pattern doesn&rsquo;t work well on very small screens - if your screen is too small then the watch names (neatly) truncate, and the wear dates may be hidden behind the box border! But it works well on most modern phones!</p>
+<p>Personally I love this view - I&rsquo;ve found myself using it day to day over the original list view!</p>
+<h3 id="_minor-improvements_">
+  <em>&ldquo;Minor Improvements&rdquo;</em>
+  <a class="heading-link" href="#_minor-improvements_">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>The last piece of the puzzle for v1.5 is hidden away! Google now request that developers target the latest version of Android, so had requested I ensured my SDK target was updated to level 33&hellip;which I&rsquo;m sure sounds rather boring, but as part of this I also updated the underlying Flutter version I was using and updated <em>some</em> of the libraries the app makes use of to function - all hidden away under the hood, but hopefully it&rsquo;ll make for a smoother app experience!</p>
+<h3 id="what-about-version-14">
+  What about version 1.4?
+  <a class="heading-link" href="#what-about-version-14">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>I mentioned at the start that I&rsquo;d forgotten to provide an update when I release WristCheck v1.4, so figure I&rsquo;ll add a quick update here to close out the post.</p>
+<p>Version 1.4 was probably the most important release of the app since I launched it, as it included integrating the RevenueCat SDK to allow me to set up some simple in-app purchases within the app - this really deserves it&rsquo;s own separate post (as I also integrated this into Air Fryr). I&rsquo;ll write up a full post about monetisation (as a follow up to my previous advertising revenue one), but from a WristCheck point of view, the key change in v1.4 was the ability for a user to choose their own price for the app to become ad-free.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2019 -
+    
+    2024
+     Grant Hutchison 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

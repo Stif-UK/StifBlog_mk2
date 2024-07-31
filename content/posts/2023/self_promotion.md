@@ -18,7 +18,7 @@ So, as well as releasing updates to both [WristCheck](/posts/wristcheck_v1.5_rel
 
 First, now that my apps have _broken even_ (another long overdue post! Since monetising the apps I've earned enough to cover my annual development fees, but I'm a _long way_ from what I'd call 'profitable'!) I thought I'd spend a little and register some domains for the apps.
 
-Starting with [getAirFryr.com](https://www.getairfryr.com) and then following the same pattern with [wristcheck.app](https://www.wristcheck.app).
+Starting with [getAirFryr.com](https://www.getairfryr.com) and then following the same pattern with [wristtrack.app](https://www.wristtrack.app).
 
 If you've clicked on the links above you'll see that not only have I registered the domains, but I've put up landing pages for each app too! I found a super simple Jekyll template created by [Emil Baehr](https://emilbaehr.com/) which let me create simple homepages for the apps really easily - it was as simple as forking his repository on github, changing some config and page content and then publishing via github pages (which also means they're currently free to host!).
 
@@ -30,7 +30,7 @@ The next step in my _master plan_ (lol!) was to create a social media presence f
 
 To start with, I set up an [Instagram account](https://www.instagram.com/getairfryr/) for Air Fryr - as I built the app to help me get the most from my air fryer, it probably comes as no surprise that I use it to cook a lot, so I thought I could capture and share lots of pictures and short, poorly filmed videos (I've only posted a couple so far, which have had about 150 views each) - for Air Fryr I think I'll also branch out to TikTok as it seems fitting.
 
-For WristCheck I've done something similar, but with more of a focus on just sharing pictures - I often post watch shots to some Facebook groups already, so all I'm really doing here is the same but now I've got a wee dedicated [Instagram corner](https://www.instagram.com/wristcheck.app/) to do it in!
+For WristCheck I've done something similar, but with more of a focus on just sharing pictures - I often post watch shots to some Facebook groups already, so all I'm really doing here is the same but now I've got a wee dedicated [Instagram corner](https://www.instagram.com/wristtrack.app/) to do it in!
 
 I've also set up a profile for WristCheck on the social media platform formerly known as [Twitter](https://twitter.com/WristcheckApp).
 
