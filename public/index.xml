@@ -6,8 +6,15 @@
     <description>Recent content on granthutchison</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jul 2024 12:48:13 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://granthutchison.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shiny New Things!</title>
+      <link>http://granthutchison.com/posts/2024/shiny-new-things/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://granthutchison.com/posts/2024/shiny-new-things/</guid>
+      <description>It&amp;rsquo;s fast approaching a year since I last wrote about how much money my little app side hustle was bringing in, and how I had (at that point) reached a basic &amp;lsquo;break even&amp;rsquo; point, which I defined as &amp;lsquo;my app bills for year paid&amp;rsquo; i.e. bringing in enough to cover the price of my annual Apple developer subscription, covering my one off Google Play developer bill and covering the cost of setting up some domains I purchased as app landing pages.</description>
+    </item>
     <item>
       <title>A New Start</title>
       <link>http://granthutchison.com/posts/2024/a-new-start/</link>
@@ -132,7 +139,7 @@
       <link>http://granthutchison.com/about/</link>
       <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://granthutchison.com/about/</guid>
-      <description>Scrum Master // Developer // GeekDad Link to heading Hi, my name is Grant and I created this place so that I had somewhere to dump my thoughts and share my projects on the internet.&#xA;By day I&amp;rsquo;m a Scrum Master at a large UK bank, helping to transform our business and digital delivery to be more Agile.&#xA;I love the work that I do and the people that I do it with - as with many who work with Agile methodologies I&amp;rsquo;m passionate about working smarter to deliver better outcomes faster for our users and stakeholders.</description>
+      <description>Scrum Master // Flutter Developer // GeekDad Link to heading Hi, my name is Grant and this is where I write about stuff I like and stuff I do.&#xA;By day I&amp;rsquo;m a Scrum Master at a large UK bank, working to transform our business and digital delivery to be more Agile (a term some seem to dislike!)&#xA;I love the work that I do and the people that I do it with - as with many who work with Agile methodologies I&amp;rsquo;m passionate about working smarter, with a focus on value to deliver better outcomes, faster for our users and stakeholders.</description>
     </item>
     <item>
       <title>WristTrack - An app for watch enthusiasts</title>
